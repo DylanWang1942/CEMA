@@ -1,0 +1,7240 @@
+#module 0 size: 10 bs: 0.0391755
+16 21 22 50 52 55 69 78 84 85 
+#module 1 size: 6 bs: 1.03685e-005
+33 40 48 63 74 77 
+#module 2 size: 2 bs: 0.0119337
+26 89 
+#module 3 size: 2 bs: 0.0783161
+29 30 
+#module 4 size: 2 bs: 0.0378957
+49 54 
+#module 5 size: 17 bs: 0.000154978
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 6 size: 2 bs: 0.00130671
+92 93 
+#module 7 size: 2 bs: 0.0597314
+94 95 
+#module 8 size: 2 bs: 0.0597315
+96 97 
+#module 9 size: 2 bs: 0.000139367
+98 99 
+#module 10 size: 2 bs: 0.00995837
+100 101 
+#module 11 size: 2 bs: 0.00061382
+102 103 
+#module 12 size: 4 bs: 1.5099e-014
+104 105 106 119 
+#module 13 size: 3 bs: 0.045739
+107 108 136 
+#module 14 size: 2 bs: 0.045739
+109 110 
+#module 15 size: 2 bs: 0.0457391
+111 112 
+#module 16 size: 2 bs: 0.045739
+113 114 
+#module 17 size: 2 bs: 0.0457391
+115 116 
+#module 18 size: 2 bs: 0.045739
+117 118 
+#module 19 size: 2 bs: 0.0454645
+120 121 
+#module 20 size: 2 bs: 0.045602
+122 123 
+#module 21 size: 2 bs: 0.045739
+124 125 
+#module 22 size: 2 bs: 0.045739
+126 127 
+#module 23 size: 2 bs: 0.045739
+128 129 
+#module 24 size: 2 bs: 0.045739
+130 131 
+#module 25 size: 2 bs: 0.0457391
+132 133 
+#module 26 size: 2 bs: 0.0457391
+134 135 
+#module 27 size: 2 bs: 0.045739
+137 138 
+#module 28 size: 2 bs: 0.045739
+139 140 
+#module 29 size: 2 bs: 0.045739
+141 142 
+#module 30 size: 2 bs: 0.045739
+143 144 
+#module 31 size: 2 bs: 0.045739
+145 146 
+#module 32 size: 2 bs: 0.045739
+147 148 
+#module 33 size: 2 bs: 0.0457391
+149 150 
+#module 34 size: 2 bs: 0.0457391
+151 152 
+#module 35 size: 2 bs: 0.0457391
+153 154 
+#module 36 size: 3 bs: 0.045739
+155 156 157 
+#module 37 size: 2 bs: 0.0457391
+158 159 
+#module 38 size: 2 bs: 0.0457391
+160 161 
+#module 39 size: 2 bs: 0.045739
+162 163 
+#module 40 size: 4 bs: 0.0457391
+164 165 166 177 
+#module 41 size: 2 bs: 0.0457391
+167 168 
+#module 42 size: 2 bs: 0.045739
+169 170 
+#module 43 size: 2 bs: 0.045602
+171 172 
+#module 44 size: 2 bs: 0.0457391
+173 174 
+#module 45 size: 2 bs: 0.045739
+175 176 
+#module 46 size: 2 bs: 0.045739
+178 179 
+#module 47 size: 2 bs: 0.0454645
+180 181 
+#module 48 size: 2 bs: 0.045739
+182 183 
+#module 49 size: 2 bs: 0.045739
+184 185 
+#module 50 size: 3 bs: 0.045739
+186 187 188 
+#module 51 size: 2 bs: 0.045739
+189 190 
+#module 52 size: 2 bs: 0.0457391
+191 192 
+#module 53 size: 2 bs: 0.045739
+193 194 
+#module 54 size: 2 bs: 0.045739
+195 196 
+#module 55 size: 2 bs: 0.045739
+197 198 
+#module 56 size: 2 bs: 0.045739
+199 200 
+#module 57 size: 2 bs: 0.0456019
+201 202 
+#module 58 size: 2 bs: 0.045739
+203 204 
+#module 59 size: 2 bs: 0.0457391
+205 206 
+#module 60 size: 2 bs: 0.0457391
+207 208 
+#module 61 size: 2 bs: 0.0457391
+209 210 
+#module 62 size: 2 bs: 0.0457391
+211 212 
+#module 63 size: 2 bs: 0.0457391
+213 214 
+#module 64 size: 2 bs: 0.045739
+215 216 
+#module 65 size: 2 bs: 0.045739
+217 218 
+#module 66 size: 2 bs: 0.045739
+219 220 
+#module 67 size: 2 bs: 0.045739
+221 222 
+#module 68 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 69 size: 3 bs: 3.17359e-005
+45 62 67 
+#module 70 size: 2 bs: 1.90403e-013
+32 47 
+#module 71 size: 2 bs: 0.00316502
+43 82 
+#module 72 size: 2 bs: 0.0317432
+19 51 
+#module 0 size: 10 bs: 0.0119337
+16 21 22 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 0.0107508
+49 54 
+#module 2 size: 2 bs: 1.03685e-005
+26 89 
+#module 3 size: 2 bs: 0.0249185
+29 30 
+#module 4 size: 17 bs: 0.000341494
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 5 size: 2 bs: 0.0378958
+92 93 
+#module 6 size: 2 bs: 0.000154978
+94 95 
+#module 7 size: 2 bs: 0.00130671
+96 97 
+#module 8 size: 2 bs: 1.5099e-014
+98 99 
+#module 9 size: 2 bs: 0.0597315
+100 101 
+#module 10 size: 2 bs: 0.0101192
+102 103 
+#module 11 size: 4 bs: 0.00061382
+104 105 106 119 
+#module 12 size: 3 bs: 1.5099e-014
+107 108 136 
+#module 13 size: 2 bs: 0.000139367
+109 110 
+#module 14 size: 2 bs: 0.045739
+111 112 
+#module 15 size: 2 bs: 0.0457391
+113 114 
+#module 16 size: 2 bs: 0.0457391
+115 116 
+#module 17 size: 2 bs: 0.0457391
+117 118 
+#module 18 size: 2 bs: 0.045739
+120 121 
+#module 19 size: 2 bs: 0.045739
+122 123 
+#module 20 size: 2 bs: 0.0454645
+124 125 
+#module 21 size: 2 bs: 0.045602
+126 127 
+#module 22 size: 2 bs: 0.0457391
+128 129 
+#module 23 size: 2 bs: 0.0457391
+130 131 
+#module 24 size: 2 bs: 0.045739
+132 133 
+#module 25 size: 2 bs: 0.0457391
+134 135 
+#module 26 size: 2 bs: 0.045739
+137 138 
+#module 27 size: 2 bs: 0.0457391
+139 140 
+#module 28 size: 2 bs: 0.045739
+141 142 
+#module 29 size: 2 bs: 0.0457391
+143 144 
+#module 30 size: 2 bs: 0.0457391
+145 146 
+#module 31 size: 2 bs: 0.045739
+147 148 
+#module 32 size: 2 bs: 0.045739
+149 150 
+#module 33 size: 2 bs: 0.0457391
+151 152 
+#module 34 size: 2 bs: 0.0457391
+153 154 
+#module 35 size: 3 bs: 0.0457391
+155 156 157 
+#module 36 size: 2 bs: 0.045739
+158 159 
+#module 37 size: 2 bs: 0.0457391
+160 161 
+#module 38 size: 2 bs: 0.045739
+162 163 
+#module 39 size: 4 bs: 0.0457391
+164 165 166 177 
+#module 40 size: 2 bs: 0.0457391
+167 168 
+#module 41 size: 2 bs: 0.0457391
+169 170 
+#module 42 size: 2 bs: 0.045739
+171 172 
+#module 43 size: 2 bs: 0.0457391
+173 174 
+#module 44 size: 2 bs: 0.0456019
+175 176 
+#module 45 size: 2 bs: 0.0457391
+178 179 
+#module 46 size: 2 bs: 0.045739
+180 181 
+#module 47 size: 2 bs: 0.045739
+182 183 
+#module 48 size: 2 bs: 0.0454645
+184 185 
+#module 49 size: 3 bs: 0.0457391
+186 187 188 
+#module 50 size: 2 bs: 0.045739
+189 190 
+#module 51 size: 2 bs: 0.045739
+191 192 
+#module 52 size: 2 bs: 0.045739
+193 194 
+#module 53 size: 2 bs: 0.0457391
+195 196 
+#module 54 size: 2 bs: 0.045739
+197 198 
+#module 55 size: 2 bs: 0.0457391
+199 200 
+#module 56 size: 2 bs: 0.045739
+201 202 
+#module 57 size: 2 bs: 0.045739
+203 204 
+#module 58 size: 2 bs: 0.0456019
+205 206 
+#module 59 size: 2 bs: 0.045739
+207 208 
+#module 60 size: 2 bs: 0.0457391
+209 210 
+#module 61 size: 2 bs: 0.0457391
+211 212 
+#module 62 size: 2 bs: 0.045739
+213 214 
+#module 63 size: 2 bs: 0.045739
+215 216 
+#module 64 size: 2 bs: 0.0457391
+217 218 
+#module 65 size: 2 bs: 0.0457391
+219 220 
+#module 66 size: 2 bs: 0.045739
+221 222 
+#module 67 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 68 size: 3 bs: 3.17359e-005
+45 62 67 
+#module 69 size: 2 bs: 1.90403e-013
+32 47 
+#module 70 size: 2 bs: 0.00316501
+43 82 
+#module 71 size: 7 bs: 0.0249599
+33 40 48 63 74 77 91 
+#module 0 size: 10 bs: 0.0391755
+16 21 22 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 1.03685e-005
+26 89 
+#module 2 size: 2 bs: 0.0119337
+29 30 
+#module 3 size: 2 bs: 1.5099e-014
+49 54 
+#module 4 size: 17 bs: 0.0378957
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 5 size: 2 bs: 0.000154978
+92 93 
+#module 6 size: 2 bs: 0.00130671
+94 95 
+#module 7 size: 2 bs: 1.5099e-014
+96 97 
+#module 8 size: 2 bs: 0.0597315
+98 99 
+#module 9 size: 2 bs: 0.0597315
+100 101 
+#module 10 size: 2 bs: 0.000139367
+102 103 
+#module 11 size: 4 bs: 0.0249185
+104 105 106 119 
+#module 12 size: 3 bs: 0.000613821
+107 108 136 
+#module 13 size: 2 bs: 0.0457391
+109 110 
+#module 14 size: 2 bs: 0.0457391
+111 112 
+#module 15 size: 2 bs: 0.0457391
+113 114 
+#module 16 size: 2 bs: 0.045739
+115 116 
+#module 17 size: 2 bs: 0.045739
+117 118 
+#module 18 size: 2 bs: 0.0457391
+120 121 
+#module 19 size: 2 bs: 0.0454645
+122 123 
+#module 20 size: 2 bs: 0.0454645
+124 125 
+#module 21 size: 2 bs: 0.0456019
+126 127 
+#module 22 size: 2 bs: 0.045739
+128 129 
+#module 23 size: 2 bs: 0.045739
+130 131 
+#module 24 size: 2 bs: 0.0457391
+132 133 
+#module 25 size: 2 bs: 0.0457391
+134 135 
+#module 26 size: 2 bs: 0.045739
+137 138 
+#module 27 size: 2 bs: 0.0457391
+139 140 
+#module 28 size: 2 bs: 0.045739
+141 142 
+#module 29 size: 2 bs: 0.045739
+143 144 
+#module 30 size: 2 bs: 0.045739
+145 146 
+#module 31 size: 2 bs: 0.0457391
+147 148 
+#module 32 size: 2 bs: 0.0457391
+149 150 
+#module 33 size: 2 bs: 0.045739
+151 152 
+#module 34 size: 2 bs: 0.0457391
+153 154 
+#module 35 size: 3 bs: 0.0457391
+155 156 157 
+#module 36 size: 2 bs: 0.0457391
+158 159 
+#module 37 size: 2 bs: 0.045739
+160 161 
+#module 38 size: 2 bs: 0.045739
+162 163 
+#module 39 size: 4 bs: 0.045739
+164 165 166 177 
+#module 40 size: 2 bs: 0.045739
+167 168 
+#module 41 size: 2 bs: 0.045739
+169 170 
+#module 42 size: 2 bs: 0.0457391
+171 172 
+#module 43 size: 2 bs: 0.0457391
+173 174 
+#module 44 size: 2 bs: 0.045602
+175 176 
+#module 45 size: 2 bs: 0.0457391
+178 179 
+#module 46 size: 2 bs: 0.0457391
+180 181 
+#module 47 size: 2 bs: 0.045739
+182 183 
+#module 48 size: 2 bs: 0.0454645
+184 185 
+#module 49 size: 3 bs: 0.045739
+186 187 188 
+#module 50 size: 2 bs: 0.045739
+189 190 
+#module 51 size: 2 bs: 0.0457391
+191 192 
+#module 52 size: 2 bs: 0.045739
+193 194 
+#module 53 size: 2 bs: 0.045739
+195 196 
+#module 54 size: 2 bs: 0.045739
+197 198 
+#module 55 size: 2 bs: 0.045739
+199 200 
+#module 56 size: 2 bs: 0.0457391
+201 202 
+#module 57 size: 2 bs: 0.0457391
+203 204 
+#module 58 size: 2 bs: 0.0456019
+205 206 
+#module 59 size: 2 bs: 0.045739
+207 208 
+#module 60 size: 2 bs: 0.045739
+209 210 
+#module 61 size: 2 bs: 0.0457391
+211 212 
+#module 62 size: 2 bs: 0.045739
+213 214 
+#module 63 size: 2 bs: 0.0457391
+215 216 
+#module 64 size: 2 bs: 0.045739
+217 218 
+#module 65 size: 2 bs: 0.0457391
+219 220 
+#module 66 size: 2 bs: 0.0457391
+221 222 
+#module 67 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 68 size: 3 bs: 3.17359e-005
+45 62 67 
+#module 69 size: 2 bs: 1.38445e-013
+32 47 
+#module 70 size: 2 bs: 0.00316502
+43 82 
+#module 71 size: 3 bs: 8.29878e-006
+74 77 91 
+#module 72 size: 2 bs: 0.0317432
+19 51 
+#module 73 size: 4 bs: 0.00159349
+33 40 48 63 
+#module 0 size: 10 bs: 0.0119338
+16 21 22 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 0.0391755
+49 54 
+#module 2 size: 6 bs: 1.03685e-005
+33 40 48 63 74 77 
+#module 3 size: 2 bs: 0.00995838
+29 30 
+#module 4 size: 17 bs: 6.88609e-011
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 5 size: 2 bs: 0.000154978
+92 93 
+#module 6 size: 2 bs: 0.00103146
+94 95 
+#module 7 size: 2 bs: 0.0597315
+96 97 
+#module 8 size: 2 bs: 0.0597314
+98 99 
+#module 9 size: 2 bs: 0.000139367
+100 101 
+#module 10 size: 2 bs: 0.000613821
+102 103 
+#module 11 size: 4 bs: 1.5099e-014
+104 105 106 119 
+#module 12 size: 3 bs: 0.045739
+107 108 136 
+#module 13 size: 2 bs: 0.045739
+109 110 
+#module 14 size: 2 bs: 0.0457391
+111 112 
+#module 15 size: 2 bs: 0.045739
+113 114 
+#module 16 size: 2 bs: 0.045739
+115 116 
+#module 17 size: 2 bs: 0.045739
+117 118 
+#module 18 size: 2 bs: 0.0454645
+120 121 
+#module 19 size: 2 bs: 0.0456019
+122 123 
+#module 20 size: 2 bs: 0.045739
+124 125 
+#module 21 size: 2 bs: 0.045739
+126 127 
+#module 22 size: 2 bs: 0.0457391
+128 129 
+#module 23 size: 2 bs: 0.045739
+130 131 
+#module 24 size: 2 bs: 0.045739
+132 133 
+#module 25 size: 2 bs: 0.0457391
+134 135 
+#module 26 size: 2 bs: 0.045739
+137 138 
+#module 27 size: 2 bs: 0.045739
+139 140 
+#module 28 size: 2 bs: 0.0457391
+141 142 
+#module 29 size: 2 bs: 0.0457391
+143 144 
+#module 30 size: 2 bs: 0.045739
+145 146 
+#module 31 size: 2 bs: 0.0457391
+147 148 
+#module 32 size: 2 bs: 0.045739
+149 150 
+#module 33 size: 2 bs: 0.045739
+151 152 
+#module 34 size: 2 bs: 0.045739
+153 154 
+#module 35 size: 3 bs: 0.045739
+155 156 157 
+#module 36 size: 2 bs: 0.045739
+158 159 
+#module 37 size: 2 bs: 0.045739
+160 161 
+#module 38 size: 2 bs: 0.045739
+162 163 
+#module 39 size: 4 bs: 0.0457391
+164 165 166 177 
+#module 40 size: 2 bs: 0.0457391
+167 168 
+#module 41 size: 2 bs: 0.045739
+169 170 
+#module 42 size: 2 bs: 0.045602
+171 172 
+#module 43 size: 2 bs: 0.0457391
+173 174 
+#module 44 size: 2 bs: 0.045739
+175 176 
+#module 45 size: 2 bs: 0.045739
+178 179 
+#module 46 size: 2 bs: 0.0454645
+180 181 
+#module 47 size: 2 bs: 0.0454645
+182 183 
+#module 48 size: 2 bs: 0.045739
+184 185 
+#module 49 size: 3 bs: 0.045739
+186 187 188 
+#module 50 size: 2 bs: 0.0457391
+189 190 
+#module 51 size: 2 bs: 0.045739
+191 192 
+#module 52 size: 2 bs: 0.045739
+193 194 
+#module 53 size: 2 bs: 0.045739
+195 196 
+#module 54 size: 2 bs: 0.045739
+197 198 
+#module 55 size: 2 bs: 0.0457391
+199 200 
+#module 56 size: 2 bs: 0.045739
+201 202 
+#module 57 size: 2 bs: 0.0456019
+203 204 
+#module 58 size: 2 bs: 0.0457391
+205 206 
+#module 59 size: 2 bs: 0.045739
+207 208 
+#module 60 size: 2 bs: 0.0457391
+209 210 
+#module 61 size: 2 bs: 0.0457391
+211 212 
+#module 62 size: 2 bs: 0.0457391
+213 214 
+#module 63 size: 2 bs: 0.045739
+215 216 
+#module 64 size: 2 bs: 0.045739
+217 218 
+#module 65 size: 2 bs: 0.0457391
+219 220 
+#module 66 size: 2 bs: 0.045739
+221 222 
+#module 67 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 68 size: 3 bs: 3.17359e-005
+45 62 67 
+#module 69 size: 2 bs: 1.90403e-013
+32 47 
+#module 70 size: 2 bs: 0.00316501
+43 82 
+#module 0 size: 10 bs: 0.0391755
+16 21 22 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 1.03685e-005
+29 30 
+#module 2 size: 2 bs: 0.0158845
+49 54 
+#module 3 size: 17 bs: 1.5099e-014
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 4 size: 2 bs: 0.000139367
+92 93 
+#module 5 size: 2 bs: 0.000154978
+94 95 
+#module 6 size: 2 bs: 0.00130671
+96 97 
+#module 7 size: 2 bs: 1.5099e-014
+98 99 
+#module 8 size: 2 bs: 0.0597315
+100 101 
+#module 9 size: 2 bs: 9.85056e-005
+102 103 
+#module 10 size: 4 bs: 0.00995837
+104 105 106 119 
+#module 11 size: 3 bs: 0.000613821
+107 108 136 
+#module 12 size: 2 bs: 0.045739
+109 110 
+#module 13 size: 2 bs: 0.0457391
+111 112 
+#module 14 size: 2 bs: 0.045739
+113 114 
+#module 15 size: 2 bs: 0.0457391
+115 116 
+#module 16 size: 2 bs: 0.045739
+117 118 
+#module 17 size: 2 bs: 0.0457391
+120 121 
+#module 18 size: 2 bs: 0.0454645
+122 123 
+#module 19 size: 2 bs: 0.0456019
+124 125 
+#module 20 size: 2 bs: 0.0457391
+126 127 
+#module 21 size: 2 bs: 0.0457391
+128 129 
+#module 22 size: 2 bs: 0.0457391
+130 131 
+#module 23 size: 2 bs: 0.0457391
+132 133 
+#module 24 size: 2 bs: 0.045739
+134 135 
+#module 25 size: 2 bs: 0.0457391
+137 138 
+#module 26 size: 2 bs: 0.045739
+139 140 
+#module 27 size: 2 bs: 0.0457391
+141 142 
+#module 28 size: 2 bs: 0.045739
+143 144 
+#module 29 size: 2 bs: 0.045739
+145 146 
+#module 30 size: 2 bs: 0.0457391
+147 148 
+#module 31 size: 2 bs: 0.045739
+149 150 
+#module 32 size: 2 bs: 0.045739
+151 152 
+#module 33 size: 2 bs: 0.0457391
+153 154 
+#module 34 size: 3 bs: 0.045739
+155 156 157 
+#module 35 size: 2 bs: 0.045739
+158 159 
+#module 36 size: 2 bs: 0.045739
+160 161 
+#module 37 size: 2 bs: 0.045739
+162 163 
+#module 38 size: 4 bs: 0.045739
+164 165 166 177 
+#module 39 size: 2 bs: 0.045739
+167 168 
+#module 40 size: 2 bs: 0.045739
+169 170 
+#module 41 size: 2 bs: 0.045739
+171 172 
+#module 42 size: 2 bs: 0.0456019
+173 174 
+#module 43 size: 2 bs: 0.0457391
+175 176 
+#module 44 size: 2 bs: 0.0457391
+178 179 
+#module 45 size: 2 bs: 0.045739
+180 181 
+#module 46 size: 2 bs: 0.0454645
+182 183 
+#module 47 size: 2 bs: 0.0457391
+184 185 
+#module 48 size: 3 bs: 0.045739
+186 187 188 
+#module 49 size: 2 bs: 0.0457391
+189 190 
+#module 50 size: 2 bs: 0.0457391
+191 192 
+#module 51 size: 2 bs: 0.045739
+193 194 
+#module 52 size: 2 bs: 0.045739
+195 196 
+#module 53 size: 2 bs: 0.045739
+197 198 
+#module 54 size: 2 bs: 0.045739
+199 200 
+#module 55 size: 2 bs: 0.0457391
+201 202 
+#module 56 size: 2 bs: 0.0456019
+203 204 
+#module 57 size: 2 bs: 0.045739
+205 206 
+#module 58 size: 2 bs: 0.045739
+207 208 
+#module 59 size: 2 bs: 0.045739
+209 210 
+#module 60 size: 2 bs: 0.0457391
+211 212 
+#module 61 size: 2 bs: 0.0457391
+213 214 
+#module 62 size: 2 bs: 0.045739
+215 216 
+#module 63 size: 2 bs: 0.0457391
+217 218 
+#module 64 size: 2 bs: 0.045739
+219 220 
+#module 65 size: 2 bs: 0.0457391
+221 222 
+#module 66 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 67 size: 6 bs: 0.0179958
+45 62 67 70 71 87 
+#module 68 size: 2 bs: 1.38445e-013
+32 47 
+#module 69 size: 2 bs: 0.00316501
+43 82 
+#module 70 size: 7 bs: 0.0249599
+33 40 48 63 74 77 91 
+#module 71 size: 2 bs: 0.0317432
+19 51 
+#module 0 size: 10 bs: 0.0391754
+16 21 22 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 0.0119337
+26 89 
+#module 2 size: 2 bs: 0.0158845
+29 30 
+#module 3 size: 2 bs: 0.0597314
+49 54 
+#module 4 size: 17 bs: 0.00572623
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 5 size: 2 bs: 0.000139367
+92 93 
+#module 6 size: 2 bs: 0.000154978
+94 95 
+#module 7 size: 2 bs: 0.00130671
+96 97 
+#module 8 size: 2 bs: 1.5099e-014
+98 99 
+#module 9 size: 2 bs: 0.0597315
+100 101 
+#module 10 size: 2 bs: 0.0249185
+102 103 
+#module 11 size: 4 bs: 0.000613821
+104 105 106 119 
+#module 12 size: 3 bs: 1.5099e-014
+107 108 136 
+#module 13 size: 2 bs: 0.045739
+109 110 
+#module 14 size: 2 bs: 0.045739
+111 112 
+#module 15 size: 2 bs: 0.045739
+113 114 
+#module 16 size: 2 bs: 0.045739
+115 116 
+#module 17 size: 2 bs: 0.045739
+117 118 
+#module 18 size: 2 bs: 0.0457391
+120 121 
+#module 19 size: 2 bs: 0.0454645
+122 123 
+#module 20 size: 2 bs: 0.0456019
+124 125 
+#module 21 size: 2 bs: 0.045739
+126 127 
+#module 22 size: 2 bs: 0.045739
+128 129 
+#module 23 size: 2 bs: 0.045739
+130 131 
+#module 24 size: 2 bs: 0.045739
+132 133 
+#module 25 size: 2 bs: 0.0457391
+134 135 
+#module 26 size: 2 bs: 0.045739
+137 138 
+#module 27 size: 2 bs: 0.045739
+139 140 
+#module 28 size: 2 bs: 0.045739
+141 142 
+#module 29 size: 2 bs: 0.045739
+143 144 
+#module 30 size: 2 bs: 0.0457391
+145 146 
+#module 31 size: 2 bs: 0.045739
+147 148 
+#module 32 size: 2 bs: 0.0457391
+149 150 
+#module 33 size: 2 bs: 0.045739
+151 152 
+#module 34 size: 2 bs: 0.045739
+153 154 
+#module 35 size: 3 bs: 0.045739
+155 156 157 
+#module 36 size: 2 bs: 0.045739
+158 159 
+#module 37 size: 2 bs: 0.045739
+160 161 
+#module 38 size: 2 bs: 0.0457391
+162 163 
+#module 39 size: 4 bs: 0.045739
+164 165 166 177 
+#module 40 size: 2 bs: 0.0457391
+167 168 
+#module 41 size: 2 bs: 0.045739
+169 170 
+#module 42 size: 2 bs: 0.045739
+171 172 
+#module 43 size: 2 bs: 0.0456019
+173 174 
+#module 44 size: 2 bs: 0.045739
+175 176 
+#module 45 size: 2 bs: 0.0457391
+178 179 
+#module 46 size: 2 bs: 0.045739
+180 181 
+#module 47 size: 2 bs: 0.0454645
+182 183 
+#module 48 size: 2 bs: 0.045739
+184 185 
+#module 49 size: 3 bs: 0.0457391
+186 187 188 
+#module 50 size: 2 bs: 0.045739
+189 190 
+#module 51 size: 2 bs: 0.045739
+191 192 
+#module 52 size: 2 bs: 0.045739
+193 194 
+#module 53 size: 2 bs: 0.045739
+195 196 
+#module 54 size: 2 bs: 0.0457391
+197 198 
+#module 55 size: 2 bs: 0.0457391
+199 200 
+#module 56 size: 2 bs: 0.045739
+201 202 
+#module 57 size: 2 bs: 0.0456019
+203 204 
+#module 58 size: 2 bs: 0.0457391
+205 206 
+#module 59 size: 2 bs: 0.0457391
+207 208 
+#module 60 size: 2 bs: 0.0457391
+209 210 
+#module 61 size: 2 bs: 0.0457391
+211 212 
+#module 62 size: 2 bs: 0.045739
+213 214 
+#module 63 size: 2 bs: 0.0457391
+215 216 
+#module 64 size: 2 bs: 0.045739
+217 218 
+#module 65 size: 2 bs: 0.0457391
+219 220 
+#module 66 size: 2 bs: 0.045739
+221 222 
+#module 67 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 68 size: 3 bs: 3.17359e-005
+45 62 67 
+#module 69 size: 2 bs: 1.38445e-013
+32 47 
+#module 70 size: 2 bs: 0.00316501
+43 82 
+#module 71 size: 7 bs: 0.0249599
+33 40 48 63 74 77 91 
+#module 72 size: 2 bs: 0.0317431
+19 51 
+#module 0 size: 2 bs: 0.0391755
+49 54 
+#module 1 size: 11 bs: 1.03685e-005
+16 21 22 37 50 52 55 69 78 84 85 
+#module 2 size: 2 bs: 0.00995836
+26 89 
+#module 3 size: 2 bs: 0.0712799
+29 30 
+#module 4 size: 17 bs: 0.0597315
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 5 size: 2 bs: 0.00572623
+92 93 
+#module 6 size: 2 bs: 0.000139367
+94 95 
+#module 7 size: 2 bs: 0.000154978
+96 97 
+#module 8 size: 2 bs: 0.00130671
+98 99 
+#module 9 size: 2 bs: 1.5099e-014
+100 101 
+#module 10 size: 2 bs: 9.85055e-005
+102 103 
+#module 11 size: 4 bs: 0.000613821
+104 105 106 119 
+#module 12 size: 3 bs: 1.5099e-014
+107 108 136 
+#module 13 size: 2 bs: 0.045739
+109 110 
+#module 14 size: 2 bs: 0.045739
+111 112 
+#module 15 size: 2 bs: 0.045739
+113 114 
+#module 16 size: 2 bs: 0.045739
+115 116 
+#module 17 size: 2 bs: 0.0457391
+117 118 
+#module 18 size: 2 bs: 0.0457391
+120 121 
+#module 19 size: 2 bs: 0.0454645
+122 123 
+#module 20 size: 2 bs: 0.045602
+124 125 
+#module 21 size: 2 bs: 0.045739
+126 127 
+#module 22 size: 2 bs: 0.045739
+128 129 
+#module 23 size: 2 bs: 0.045739
+130 131 
+#module 24 size: 2 bs: 0.045739
+132 133 
+#module 25 size: 2 bs: 0.045739
+134 135 
+#module 26 size: 2 bs: 0.0457391
+137 138 
+#module 27 size: 2 bs: 0.0457391
+139 140 
+#module 28 size: 2 bs: 0.045739
+141 142 
+#module 29 size: 2 bs: 0.045739
+143 144 
+#module 30 size: 2 bs: 0.045739
+145 146 
+#module 31 size: 2 bs: 0.0457391
+147 148 
+#module 32 size: 2 bs: 0.045739
+149 150 
+#module 33 size: 2 bs: 0.045739
+151 152 
+#module 34 size: 2 bs: 0.045739
+153 154 
+#module 35 size: 3 bs: 0.0457391
+155 156 157 
+#module 36 size: 2 bs: 0.0457391
+158 159 
+#module 37 size: 2 bs: 0.0457391
+160 161 
+#module 38 size: 2 bs: 0.045739
+162 163 
+#module 39 size: 4 bs: 0.045739
+164 165 166 177 
+#module 40 size: 2 bs: 0.0457391
+167 168 
+#module 41 size: 2 bs: 0.0457391
+169 170 
+#module 42 size: 2 bs: 0.045739
+171 172 
+#module 43 size: 2 bs: 0.0456019
+173 174 
+#module 44 size: 2 bs: 0.0457391
+175 176 
+#module 45 size: 2 bs: 0.0457391
+178 179 
+#module 46 size: 2 bs: 0.045739
+180 181 
+#module 47 size: 2 bs: 0.0454645
+182 183 
+#module 48 size: 2 bs: 0.045739
+184 185 
+#module 49 size: 3 bs: 0.0457391
+186 187 188 
+#module 50 size: 2 bs: 0.045739
+189 190 
+#module 51 size: 2 bs: 0.0457391
+191 192 
+#module 52 size: 2 bs: 0.0457391
+193 194 
+#module 53 size: 2 bs: 0.0457391
+195 196 
+#module 54 size: 2 bs: 0.045739
+197 198 
+#module 55 size: 2 bs: 0.045739
+199 200 
+#module 56 size: 2 bs: 0.0457391
+201 202 
+#module 57 size: 2 bs: 0.0456019
+203 204 
+#module 58 size: 2 bs: 0.045739
+205 206 
+#module 59 size: 2 bs: 0.0457391
+207 208 
+#module 60 size: 2 bs: 0.045739
+209 210 
+#module 61 size: 2 bs: 0.0457391
+211 212 
+#module 62 size: 2 bs: 0.0457391
+213 214 
+#module 63 size: 2 bs: 0.045739
+215 216 
+#module 64 size: 2 bs: 0.0457391
+217 218 
+#module 65 size: 2 bs: 0.0457391
+219 220 
+#module 66 size: 2 bs: 0.045739
+221 222 
+#module 67 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 68 size: 6 bs: 0.0179958
+45 62 67 70 71 87 
+#module 69 size: 2 bs: 1.38445e-013
+32 47 
+#module 70 size: 2 bs: 0.00316501
+43 82 
+#module 71 size: 7 bs: 0.0249599
+33 40 48 63 74 77 91 
+#module 0 size: 10 bs: 0.0391755
+16 21 22 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 1.47264e-006
+26 89 
+#module 2 size: 2 bs: 0.0119337
+29 30 
+#module 3 size: 2 bs: 0.00572624
+49 54 
+#module 4 size: 17 bs: 0.000139367
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 5 size: 2 bs: 0.000154978
+92 93 
+#module 6 size: 2 bs: 0.00103146
+94 95 
+#module 7 size: 2 bs: 1.5099e-014
+96 97 
+#module 8 size: 2 bs: 0.0597315
+98 99 
+#module 9 size: 2 bs: 0.0597315
+100 101 
+#module 10 size: 2 bs: 0.00995837
+102 103 
+#module 11 size: 4 bs: 0.00061382
+104 105 106 119 
+#module 12 size: 3 bs: 1.5099e-014
+107 108 136 
+#module 13 size: 2 bs: 0.045739
+109 110 
+#module 14 size: 2 bs: 0.045739
+111 112 
+#module 15 size: 2 bs: 0.045739
+113 114 
+#module 16 size: 2 bs: 0.045739
+115 116 
+#module 17 size: 2 bs: 0.045739
+117 118 
+#module 18 size: 2 bs: 0.0457391
+120 121 
+#module 19 size: 2 bs: 0.0454645
+122 123 
+#module 20 size: 2 bs: 0.045602
+124 125 
+#module 21 size: 2 bs: 0.045739
+126 127 
+#module 22 size: 2 bs: 0.045739
+128 129 
+#module 23 size: 2 bs: 0.045739
+130 131 
+#module 24 size: 2 bs: 0.045739
+132 133 
+#module 25 size: 2 bs: 0.045739
+134 135 
+#module 26 size: 2 bs: 0.045739
+137 138 
+#module 27 size: 2 bs: 0.0457391
+139 140 
+#module 28 size: 2 bs: 0.045739
+141 142 
+#module 29 size: 2 bs: 0.0457391
+143 144 
+#module 30 size: 2 bs: 0.045739
+145 146 
+#module 31 size: 2 bs: 0.045739
+147 148 
+#module 32 size: 2 bs: 0.0457391
+149 150 
+#module 33 size: 2 bs: 0.045739
+151 152 
+#module 34 size: 2 bs: 0.0457391
+153 154 
+#module 35 size: 3 bs: 0.0457391
+155 156 157 
+#module 36 size: 2 bs: 0.0457391
+158 159 
+#module 37 size: 2 bs: 0.0457391
+160 161 
+#module 38 size: 2 bs: 0.045739
+162 163 
+#module 39 size: 4 bs: 0.045739
+164 165 166 177 
+#module 40 size: 2 bs: 0.045739
+167 168 
+#module 41 size: 2 bs: 0.0457391
+169 170 
+#module 42 size: 2 bs: 0.045739
+171 172 
+#module 43 size: 2 bs: 0.0456019
+173 174 
+#module 44 size: 2 bs: 0.045739
+175 176 
+#module 45 size: 2 bs: 0.0457391
+178 179 
+#module 46 size: 2 bs: 0.0457391
+180 181 
+#module 47 size: 2 bs: 0.0454645
+182 183 
+#module 48 size: 2 bs: 0.0457391
+184 185 
+#module 49 size: 3 bs: 0.045739
+186 187 188 
+#module 50 size: 2 bs: 0.045739
+189 190 
+#module 51 size: 2 bs: 0.045739
+191 192 
+#module 52 size: 2 bs: 0.0457391
+193 194 
+#module 53 size: 2 bs: 0.0457391
+195 196 
+#module 54 size: 2 bs: 0.045739
+197 198 
+#module 55 size: 2 bs: 0.0457391
+199 200 
+#module 56 size: 2 bs: 0.045739
+201 202 
+#module 57 size: 2 bs: 0.0456019
+203 204 
+#module 58 size: 2 bs: 0.0457391
+205 206 
+#module 59 size: 2 bs: 0.045739
+207 208 
+#module 60 size: 2 bs: 0.045739
+209 210 
+#module 61 size: 2 bs: 0.0457391
+211 212 
+#module 62 size: 2 bs: 0.0457391
+213 214 
+#module 63 size: 2 bs: 0.0457391
+215 216 
+#module 64 size: 2 bs: 0.045739
+217 218 
+#module 65 size: 2 bs: 0.045739
+219 220 
+#module 66 size: 2 bs: 0.0457391
+221 222 
+#module 67 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 68 size: 3 bs: 3.1736e-005
+45 62 67 
+#module 69 size: 2 bs: 1.38445e-013
+32 47 
+#module 70 size: 2 bs: 0.00316501
+43 82 
+#module 71 size: 7 bs: 0.0249599
+33 40 48 63 74 77 91 
+#module 0 size: 2 bs: 0.0391754
+49 54 
+#module 1 size: 10 bs: 1.03685e-005
+16 21 22 50 52 55 69 78 84 85 
+#module 2 size: 2 bs: 0.00995836
+19 51 
+#module 3 size: 2 bs: 0.0119337
+26 89 
+#module 4 size: 2 bs: 0.0317432
+29 30 
+#module 5 size: 17 bs: 0.0378957
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 6 size: 2 bs: 0.000139367
+92 93 
+#module 7 size: 2 bs: 0.000154978
+94 95 
+#module 8 size: 2 bs: 0.00130671
+96 97 
+#module 9 size: 2 bs: 1.5099e-014
+98 99 
+#module 10 size: 2 bs: 0.0597315
+100 101 
+#module 11 size: 2 bs: 0.0597314
+102 103 
+#module 12 size: 4 bs: 0.000613822
+104 105 106 119 
+#module 13 size: 3 bs: 0.045739
+107 108 136 
+#module 14 size: 2 bs: 0.045739
+109 110 
+#module 15 size: 2 bs: 0.0457391
+111 112 
+#module 16 size: 2 bs: 0.045739
+113 114 
+#module 17 size: 2 bs: 0.0457391
+115 116 
+#module 18 size: 2 bs: 0.0457391
+117 118 
+#module 19 size: 2 bs: 0.0454645
+120 121 
+#module 20 size: 2 bs: 0.0456019
+122 123 
+#module 21 size: 2 bs: 0.045739
+124 125 
+#module 22 size: 2 bs: 0.0457391
+126 127 
+#module 23 size: 2 bs: 0.0457391
+128 129 
+#module 24 size: 2 bs: 0.0457391
+130 131 
+#module 25 size: 2 bs: 0.045739
+132 133 
+#module 26 size: 2 bs: 0.0457391
+134 135 
+#module 27 size: 2 bs: 0.0457391
+137 138 
+#module 28 size: 2 bs: 0.0457391
+139 140 
+#module 29 size: 2 bs: 0.0457391
+141 142 
+#module 30 size: 2 bs: 0.0457391
+143 144 
+#module 31 size: 2 bs: 0.045739
+145 146 
+#module 32 size: 2 bs: 0.045739
+147 148 
+#module 33 size: 2 bs: 0.045739
+149 150 
+#module 34 size: 2 bs: 0.045739
+151 152 
+#module 35 size: 2 bs: 0.045739
+153 154 
+#module 36 size: 3 bs: 0.0457391
+155 156 157 
+#module 37 size: 2 bs: 0.045739
+158 159 
+#module 38 size: 2 bs: 0.0457391
+160 161 
+#module 39 size: 2 bs: 0.0457391
+162 163 
+#module 40 size: 4 bs: 0.0457391
+164 165 166 177 
+#module 41 size: 2 bs: 0.045739
+167 168 
+#module 42 size: 2 bs: 0.0457391
+169 170 
+#module 43 size: 2 bs: 0.0456019
+171 172 
+#module 44 size: 2 bs: 0.045739
+173 174 
+#module 45 size: 2 bs: 0.045739
+175 176 
+#module 46 size: 2 bs: 0.045739
+178 179 
+#module 47 size: 2 bs: 0.0454645
+180 181 
+#module 48 size: 2 bs: 0.0457391
+182 183 
+#module 49 size: 2 bs: 0.045739
+184 185 
+#module 50 size: 3 bs: 0.045739
+186 187 188 
+#module 51 size: 2 bs: 0.045739
+189 190 
+#module 52 size: 2 bs: 0.045739
+191 192 
+#module 53 size: 2 bs: 0.0457391
+193 194 
+#module 54 size: 2 bs: 0.0457391
+195 196 
+#module 55 size: 2 bs: 0.0457391
+197 198 
+#module 56 size: 2 bs: 0.0457391
+199 200 
+#module 57 size: 2 bs: 0.0456019
+201 202 
+#module 58 size: 2 bs: 0.045739
+203 204 
+#module 59 size: 2 bs: 0.045739
+205 206 
+#module 60 size: 2 bs: 0.045739
+207 208 
+#module 61 size: 2 bs: 0.0457391
+209 210 
+#module 62 size: 2 bs: 0.045739
+211 212 
+#module 63 size: 2 bs: 0.045739
+213 214 
+#module 64 size: 2 bs: 0.045739
+215 216 
+#module 65 size: 2 bs: 0.0457391
+217 218 
+#module 66 size: 2 bs: 0.0457391
+219 220 
+#module 67 size: 2 bs: 0.045739
+221 222 
+#module 68 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 69 size: 3 bs: 3.17359e-005
+45 62 67 
+#module 70 size: 2 bs: 1.38445e-013
+32 47 
+#module 71 size: 2 bs: 0.00316501
+43 82 
+#module 72 size: 7 bs: 0.0249599
+33 40 48 63 74 77 91 
+#module 0 size: 11 bs: 0.0391755
+16 21 22 37 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 1.47264e-006
+26 89 
+#module 2 size: 2 bs: 0.07128
+29 30 
+#module 3 size: 2 bs: 0.00572623
+49 54 
+#module 4 size: 17 bs: 0.000154978
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 5 size: 2 bs: 0.00103146
+92 93 
+#module 6 size: 2 bs: 1.5099e-014
+94 95 
+#module 7 size: 2 bs: 0.0597315
+96 97 
+#module 8 size: 2 bs: 0.0597314
+98 99 
+#module 9 size: 2 bs: 0.000139367
+100 101 
+#module 10 size: 2 bs: 0.00995838
+102 103 
+#module 11 size: 4 bs: 0.00061382
+104 105 106 119 
+#module 12 size: 3 bs: 1.5099e-014
+107 108 136 
+#module 13 size: 2 bs: 0.045739
+109 110 
+#module 14 size: 2 bs: 0.045739
+111 112 
+#module 15 size: 2 bs: 0.0457391
+113 114 
+#module 16 size: 2 bs: 0.045739
+115 116 
+#module 17 size: 2 bs: 0.045739
+117 118 
+#module 18 size: 2 bs: 0.0457391
+120 121 
+#module 19 size: 2 bs: 0.0454645
+122 123 
+#module 20 size: 2 bs: 0.045602
+124 125 
+#module 21 size: 2 bs: 0.045739
+126 127 
+#module 22 size: 2 bs: 0.045739
+128 129 
+#module 23 size: 2 bs: 0.0457391
+130 131 
+#module 24 size: 2 bs: 0.045739
+132 133 
+#module 25 size: 2 bs: 0.045739
+134 135 
+#module 26 size: 2 bs: 0.0457391
+137 138 
+#module 27 size: 2 bs: 0.0457391
+139 140 
+#module 28 size: 2 bs: 0.045739
+141 142 
+#module 29 size: 2 bs: 0.0457391
+143 144 
+#module 30 size: 2 bs: 0.0457391
+145 146 
+#module 31 size: 2 bs: 0.0457391
+147 148 
+#module 32 size: 2 bs: 0.045739
+149 150 
+#module 33 size: 2 bs: 0.045739
+151 152 
+#module 34 size: 2 bs: 0.045739
+153 154 
+#module 35 size: 3 bs: 0.045739
+155 156 157 
+#module 36 size: 2 bs: 0.045739
+158 159 
+#module 37 size: 2 bs: 0.0457391
+160 161 
+#module 38 size: 2 bs: 0.045739
+162 163 
+#module 39 size: 4 bs: 0.045739
+164 165 166 177 
+#module 40 size: 2 bs: 0.045739
+167 168 
+#module 41 size: 2 bs: 0.045739
+169 170 
+#module 42 size: 2 bs: 0.0457391
+171 172 
+#module 43 size: 2 bs: 0.045602
+173 174 
+#module 44 size: 2 bs: 0.045739
+175 176 
+#module 45 size: 2 bs: 0.0457391
+178 179 
+#module 46 size: 2 bs: 0.0457391
+180 181 
+#module 47 size: 2 bs: 0.0454645
+182 183 
+#module 48 size: 2 bs: 0.045739
+184 185 
+#module 49 size: 3 bs: 0.045739
+186 187 188 
+#module 50 size: 2 bs: 0.0457391
+189 190 
+#module 51 size: 2 bs: 0.0457391
+191 192 
+#module 52 size: 2 bs: 0.0457391
+193 194 
+#module 53 size: 2 bs: 0.045739
+195 196 
+#module 54 size: 2 bs: 0.045739
+197 198 
+#module 55 size: 2 bs: 0.0457391
+199 200 
+#module 56 size: 2 bs: 0.045739
+201 202 
+#module 57 size: 2 bs: 0.045602
+203 204 
+#module 58 size: 2 bs: 0.0457391
+205 206 
+#module 59 size: 2 bs: 0.045739
+207 208 
+#module 60 size: 2 bs: 0.0457391
+209 210 
+#module 61 size: 2 bs: 0.045739
+211 212 
+#module 62 size: 2 bs: 0.0457391
+213 214 
+#module 63 size: 2 bs: 0.045739
+215 216 
+#module 64 size: 2 bs: 0.045739
+217 218 
+#module 65 size: 2 bs: 0.045739
+219 220 
+#module 66 size: 2 bs: 0.045739
+221 222 
+#module 67 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 68 size: 3 bs: 3.17359e-005
+45 62 67 
+#module 69 size: 2 bs: 1.90403e-013
+32 47 
+#module 70 size: 2 bs: 0.00316501
+43 82 
+#module 71 size: 7 bs: 0.0249599
+33 40 48 63 74 77 91 
+#module 72 size: 2 bs: 0.0317432
+19 51 
+#module 0 size: 11 bs: 0.0107508
+16 21 22 37 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 1.03685e-005
+29 30 
+#module 2 size: 2 bs: 0.0158845
+49 54 
+#module 3 size: 17 bs: 0.000139367
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 4 size: 2 bs: 0.000154978
+92 93 
+#module 5 size: 2 bs: 0.00130671
+94 95 
+#module 6 size: 2 bs: 1.5099e-014
+96 97 
+#module 7 size: 2 bs: 0.0597314
+98 99 
+#module 8 size: 2 bs: 0.0597315
+100 101 
+#module 9 size: 2 bs: 0.00995838
+102 103 
+#module 10 size: 4 bs: 0.000613822
+104 105 106 119 
+#module 11 size: 3 bs: 1.5099e-014
+107 108 136 
+#module 12 size: 2 bs: 0.045739
+109 110 
+#module 13 size: 2 bs: 0.0457391
+111 112 
+#module 14 size: 2 bs: 0.045739
+113 114 
+#module 15 size: 2 bs: 0.045739
+115 116 
+#module 16 size: 2 bs: 0.0457391
+117 118 
+#module 17 size: 2 bs: 0.0457391
+120 121 
+#module 18 size: 2 bs: 0.0454645
+122 123 
+#module 19 size: 2 bs: 0.0456019
+124 125 
+#module 20 size: 2 bs: 0.045739
+126 127 
+#module 21 size: 2 bs: 0.0457391
+128 129 
+#module 22 size: 2 bs: 0.0457391
+130 131 
+#module 23 size: 2 bs: 0.0457391
+132 133 
+#module 24 size: 2 bs: 0.045739
+134 135 
+#module 25 size: 2 bs: 0.0457391
+137 138 
+#module 26 size: 2 bs: 0.045739
+139 140 
+#module 27 size: 2 bs: 0.045739
+141 142 
+#module 28 size: 2 bs: 0.0457391
+143 144 
+#module 29 size: 2 bs: 0.0457391
+145 146 
+#module 30 size: 2 bs: 0.045739
+147 148 
+#module 31 size: 2 bs: 0.045739
+149 150 
+#module 32 size: 2 bs: 0.045739
+151 152 
+#module 33 size: 2 bs: 0.0457391
+153 154 
+#module 34 size: 3 bs: 0.045739
+155 156 157 
+#module 35 size: 2 bs: 0.0457391
+158 159 
+#module 36 size: 2 bs: 0.045739
+160 161 
+#module 37 size: 2 bs: 0.045739
+162 163 
+#module 38 size: 4 bs: 0.0457391
+164 165 166 177 
+#module 39 size: 2 bs: 0.0457391
+167 168 
+#module 40 size: 2 bs: 0.0457391
+169 170 
+#module 41 size: 2 bs: 0.045739
+171 172 
+#module 42 size: 2 bs: 0.045602
+173 174 
+#module 43 size: 2 bs: 0.0457391
+175 176 
+#module 44 size: 2 bs: 0.0457391
+178 179 
+#module 45 size: 2 bs: 0.0457391
+180 181 
+#module 46 size: 2 bs: 0.0454645
+182 183 
+#module 47 size: 2 bs: 0.045739
+184 185 
+#module 48 size: 3 bs: 0.045739
+186 187 188 
+#module 49 size: 2 bs: 0.0457391
+189 190 
+#module 50 size: 2 bs: 0.045739
+191 192 
+#module 51 size: 2 bs: 0.045739
+193 194 
+#module 52 size: 2 bs: 0.0457391
+195 196 
+#module 53 size: 2 bs: 0.045739
+197 198 
+#module 54 size: 2 bs: 0.0457391
+199 200 
+#module 55 size: 2 bs: 0.0457391
+201 202 
+#module 56 size: 2 bs: 0.0456019
+203 204 
+#module 57 size: 2 bs: 0.045739
+205 206 
+#module 58 size: 2 bs: 0.045739
+207 208 
+#module 59 size: 2 bs: 0.045739
+209 210 
+#module 60 size: 2 bs: 0.045739
+211 212 
+#module 61 size: 2 bs: 0.045739
+213 214 
+#module 62 size: 2 bs: 0.045739
+215 216 
+#module 63 size: 2 bs: 0.045739
+217 218 
+#module 64 size: 2 bs: 0.0457391
+219 220 
+#module 65 size: 2 bs: 0.045739
+221 222 
+#module 66 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 67 size: 3 bs: 3.1736e-005
+45 62 67 
+#module 68 size: 2 bs: 1.38445e-013
+32 47 
+#module 69 size: 2 bs: 0.00316501
+43 82 
+#module 70 size: 7 bs: 0.0249599
+33 40 48 63 74 77 91 
+#module 71 size: 2 bs: 0.00572623
+26 89 
+#module 0 size: 10 bs: 0.0391755
+16 21 22 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 1.03685e-005
+29 30 
+#module 2 size: 2 bs: 0.0312535
+49 54 
+#module 3 size: 2 bs: 1.5099e-014
+92 93 
+#module 4 size: 2 bs: 0.0597315
+94 95 
+#module 5 size: 2 bs: 0.00017216
+96 97 
+#module 6 size: 2 bs: 9.85054e-005
+98 99 
+#module 7 size: 2 bs: 0.0249185
+100 101 
+#module 8 size: 2 bs: 0.000613822
+102 103 
+#module 9 size: 4 bs: 0.0808969
+104 105 106 119 
+#module 10 size: 3 bs: 1.5099e-014
+107 108 136 
+#module 11 size: 2 bs: 0.045739
+109 110 
+#module 12 size: 2 bs: 0.045739
+111 112 
+#module 13 size: 2 bs: 0.045739
+113 114 
+#module 14 size: 2 bs: 0.045739
+115 116 
+#module 15 size: 2 bs: 0.045739
+117 118 
+#module 16 size: 2 bs: 0.0457391
+120 121 
+#module 17 size: 2 bs: 0.0454645
+122 123 
+#module 18 size: 2 bs: 0.0456019
+124 125 
+#module 19 size: 2 bs: 0.0457391
+126 127 
+#module 20 size: 2 bs: 0.045739
+128 129 
+#module 21 size: 2 bs: 0.0457391
+130 131 
+#module 22 size: 2 bs: 0.045739
+132 133 
+#module 23 size: 2 bs: 0.0457391
+134 135 
+#module 24 size: 2 bs: 0.0457391
+137 138 
+#module 25 size: 2 bs: 0.045739
+139 140 
+#module 26 size: 2 bs: 0.045739
+141 142 
+#module 27 size: 2 bs: 0.0457391
+143 144 
+#module 28 size: 2 bs: 0.045739
+145 146 
+#module 29 size: 2 bs: 0.045739
+147 148 
+#module 30 size: 2 bs: 0.0457391
+149 150 
+#module 31 size: 2 bs: 0.045739
+151 152 
+#module 32 size: 2 bs: 0.0457391
+153 154 
+#module 33 size: 3 bs: 0.045739
+155 156 157 
+#module 34 size: 2 bs: 0.0457391
+158 159 
+#module 35 size: 2 bs: 0.0457391
+160 161 
+#module 36 size: 2 bs: 0.045739
+162 163 
+#module 37 size: 4 bs: 0.0457391
+164 165 166 177 
+#module 38 size: 2 bs: 0.045739
+167 168 
+#module 39 size: 2 bs: 0.0457391
+169 170 
+#module 40 size: 2 bs: 0.0457391
+171 172 
+#module 41 size: 2 bs: 0.045602
+173 174 
+#module 42 size: 2 bs: 0.045739
+175 176 
+#module 43 size: 2 bs: 0.045739
+178 179 
+#module 44 size: 2 bs: 0.0457391
+180 181 
+#module 45 size: 2 bs: 0.0454645
+182 183 
+#module 46 size: 2 bs: 0.045739
+184 185 
+#module 47 size: 3 bs: 0.0457391
+186 187 188 
+#module 48 size: 2 bs: 0.0457391
+189 190 
+#module 49 size: 2 bs: 0.045739
+191 192 
+#module 50 size: 2 bs: 0.045739
+193 194 
+#module 51 size: 2 bs: 0.045739
+195 196 
+#module 52 size: 2 bs: 0.0457391
+197 198 
+#module 53 size: 2 bs: 0.045739
+199 200 
+#module 54 size: 2 bs: 0.045739
+201 202 
+#module 55 size: 2 bs: 0.0456019
+203 204 
+#module 56 size: 2 bs: 0.0457391
+205 206 
+#module 57 size: 2 bs: 0.045739
+207 208 
+#module 58 size: 2 bs: 0.0457391
+209 210 
+#module 59 size: 2 bs: 0.045739
+211 212 
+#module 60 size: 2 bs: 0.045739
+213 214 
+#module 61 size: 2 bs: 0.045739
+215 216 
+#module 62 size: 2 bs: 0.045739
+217 218 
+#module 63 size: 2 bs: 0.045739
+219 220 
+#module 64 size: 2 bs: 0.0457391
+221 222 
+#module 65 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 66 size: 6 bs: 0.0179958
+45 62 67 70 71 87 
+#module 67 size: 2 bs: 1.90403e-013
+32 47 
+#module 68 size: 2 bs: 0.00316501
+43 82 
+#module 69 size: 7 bs: 0.0249599
+33 40 48 63 74 77 91 
+#module 70 size: 14 bs: 0.000598379
+24 42 44 53 56 57 58 64 68 72 75 79 80 83 
+#module 71 size: 5 bs: 0.080897
+59 65 76 86 90 
+#module 0 size: 10 bs: 0.0391755
+16 21 22 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 1.47264e-006
+19 51 
+#module 2 size: 2 bs: 0.0119337
+26 89 
+#module 3 size: 2 bs: 0.0317431
+29 30 
+#module 4 size: 2 bs: 0.00572624
+49 54 
+#module 5 size: 17 bs: 0.000139367
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 6 size: 2 bs: 0.000154978
+92 93 
+#module 7 size: 2 bs: 0.00130671
+94 95 
+#module 8 size: 2 bs: 0.0597315
+96 97 
+#module 9 size: 2 bs: 0.0597315
+98 99 
+#module 10 size: 2 bs: 0.0249185
+100 101 
+#module 11 size: 2 bs: 0.000613821
+102 103 
+#module 12 size: 4 bs: 1.5099e-014
+104 105 106 119 
+#module 13 size: 3 bs: 0.0457391
+107 108 136 
+#module 14 size: 2 bs: 0.0457391
+109 110 
+#module 15 size: 2 bs: 0.045739
+111 112 
+#module 16 size: 2 bs: 0.045739
+113 114 
+#module 17 size: 2 bs: 0.045739
+115 116 
+#module 18 size: 2 bs: 0.045739
+117 118 
+#module 19 size: 2 bs: 0.0454645
+120 121 
+#module 20 size: 2 bs: 0.045602
+122 123 
+#module 21 size: 2 bs: 0.0457391
+124 125 
+#module 22 size: 2 bs: 0.0457391
+126 127 
+#module 23 size: 2 bs: 0.045739
+128 129 
+#module 24 size: 2 bs: 0.045739
+130 131 
+#module 25 size: 2 bs: 0.045739
+132 133 
+#module 26 size: 2 bs: 0.045739
+134 135 
+#module 27 size: 2 bs: 0.045739
+137 138 
+#module 28 size: 2 bs: 0.0457391
+139 140 
+#module 29 size: 2 bs: 0.045739
+141 142 
+#module 30 size: 2 bs: 0.0457391
+143 144 
+#module 31 size: 2 bs: 0.045739
+145 146 
+#module 32 size: 2 bs: 0.045739
+147 148 
+#module 33 size: 2 bs: 0.045739
+149 150 
+#module 34 size: 2 bs: 0.045739
+151 152 
+#module 35 size: 2 bs: 0.045739
+153 154 
+#module 36 size: 3 bs: 0.045739
+155 156 157 
+#module 37 size: 2 bs: 0.045739
+158 159 
+#module 38 size: 2 bs: 0.045739
+160 161 
+#module 39 size: 2 bs: 0.0457391
+162 163 
+#module 40 size: 4 bs: 0.0457391
+164 165 166 177 
+#module 41 size: 2 bs: 0.0457391
+167 168 
+#module 42 size: 2 bs: 0.045739
+169 170 
+#module 43 size: 2 bs: 0.0456019
+171 172 
+#module 44 size: 2 bs: 0.045739
+173 174 
+#module 45 size: 2 bs: 0.045739
+175 176 
+#module 46 size: 2 bs: 0.0457391
+178 179 
+#module 47 size: 2 bs: 0.0454645
+180 181 
+#module 48 size: 2 bs: 0.0457391
+182 183 
+#module 49 size: 2 bs: 0.045739
+184 185 
+#module 50 size: 3 bs: 0.0457391
+186 187 188 
+#module 51 size: 2 bs: 0.045739
+189 190 
+#module 52 size: 2 bs: 0.045739
+191 192 
+#module 53 size: 2 bs: 0.045739
+193 194 
+#module 54 size: 2 bs: 0.045739
+195 196 
+#module 55 size: 2 bs: 0.045739
+197 198 
+#module 56 size: 2 bs: 0.045739
+199 200 
+#module 57 size: 2 bs: 0.045602
+201 202 
+#module 58 size: 2 bs: 0.0457391
+203 204 
+#module 59 size: 2 bs: 0.045739
+205 206 
+#module 60 size: 2 bs: 0.0457391
+207 208 
+#module 61 size: 2 bs: 0.045739
+209 210 
+#module 62 size: 2 bs: 0.045739
+211 212 
+#module 63 size: 2 bs: 0.045739
+213 214 
+#module 64 size: 2 bs: 0.045739
+215 216 
+#module 65 size: 2 bs: 0.045739
+217 218 
+#module 66 size: 2 bs: 0.0457391
+219 220 
+#module 67 size: 2 bs: 0.0457391
+221 222 
+#module 68 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 69 size: 3 bs: 3.1736e-005
+45 62 67 
+#module 70 size: 2 bs: 1.38445e-013
+32 47 
+#module 71 size: 2 bs: 0.00316501
+43 82 
+#module 72 size: 7 bs: 0.0249599
+33 40 48 63 74 77 91 
+#module 0 size: 10 bs: 0.0391755
+16 21 22 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 1.03685e-005
+26 89 
+#module 2 size: 2 bs: 0.0119337
+29 30 
+#module 3 size: 2 bs: 1.5099e-014
+49 54 
+#module 4 size: 17 bs: 0.0378958
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 5 size: 2 bs: 0.000139367
+92 93 
+#module 6 size: 2 bs: 0.000154978
+94 95 
+#module 7 size: 2 bs: 0.00101067
+96 97 
+#module 8 size: 2 bs: 1.5099e-014
+98 99 
+#module 9 size: 2 bs: 0.0597315
+100 101 
+#module 10 size: 2 bs: 0.0597315
+102 103 
+#module 11 size: 4 bs: 0.00995838
+104 105 106 119 
+#module 12 size: 3 bs: 0.00061382
+107 108 136 
+#module 13 size: 2 bs: 0.0457391
+109 110 
+#module 14 size: 2 bs: 0.045739
+111 112 
+#module 15 size: 2 bs: 0.045739
+113 114 
+#module 16 size: 2 bs: 0.0457391
+115 116 
+#module 17 size: 2 bs: 0.0457391
+117 118 
+#module 18 size: 2 bs: 0.045739
+120 121 
+#module 19 size: 2 bs: 0.0454645
+122 123 
+#module 20 size: 2 bs: 0.0456019
+124 125 
+#module 21 size: 2 bs: 0.045739
+126 127 
+#module 22 size: 2 bs: 0.0457391
+128 129 
+#module 23 size: 2 bs: 0.045739
+130 131 
+#module 24 size: 2 bs: 0.045739
+132 133 
+#module 25 size: 2 bs: 0.045739
+134 135 
+#module 26 size: 2 bs: 0.045739
+137 138 
+#module 27 size: 2 bs: 0.045739
+139 140 
+#module 28 size: 2 bs: 0.0457391
+141 142 
+#module 29 size: 2 bs: 0.0457391
+143 144 
+#module 30 size: 2 bs: 0.0457391
+145 146 
+#module 31 size: 2 bs: 0.045739
+147 148 
+#module 32 size: 2 bs: 0.0457391
+149 150 
+#module 33 size: 2 bs: 0.045739
+151 152 
+#module 34 size: 2 bs: 0.045739
+153 154 
+#module 35 size: 3 bs: 0.0457391
+155 156 157 
+#module 36 size: 2 bs: 0.0457391
+158 159 
+#module 37 size: 2 bs: 0.0457391
+160 161 
+#module 38 size: 2 bs: 0.0457391
+162 163 
+#module 39 size: 4 bs: 0.045739
+164 165 166 177 
+#module 40 size: 2 bs: 0.045739
+167 168 
+#module 41 size: 2 bs: 0.0457391
+169 170 
+#module 42 size: 2 bs: 0.045739
+171 172 
+#module 43 size: 2 bs: 0.0456019
+173 174 
+#module 44 size: 2 bs: 0.0457391
+175 176 
+#module 45 size: 2 bs: 0.045739
+178 179 
+#module 46 size: 2 bs: 0.045739
+180 181 
+#module 47 size: 2 bs: 0.0454645
+182 183 
+#module 48 size: 2 bs: 0.045739
+184 185 
+#module 49 size: 3 bs: 0.045739
+186 187 188 
+#module 50 size: 2 bs: 0.0457391
+189 190 
+#module 51 size: 2 bs: 0.0457391
+191 192 
+#module 52 size: 2 bs: 0.0457391
+193 194 
+#module 53 size: 2 bs: 0.045739
+195 196 
+#module 54 size: 2 bs: 0.045739
+197 198 
+#module 55 size: 2 bs: 0.045739
+199 200 
+#module 56 size: 2 bs: 0.045739
+201 202 
+#module 57 size: 2 bs: 0.0456019
+203 204 
+#module 58 size: 2 bs: 0.045739
+205 206 
+#module 59 size: 2 bs: 0.0457391
+207 208 
+#module 60 size: 2 bs: 0.045739
+209 210 
+#module 61 size: 2 bs: 0.045739
+211 212 
+#module 62 size: 2 bs: 0.045739
+213 214 
+#module 63 size: 2 bs: 0.045739
+215 216 
+#module 64 size: 2 bs: 0.0457391
+217 218 
+#module 65 size: 2 bs: 0.045739
+219 220 
+#module 66 size: 2 bs: 0.0457391
+221 222 
+#module 67 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 68 size: 3 bs: 3.17359e-005
+45 62 67 
+#module 69 size: 2 bs: 0.00936479
+74 91 
+#module 70 size: 2 bs: 1.38445e-013
+32 47 
+#module 71 size: 2 bs: 0.00316501
+43 82 
+#module 0 size: 10 bs: 0.0107508
+16 21 22 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 8.00318e-007
+26 89 
+#module 2 size: 2 bs: 1.03685e-005
+29 30 
+#module 3 size: 2 bs: 0.0783161
+49 54 
+#module 4 size: 17 bs: 1.5099e-014
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 5 size: 2 bs: 0.00572624
+92 93 
+#module 6 size: 2 bs: 0.000139367
+94 95 
+#module 7 size: 2 bs: 0.000154978
+96 97 
+#module 8 size: 2 bs: 0.00130671
+98 99 
+#module 9 size: 2 bs: 1.5099e-014
+100 101 
+#module 10 size: 2 bs: 0.0597314
+102 103 
+#module 11 size: 4 bs: 0.0249185
+104 105 106 119 
+#module 12 size: 3 bs: 0.000613822
+107 108 136 
+#module 13 size: 2 bs: 0.045739
+109 110 
+#module 14 size: 2 bs: 0.045739
+111 112 
+#module 15 size: 2 bs: 0.045739
+113 114 
+#module 16 size: 2 bs: 0.045739
+115 116 
+#module 17 size: 2 bs: 0.0457391
+117 118 
+#module 18 size: 2 bs: 0.045739
+120 121 
+#module 19 size: 2 bs: 0.0454645
+122 123 
+#module 20 size: 2 bs: 0.045602
+124 125 
+#module 21 size: 2 bs: 0.0457391
+126 127 
+#module 22 size: 2 bs: 0.045739
+128 129 
+#module 23 size: 2 bs: 0.045739
+130 131 
+#module 24 size: 2 bs: 0.0457391
+132 133 
+#module 25 size: 2 bs: 0.045739
+134 135 
+#module 26 size: 2 bs: 0.045739
+137 138 
+#module 27 size: 2 bs: 0.0457391
+139 140 
+#module 28 size: 2 bs: 0.045739
+141 142 
+#module 29 size: 2 bs: 0.045739
+143 144 
+#module 30 size: 2 bs: 0.045739
+145 146 
+#module 31 size: 2 bs: 0.045739
+147 148 
+#module 32 size: 2 bs: 0.0457391
+149 150 
+#module 33 size: 2 bs: 0.0457391
+151 152 
+#module 34 size: 2 bs: 0.0457391
+153 154 
+#module 35 size: 3 bs: 0.045739
+155 156 157 
+#module 36 size: 2 bs: 0.045739
+158 159 
+#module 37 size: 2 bs: 0.045739
+160 161 
+#module 38 size: 2 bs: 0.045739
+162 163 
+#module 39 size: 4 bs: 0.045739
+164 165 166 177 
+#module 40 size: 2 bs: 0.045739
+167 168 
+#module 41 size: 2 bs: 0.045739
+169 170 
+#module 42 size: 2 bs: 0.045739
+171 172 
+#module 43 size: 2 bs: 0.045602
+173 174 
+#module 44 size: 2 bs: 0.045739
+175 176 
+#module 45 size: 2 bs: 0.0457391
+178 179 
+#module 46 size: 2 bs: 0.0457391
+180 181 
+#module 47 size: 2 bs: 0.0454645
+182 183 
+#module 48 size: 2 bs: 0.0457391
+184 185 
+#module 49 size: 3 bs: 0.045739
+186 187 188 
+#module 50 size: 2 bs: 0.045739
+189 190 
+#module 51 size: 2 bs: 0.045739
+191 192 
+#module 52 size: 2 bs: 0.045739
+193 194 
+#module 53 size: 2 bs: 0.0457391
+195 196 
+#module 54 size: 2 bs: 0.0457391
+197 198 
+#module 55 size: 2 bs: 0.0457391
+199 200 
+#module 56 size: 2 bs: 0.0457391
+201 202 
+#module 57 size: 2 bs: 0.0456019
+203 204 
+#module 58 size: 2 bs: 0.045739
+205 206 
+#module 59 size: 2 bs: 0.0457391
+207 208 
+#module 60 size: 2 bs: 0.045739
+209 210 
+#module 61 size: 2 bs: 0.0457391
+211 212 
+#module 62 size: 2 bs: 0.045739
+213 214 
+#module 63 size: 2 bs: 0.045739
+215 216 
+#module 64 size: 2 bs: 0.0457391
+217 218 
+#module 65 size: 2 bs: 0.045739
+219 220 
+#module 66 size: 2 bs: 0.045739
+221 222 
+#module 67 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 68 size: 3 bs: 3.17359e-005
+45 62 67 
+#module 69 size: 2 bs: 0.00936479
+74 91 
+#module 70 size: 2 bs: 1.90403e-013
+32 47 
+#module 71 size: 2 bs: 0.00316502
+43 82 
+#module 72 size: 4 bs: 0.00159349
+33 40 48 63 
+#module 0 size: 10 bs: 0.0391755
+16 21 22 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 0.0119337
+26 89 
+#module 2 size: 2 bs: 0.0158845
+29 30 
+#module 3 size: 2 bs: 0.0597315
+49 54 
+#module 4 size: 17 bs: 0.00572624
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 5 size: 2 bs: 0.000139367
+92 93 
+#module 6 size: 2 bs: 0.000154978
+94 95 
+#module 7 size: 2 bs: 0.00130671
+96 97 
+#module 8 size: 2 bs: 1.5099e-014
+98 99 
+#module 9 size: 2 bs: 0.00995837
+100 101 
+#module 10 size: 2 bs: 0.0597314
+102 103 
+#module 11 size: 4 bs: 0.000613821
+104 105 106 119 
+#module 12 size: 3 bs: 1.5099e-014
+107 108 136 
+#module 13 size: 2 bs: 0.0457391
+109 110 
+#module 14 size: 2 bs: 0.045739
+111 112 
+#module 15 size: 2 bs: 0.045739
+113 114 
+#module 16 size: 2 bs: 0.045739
+115 116 
+#module 17 size: 2 bs: 0.0457391
+117 118 
+#module 18 size: 2 bs: 0.045739
+120 121 
+#module 19 size: 2 bs: 0.0454645
+122 123 
+#module 20 size: 2 bs: 0.045602
+124 125 
+#module 21 size: 2 bs: 0.045739
+126 127 
+#module 22 size: 2 bs: 0.0457391
+128 129 
+#module 23 size: 2 bs: 0.045739
+130 131 
+#module 24 size: 2 bs: 0.045739
+132 133 
+#module 25 size: 2 bs: 0.0457391
+134 135 
+#module 26 size: 2 bs: 0.045739
+137 138 
+#module 27 size: 2 bs: 0.045739
+139 140 
+#module 28 size: 2 bs: 0.0457391
+141 142 
+#module 29 size: 2 bs: 0.045739
+143 144 
+#module 30 size: 2 bs: 0.045739
+145 146 
+#module 31 size: 2 bs: 0.0457391
+147 148 
+#module 32 size: 2 bs: 0.045739
+149 150 
+#module 33 size: 2 bs: 0.0457391
+151 152 
+#module 34 size: 2 bs: 0.0457391
+153 154 
+#module 35 size: 3 bs: 0.045739
+155 156 157 
+#module 36 size: 2 bs: 0.045739
+158 159 
+#module 37 size: 2 bs: 0.0457391
+160 161 
+#module 38 size: 2 bs: 0.045739
+162 163 
+#module 39 size: 4 bs: 0.045739
+164 165 166 177 
+#module 40 size: 2 bs: 0.045739
+167 168 
+#module 41 size: 2 bs: 0.045739
+169 170 
+#module 42 size: 2 bs: 0.045739
+171 172 
+#module 43 size: 2 bs: 0.045602
+173 174 
+#module 44 size: 2 bs: 0.0457391
+175 176 
+#module 45 size: 2 bs: 0.0457391
+178 179 
+#module 46 size: 2 bs: 0.045739
+180 181 
+#module 47 size: 2 bs: 0.0454645
+182 183 
+#module 48 size: 2 bs: 0.0457391
+184 185 
+#module 49 size: 3 bs: 0.045739
+186 187 188 
+#module 50 size: 2 bs: 0.045739
+189 190 
+#module 51 size: 2 bs: 0.0457391
+191 192 
+#module 52 size: 2 bs: 0.045739
+193 194 
+#module 53 size: 2 bs: 0.0457391
+195 196 
+#module 54 size: 2 bs: 0.0457391
+197 198 
+#module 55 size: 2 bs: 0.045739
+199 200 
+#module 56 size: 2 bs: 0.045739
+201 202 
+#module 57 size: 2 bs: 0.0456019
+203 204 
+#module 58 size: 2 bs: 0.045739
+205 206 
+#module 59 size: 2 bs: 0.0457391
+207 208 
+#module 60 size: 2 bs: 0.045739
+209 210 
+#module 61 size: 2 bs: 0.045739
+211 212 
+#module 62 size: 2 bs: 0.045739
+213 214 
+#module 63 size: 2 bs: 0.045739
+215 216 
+#module 64 size: 2 bs: 0.045739
+217 218 
+#module 65 size: 2 bs: 0.045739
+219 220 
+#module 66 size: 2 bs: 0.045739
+221 222 
+#module 67 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 68 size: 3 bs: 3.17359e-005
+45 62 67 
+#module 69 size: 2 bs: 1.90403e-013
+32 47 
+#module 70 size: 2 bs: 0.00316501
+43 82 
+#module 71 size: 7 bs: 0.0249599
+33 40 48 63 74 77 91 
+#module 0 size: 10 bs: 0.0391755
+16 21 22 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 1.47264e-006
+26 89 
+#module 2 size: 2 bs: 0.0102888
+29 30 
+#module 3 size: 2 bs: 0.0783162
+49 54 
+#module 4 size: 17 bs: 0.000139367
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 5 size: 2 bs: 0.000154978
+92 93 
+#module 6 size: 2 bs: 0.00130671
+94 95 
+#module 7 size: 2 bs: 1.5099e-014
+96 97 
+#module 8 size: 2 bs: 0.0249185
+98 99 
+#module 9 size: 2 bs: 0.0597315
+100 101 
+#module 10 size: 2 bs: 0.0597314
+102 103 
+#module 11 size: 4 bs: 0.000613821
+104 105 106 119 
+#module 12 size: 3 bs: 1.5099e-014
+107 108 136 
+#module 13 size: 2 bs: 0.0457391
+109 110 
+#module 14 size: 2 bs: 0.045739
+111 112 
+#module 15 size: 2 bs: 0.0457391
+113 114 
+#module 16 size: 2 bs: 0.045739
+115 116 
+#module 17 size: 2 bs: 0.045739
+117 118 
+#module 18 size: 2 bs: 0.0457391
+120 121 
+#module 19 size: 2 bs: 0.0454645
+122 123 
+#module 20 size: 2 bs: 0.045602
+124 125 
+#module 21 size: 2 bs: 0.0457391
+126 127 
+#module 22 size: 2 bs: 0.045739
+128 129 
+#module 23 size: 2 bs: 0.0457391
+130 131 
+#module 24 size: 2 bs: 0.045739
+132 133 
+#module 25 size: 2 bs: 0.0457391
+134 135 
+#module 26 size: 2 bs: 0.045739
+137 138 
+#module 27 size: 2 bs: 0.045739
+139 140 
+#module 28 size: 2 bs: 0.045739
+141 142 
+#module 29 size: 2 bs: 0.045739
+143 144 
+#module 30 size: 2 bs: 0.0457391
+145 146 
+#module 31 size: 2 bs: 0.0457391
+147 148 
+#module 32 size: 2 bs: 0.045739
+149 150 
+#module 33 size: 2 bs: 0.0457391
+151 152 
+#module 34 size: 2 bs: 0.045739
+153 154 
+#module 35 size: 3 bs: 0.0457391
+155 156 157 
+#module 36 size: 2 bs: 0.045739
+158 159 
+#module 37 size: 2 bs: 0.045739
+160 161 
+#module 38 size: 2 bs: 0.045739
+162 163 
+#module 39 size: 4 bs: 0.045739
+164 165 166 177 
+#module 40 size: 2 bs: 0.045739
+167 168 
+#module 41 size: 2 bs: 0.045739
+169 170 
+#module 42 size: 2 bs: 0.045739
+171 172 
+#module 43 size: 2 bs: 0.0456019
+173 174 
+#module 44 size: 2 bs: 0.045739
+175 176 
+#module 45 size: 2 bs: 0.045739
+178 179 
+#module 46 size: 2 bs: 0.045739
+180 181 
+#module 47 size: 2 bs: 0.0454645
+182 183 
+#module 48 size: 2 bs: 0.0457391
+184 185 
+#module 49 size: 3 bs: 0.045739
+186 187 188 
+#module 50 size: 2 bs: 0.0457391
+189 190 
+#module 51 size: 2 bs: 0.0457391
+191 192 
+#module 52 size: 2 bs: 0.0457391
+193 194 
+#module 53 size: 2 bs: 0.045739
+195 196 
+#module 54 size: 2 bs: 0.045739
+197 198 
+#module 55 size: 2 bs: 0.045739
+199 200 
+#module 56 size: 2 bs: 0.0457391
+201 202 
+#module 57 size: 2 bs: 0.045602
+203 204 
+#module 58 size: 2 bs: 0.0457391
+205 206 
+#module 59 size: 2 bs: 0.045739
+207 208 
+#module 60 size: 2 bs: 0.045739
+209 210 
+#module 61 size: 2 bs: 0.045739
+211 212 
+#module 62 size: 2 bs: 0.0457391
+213 214 
+#module 63 size: 2 bs: 0.0457391
+215 216 
+#module 64 size: 2 bs: 0.045739
+217 218 
+#module 65 size: 2 bs: 0.045739
+219 220 
+#module 66 size: 2 bs: 0.045739
+221 222 
+#module 67 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 68 size: 3 bs: 3.1736e-005
+45 62 67 
+#module 69 size: 2 bs: 1.38445e-013
+32 47 
+#module 70 size: 2 bs: 0.00316501
+43 82 
+#module 71 size: 7 bs: 0.0249599
+33 40 48 63 74 77 91 
+#module 0 size: 10 bs: 0.0107508
+16 21 22 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 1.03685e-005
+29 30 
+#module 2 size: 2 bs: 0.0158845
+49 54 
+#module 3 size: 17 bs: 0.00101068
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 4 size: 2 bs: 0.000139367
+92 93 
+#module 5 size: 2 bs: 0.000154978
+94 95 
+#module 6 size: 2 bs: 1.5099e-014
+96 97 
+#module 7 size: 2 bs: 0.0597315
+98 99 
+#module 8 size: 2 bs: 0.0597314
+100 101 
+#module 9 size: 2 bs: 0.0249185
+102 103 
+#module 10 size: 4 bs: 0.00061382
+104 105 106 119 
+#module 11 size: 3 bs: 1.5099e-014
+107 108 136 
+#module 12 size: 2 bs: 0.045739
+109 110 
+#module 13 size: 2 bs: 0.0457391
+111 112 
+#module 14 size: 2 bs: 0.045739
+113 114 
+#module 15 size: 2 bs: 0.0457391
+115 116 
+#module 16 size: 2 bs: 0.0457391
+117 118 
+#module 17 size: 2 bs: 0.045739
+120 121 
+#module 18 size: 2 bs: 0.0454645
+122 123 
+#module 19 size: 2 bs: 0.045602
+124 125 
+#module 20 size: 2 bs: 0.0457391
+126 127 
+#module 21 size: 2 bs: 0.045739
+128 129 
+#module 22 size: 2 bs: 0.045739
+130 131 
+#module 23 size: 2 bs: 0.045739
+132 133 
+#module 24 size: 2 bs: 0.0457391
+134 135 
+#module 25 size: 2 bs: 0.045739
+137 138 
+#module 26 size: 2 bs: 0.0457391
+139 140 
+#module 27 size: 2 bs: 0.045739
+141 142 
+#module 28 size: 2 bs: 0.045739
+143 144 
+#module 29 size: 2 bs: 0.045739
+145 146 
+#module 30 size: 2 bs: 0.045739
+147 148 
+#module 31 size: 2 bs: 0.045739
+149 150 
+#module 32 size: 2 bs: 0.045739
+151 152 
+#module 33 size: 2 bs: 0.045739
+153 154 
+#module 34 size: 3 bs: 0.0457391
+155 156 157 
+#module 35 size: 2 bs: 0.045739
+158 159 
+#module 36 size: 2 bs: 0.045739
+160 161 
+#module 37 size: 2 bs: 0.0457391
+162 163 
+#module 38 size: 4 bs: 0.0457391
+164 165 166 177 
+#module 39 size: 2 bs: 0.0457391
+167 168 
+#module 40 size: 2 bs: 0.0457391
+169 170 
+#module 41 size: 2 bs: 0.045739
+171 172 
+#module 42 size: 2 bs: 0.0456019
+173 174 
+#module 43 size: 2 bs: 0.0457391
+175 176 
+#module 44 size: 2 bs: 0.0457391
+178 179 
+#module 45 size: 2 bs: 0.0457391
+180 181 
+#module 46 size: 2 bs: 0.0454645
+182 183 
+#module 47 size: 2 bs: 0.045739
+184 185 
+#module 48 size: 3 bs: 0.045739
+186 187 188 
+#module 49 size: 2 bs: 0.0457391
+189 190 
+#module 50 size: 2 bs: 0.0457391
+191 192 
+#module 51 size: 2 bs: 0.045739
+193 194 
+#module 52 size: 2 bs: 0.0457391
+195 196 
+#module 53 size: 2 bs: 0.045739
+197 198 
+#module 54 size: 2 bs: 0.045739
+199 200 
+#module 55 size: 2 bs: 0.045739
+201 202 
+#module 56 size: 2 bs: 0.0456019
+203 204 
+#module 57 size: 2 bs: 0.045739
+205 206 
+#module 58 size: 2 bs: 0.045739
+207 208 
+#module 59 size: 2 bs: 0.045739
+209 210 
+#module 60 size: 2 bs: 0.0457391
+211 212 
+#module 61 size: 2 bs: 0.045739
+213 214 
+#module 62 size: 2 bs: 0.0457391
+215 216 
+#module 63 size: 2 bs: 0.045739
+217 218 
+#module 64 size: 2 bs: 0.045739
+219 220 
+#module 65 size: 2 bs: 0.045739
+221 222 
+#module 66 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 67 size: 3 bs: 3.1736e-005
+45 62 67 
+#module 68 size: 2 bs: 1.90403e-013
+32 47 
+#module 69 size: 2 bs: 0.00316501
+43 82 
+#module 70 size: 7 bs: 0.0249599
+33 40 48 63 74 77 91 
+#module 0 size: 10 bs: 0.0102888
+16 21 22 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 0.0391755
+49 54 
+#module 2 size: 2 bs: 1.03685e-005
+26 89 
+#module 3 size: 2 bs: 0.00995838
+29 30 
+#module 4 size: 17 bs: 0.00572624
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 5 size: 2 bs: 0.000139367
+92 93 
+#module 6 size: 2 bs: 0.000154978
+94 95 
+#module 7 size: 2 bs: 0.00103146
+96 97 
+#module 8 size: 2 bs: 1.5099e-014
+98 99 
+#module 9 size: 2 bs: 0.0597315
+100 101 
+#module 10 size: 2 bs: 9.85054e-005
+102 103 
+#module 11 size: 4 bs: 0.000613822
+104 105 106 119 
+#module 12 size: 3 bs: 1.5099e-014
+107 108 136 
+#module 13 size: 2 bs: 0.0457391
+109 110 
+#module 14 size: 2 bs: 0.0457391
+111 112 
+#module 15 size: 2 bs: 0.0457391
+113 114 
+#module 16 size: 2 bs: 0.045739
+115 116 
+#module 17 size: 2 bs: 0.0457391
+117 118 
+#module 18 size: 2 bs: 0.045739
+120 121 
+#module 19 size: 2 bs: 0.0454645
+122 123 
+#module 20 size: 2 bs: 0.0456019
+124 125 
+#module 21 size: 2 bs: 0.045739
+126 127 
+#module 22 size: 2 bs: 0.045739
+128 129 
+#module 23 size: 2 bs: 0.0457391
+130 131 
+#module 24 size: 2 bs: 0.045739
+132 133 
+#module 25 size: 2 bs: 0.0457391
+134 135 
+#module 26 size: 2 bs: 0.045739
+137 138 
+#module 27 size: 2 bs: 0.045739
+139 140 
+#module 28 size: 2 bs: 0.045739
+141 142 
+#module 29 size: 2 bs: 0.045739
+143 144 
+#module 30 size: 2 bs: 0.0457391
+145 146 
+#module 31 size: 2 bs: 0.045739
+147 148 
+#module 32 size: 2 bs: 0.0457391
+149 150 
+#module 33 size: 2 bs: 0.045739
+151 152 
+#module 34 size: 2 bs: 0.045739
+153 154 
+#module 35 size: 3 bs: 0.045739
+155 156 157 
+#module 36 size: 2 bs: 0.045739
+158 159 
+#module 37 size: 2 bs: 0.0457391
+160 161 
+#module 38 size: 2 bs: 0.045739
+162 163 
+#module 39 size: 4 bs: 0.045739
+164 165 166 177 
+#module 40 size: 2 bs: 0.045739
+167 168 
+#module 41 size: 2 bs: 0.045739
+169 170 
+#module 42 size: 2 bs: 0.0457391
+171 172 
+#module 43 size: 2 bs: 0.045602
+173 174 
+#module 44 size: 2 bs: 0.0457391
+175 176 
+#module 45 size: 2 bs: 0.045739
+178 179 
+#module 46 size: 2 bs: 0.045739
+180 181 
+#module 47 size: 2 bs: 0.0454645
+182 183 
+#module 48 size: 2 bs: 0.0454645
+184 185 
+#module 49 size: 3 bs: 0.045739
+186 187 188 
+#module 50 size: 2 bs: 0.045739
+189 190 
+#module 51 size: 2 bs: 0.0457391
+191 192 
+#module 52 size: 2 bs: 0.0457391
+193 194 
+#module 53 size: 2 bs: 0.0457391
+195 196 
+#module 54 size: 2 bs: 0.0457391
+197 198 
+#module 55 size: 2 bs: 0.045739
+199 200 
+#module 56 size: 2 bs: 0.0457391
+201 202 
+#module 57 size: 2 bs: 0.045739
+203 204 
+#module 58 size: 2 bs: 0.045602
+205 206 
+#module 59 size: 2 bs: 0.045739
+207 208 
+#module 60 size: 2 bs: 0.0457391
+209 210 
+#module 61 size: 2 bs: 0.045739
+211 212 
+#module 62 size: 2 bs: 0.0457391
+213 214 
+#module 63 size: 2 bs: 0.0457391
+215 216 
+#module 64 size: 2 bs: 0.045739
+217 218 
+#module 65 size: 2 bs: 0.045739
+219 220 
+#module 66 size: 2 bs: 0.0457391
+221 222 
+#module 67 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 68 size: 3 bs: 3.1736e-005
+45 62 67 
+#module 69 size: 3 bs: 8.29878e-006
+74 77 91 
+#module 70 size: 2 bs: 1.90403e-013
+32 47 
+#module 71 size: 2 bs: 0.00316501
+43 82 
+#module 72 size: 2 bs: 0.0317431
+19 51 
+#module 0 size: 2 bs: 0.0391754
+49 54 
+#module 1 size: 10 bs: 1.03685e-005
+16 21 22 50 52 55 69 78 84 85 
+#module 2 size: 2 bs: 0.0249185
+26 89 
+#module 3 size: 2 bs: 0.0119338
+29 30 
+#module 4 size: 17 bs: 0.0378957
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 5 size: 2 bs: 0.000139367
+92 93 
+#module 6 size: 2 bs: 0.000154978
+94 95 
+#module 7 size: 2 bs: 0.00101067
+96 97 
+#module 8 size: 2 bs: 1.5099e-014
+98 99 
+#module 9 size: 2 bs: 0.0597315
+100 101 
+#module 10 size: 2 bs: 0.0597315
+102 103 
+#module 11 size: 4 bs: 0.00061382
+104 105 106 119 
+#module 12 size: 3 bs: 1.5099e-014
+107 108 136 
+#module 13 size: 2 bs: 0.045739
+109 110 
+#module 14 size: 2 bs: 0.045739
+111 112 
+#module 15 size: 2 bs: 0.045739
+113 114 
+#module 16 size: 2 bs: 0.045739
+115 116 
+#module 17 size: 2 bs: 0.045739
+117 118 
+#module 18 size: 2 bs: 0.045739
+120 121 
+#module 19 size: 2 bs: 0.0454645
+122 123 
+#module 20 size: 2 bs: 0.0456019
+124 125 
+#module 21 size: 2 bs: 0.0457391
+126 127 
+#module 22 size: 2 bs: 0.0457391
+128 129 
+#module 23 size: 2 bs: 0.045739
+130 131 
+#module 24 size: 2 bs: 0.045739
+132 133 
+#module 25 size: 2 bs: 0.045739
+134 135 
+#module 26 size: 2 bs: 0.045739
+137 138 
+#module 27 size: 2 bs: 0.045739
+139 140 
+#module 28 size: 2 bs: 0.0457391
+141 142 
+#module 29 size: 2 bs: 0.045739
+143 144 
+#module 30 size: 2 bs: 0.045739
+145 146 
+#module 31 size: 2 bs: 0.045739
+147 148 
+#module 32 size: 2 bs: 0.0457391
+149 150 
+#module 33 size: 2 bs: 0.0457391
+151 152 
+#module 34 size: 2 bs: 0.045739
+153 154 
+#module 35 size: 3 bs: 0.045739
+155 156 157 
+#module 36 size: 2 bs: 0.0457391
+158 159 
+#module 37 size: 2 bs: 0.045739
+160 161 
+#module 38 size: 2 bs: 0.045739
+162 163 
+#module 39 size: 4 bs: 0.045739
+164 165 166 177 
+#module 40 size: 2 bs: 0.045739
+167 168 
+#module 41 size: 2 bs: 0.045739
+169 170 
+#module 42 size: 2 bs: 0.0457391
+171 172 
+#module 43 size: 2 bs: 0.045602
+173 174 
+#module 44 size: 2 bs: 0.0457391
+175 176 
+#module 45 size: 2 bs: 0.0457391
+178 179 
+#module 46 size: 2 bs: 0.045739
+180 181 
+#module 47 size: 2 bs: 0.0454645
+182 183 
+#module 48 size: 2 bs: 0.0457391
+184 185 
+#module 49 size: 3 bs: 0.045739
+186 187 188 
+#module 50 size: 2 bs: 0.045739
+189 190 
+#module 51 size: 2 bs: 0.045739
+191 192 
+#module 52 size: 2 bs: 0.0457391
+193 194 
+#module 53 size: 2 bs: 0.045739
+195 196 
+#module 54 size: 2 bs: 0.045739
+197 198 
+#module 55 size: 2 bs: 0.045739
+199 200 
+#module 56 size: 2 bs: 0.045739
+201 202 
+#module 57 size: 2 bs: 0.0456019
+203 204 
+#module 58 size: 2 bs: 0.045739
+205 206 
+#module 59 size: 2 bs: 0.045739
+207 208 
+#module 60 size: 2 bs: 0.045739
+209 210 
+#module 61 size: 2 bs: 0.045739
+211 212 
+#module 62 size: 2 bs: 0.0457391
+213 214 
+#module 63 size: 2 bs: 0.0457391
+215 216 
+#module 64 size: 2 bs: 0.045739
+217 218 
+#module 65 size: 2 bs: 0.045739
+219 220 
+#module 66 size: 2 bs: 0.0457391
+221 222 
+#module 67 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 68 size: 3 bs: 3.17359e-005
+45 62 67 
+#module 69 size: 2 bs: 1.90403e-013
+32 47 
+#module 70 size: 2 bs: 0.00316501
+43 82 
+#module 71 size: 2 bs: 0.0317431
+19 51 
+#module 72 size: 7 bs: 0.0249599
+33 40 48 63 74 77 91 
+#module 0 size: 10 bs: 0.0391755
+16 21 22 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 1.03685e-005
+26 89 
+#module 2 size: 2 bs: 0.0119337
+29 30 
+#module 3 size: 2 bs: 0.00572623
+49 54 
+#module 4 size: 17 bs: 0.000139367
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 5 size: 2 bs: 0.000154978
+92 93 
+#module 6 size: 2 bs: 0.00130671
+94 95 
+#module 7 size: 2 bs: 1.5099e-014
+96 97 
+#module 8 size: 2 bs: 0.0597315
+98 99 
+#module 9 size: 2 bs: 0.0597314
+100 101 
+#module 10 size: 2 bs: 0.0249185
+102 103 
+#module 11 size: 4 bs: 0.000613821
+104 105 106 119 
+#module 12 size: 3 bs: 1.5099e-014
+107 108 136 
+#module 13 size: 2 bs: 0.045739
+109 110 
+#module 14 size: 2 bs: 0.045739
+111 112 
+#module 15 size: 2 bs: 0.045739
+113 114 
+#module 16 size: 2 bs: 0.0457391
+115 116 
+#module 17 size: 2 bs: 0.0457391
+117 118 
+#module 18 size: 2 bs: 0.045739
+120 121 
+#module 19 size: 2 bs: 0.0454645
+122 123 
+#module 20 size: 2 bs: 0.0456019
+124 125 
+#module 21 size: 2 bs: 0.0457391
+126 127 
+#module 22 size: 2 bs: 0.0457391
+128 129 
+#module 23 size: 2 bs: 0.045739
+130 131 
+#module 24 size: 2 bs: 0.0457391
+132 133 
+#module 25 size: 2 bs: 0.045739
+134 135 
+#module 26 size: 2 bs: 0.0457391
+137 138 
+#module 27 size: 2 bs: 0.0457391
+139 140 
+#module 28 size: 2 bs: 0.0457391
+141 142 
+#module 29 size: 2 bs: 0.0457391
+143 144 
+#module 30 size: 2 bs: 0.0457391
+145 146 
+#module 31 size: 2 bs: 0.0457391
+147 148 
+#module 32 size: 2 bs: 0.0457391
+149 150 
+#module 33 size: 2 bs: 0.045739
+151 152 
+#module 34 size: 2 bs: 0.045739
+153 154 
+#module 35 size: 3 bs: 0.045739
+155 156 157 
+#module 36 size: 2 bs: 0.0457391
+158 159 
+#module 37 size: 2 bs: 0.045739
+160 161 
+#module 38 size: 2 bs: 0.045739
+162 163 
+#module 39 size: 4 bs: 0.0457391
+164 165 166 177 
+#module 40 size: 2 bs: 0.045739
+167 168 
+#module 41 size: 2 bs: 0.045739
+169 170 
+#module 42 size: 2 bs: 0.045739
+171 172 
+#module 43 size: 2 bs: 0.0456019
+173 174 
+#module 44 size: 2 bs: 0.045739
+175 176 
+#module 45 size: 2 bs: 0.045739
+178 179 
+#module 46 size: 2 bs: 0.0457391
+180 181 
+#module 47 size: 2 bs: 0.0454645
+182 183 
+#module 48 size: 2 bs: 0.045739
+184 185 
+#module 49 size: 3 bs: 0.0457391
+186 187 188 
+#module 50 size: 2 bs: 0.0457391
+189 190 
+#module 51 size: 2 bs: 0.045739
+191 192 
+#module 52 size: 2 bs: 0.0457391
+193 194 
+#module 53 size: 2 bs: 0.0457391
+195 196 
+#module 54 size: 2 bs: 0.045739
+197 198 
+#module 55 size: 2 bs: 0.045739
+199 200 
+#module 56 size: 2 bs: 0.0457391
+201 202 
+#module 57 size: 2 bs: 0.045602
+203 204 
+#module 58 size: 2 bs: 0.0457391
+205 206 
+#module 59 size: 2 bs: 0.045739
+207 208 
+#module 60 size: 2 bs: 0.045739
+209 210 
+#module 61 size: 2 bs: 0.045739
+211 212 
+#module 62 size: 2 bs: 0.045739
+213 214 
+#module 63 size: 2 bs: 0.045739
+215 216 
+#module 64 size: 2 bs: 0.045739
+217 218 
+#module 65 size: 2 bs: 0.0457391
+219 220 
+#module 66 size: 2 bs: 0.0457391
+221 222 
+#module 67 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 68 size: 2 bs: 1.38445e-013
+32 47 
+#module 69 size: 2 bs: 0.00316501
+43 82 
+#module 70 size: 3 bs: 8.29879e-006
+74 77 91 
+#module 71 size: 4 bs: 0.0015935
+33 40 48 63 
+#module 72 size: 5 bs: 0.0248495
+45 62 67 70 87 
+#module 0 size: 10 bs: 0.0391754
+16 21 22 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 0.0119337
+26 89 
+#module 2 size: 2 bs: 0.0158845
+29 30 
+#module 3 size: 2 bs: 0.0597314
+49 54 
+#module 4 size: 17 bs: 0.00572624
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 5 size: 2 bs: 0.000139367
+92 93 
+#module 6 size: 2 bs: 0.000154978
+94 95 
+#module 7 size: 2 bs: 0.00130671
+96 97 
+#module 8 size: 2 bs: 1.5099e-014
+98 99 
+#module 9 size: 2 bs: 0.0597315
+100 101 
+#module 10 size: 2 bs: 0.00995838
+102 103 
+#module 11 size: 4 bs: 0.000613821
+104 105 106 119 
+#module 12 size: 3 bs: 1.5099e-014
+107 108 136 
+#module 13 size: 2 bs: 0.0457391
+109 110 
+#module 14 size: 2 bs: 0.045739
+111 112 
+#module 15 size: 2 bs: 0.045739
+113 114 
+#module 16 size: 2 bs: 0.0457391
+115 116 
+#module 17 size: 2 bs: 0.045739
+117 118 
+#module 18 size: 2 bs: 0.0457391
+120 121 
+#module 19 size: 2 bs: 0.0454645
+122 123 
+#module 20 size: 2 bs: 0.0456019
+124 125 
+#module 21 size: 2 bs: 0.045739
+126 127 
+#module 22 size: 2 bs: 0.045739
+128 129 
+#module 23 size: 2 bs: 0.0457391
+130 131 
+#module 24 size: 2 bs: 0.0457391
+132 133 
+#module 25 size: 2 bs: 0.0457391
+134 135 
+#module 26 size: 2 bs: 0.0457391
+137 138 
+#module 27 size: 2 bs: 0.0457391
+139 140 
+#module 28 size: 2 bs: 0.045739
+141 142 
+#module 29 size: 2 bs: 0.045739
+143 144 
+#module 30 size: 2 bs: 0.0457391
+145 146 
+#module 31 size: 2 bs: 0.0457391
+147 148 
+#module 32 size: 2 bs: 0.045739
+149 150 
+#module 33 size: 2 bs: 0.0457391
+151 152 
+#module 34 size: 2 bs: 0.0457391
+153 154 
+#module 35 size: 3 bs: 0.0457391
+155 156 157 
+#module 36 size: 2 bs: 0.0457391
+158 159 
+#module 37 size: 2 bs: 0.0457391
+160 161 
+#module 38 size: 2 bs: 0.0457391
+162 163 
+#module 39 size: 4 bs: 0.045739
+164 165 166 177 
+#module 40 size: 2 bs: 0.045739
+167 168 
+#module 41 size: 2 bs: 0.045739
+169 170 
+#module 42 size: 2 bs: 0.045739
+171 172 
+#module 43 size: 2 bs: 0.0456019
+173 174 
+#module 44 size: 2 bs: 0.045739
+175 176 
+#module 45 size: 2 bs: 0.045739
+178 179 
+#module 46 size: 2 bs: 0.045739
+180 181 
+#module 47 size: 2 bs: 0.0454645
+182 183 
+#module 48 size: 2 bs: 0.0457391
+184 185 
+#module 49 size: 3 bs: 0.0457391
+186 187 188 
+#module 50 size: 2 bs: 0.045739
+189 190 
+#module 51 size: 2 bs: 0.045739
+191 192 
+#module 52 size: 2 bs: 0.045739
+193 194 
+#module 53 size: 2 bs: 0.045739
+195 196 
+#module 54 size: 2 bs: 0.0457391
+197 198 
+#module 55 size: 2 bs: 0.045739
+199 200 
+#module 56 size: 2 bs: 0.0457391
+201 202 
+#module 57 size: 2 bs: 0.0456019
+203 204 
+#module 58 size: 2 bs: 0.0457391
+205 206 
+#module 59 size: 2 bs: 0.045739
+207 208 
+#module 60 size: 2 bs: 0.045739
+209 210 
+#module 61 size: 2 bs: 0.045739
+211 212 
+#module 62 size: 2 bs: 0.045739
+213 214 
+#module 63 size: 2 bs: 0.0457391
+215 216 
+#module 64 size: 2 bs: 0.0457391
+217 218 
+#module 65 size: 2 bs: 0.0457391
+219 220 
+#module 66 size: 2 bs: 0.045739
+221 222 
+#module 67 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 68 size: 3 bs: 3.1736e-005
+45 62 67 
+#module 69 size: 2 bs: 1.90403e-013
+32 47 
+#module 70 size: 2 bs: 0.00316501
+43 82 
+#module 71 size: 2 bs: 0.0317431
+19 51 
+#module 72 size: 5 bs: 2.63929e-005
+33 48 74 77 91 
+#module 0 size: 10 bs: 0.0391755
+16 21 22 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 1.03685e-005
+26 89 
+#module 2 size: 2 bs: 0.0119337
+29 30 
+#module 3 size: 2 bs: 1.5099e-014
+49 54 
+#module 4 size: 17 bs: 0.0378957
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 5 size: 2 bs: 0.000139367
+92 93 
+#module 6 size: 2 bs: 0.000154978
+94 95 
+#module 7 size: 2 bs: 0.00103146
+96 97 
+#module 8 size: 2 bs: 0.0597314
+98 99 
+#module 9 size: 2 bs: 0.0597315
+100 101 
+#module 10 size: 2 bs: 0.00995836
+102 103 
+#module 11 size: 4 bs: 0.000613821
+104 105 106 119 
+#module 12 size: 3 bs: 1.5099e-014
+107 108 136 
+#module 13 size: 2 bs: 0.045739
+109 110 
+#module 14 size: 2 bs: 0.045739
+111 112 
+#module 15 size: 2 bs: 0.045739
+113 114 
+#module 16 size: 2 bs: 0.0457391
+115 116 
+#module 17 size: 2 bs: 0.045739
+117 118 
+#module 18 size: 2 bs: 0.045739
+120 121 
+#module 19 size: 2 bs: 0.0454645
+122 123 
+#module 20 size: 2 bs: 0.045602
+124 125 
+#module 21 size: 2 bs: 0.045739
+126 127 
+#module 22 size: 2 bs: 0.0457391
+128 129 
+#module 23 size: 2 bs: 0.045739
+130 131 
+#module 24 size: 2 bs: 0.0457391
+132 133 
+#module 25 size: 2 bs: 0.045739
+134 135 
+#module 26 size: 2 bs: 0.0457391
+137 138 
+#module 27 size: 2 bs: 0.0457391
+139 140 
+#module 28 size: 2 bs: 0.0457391
+141 142 
+#module 29 size: 2 bs: 0.045739
+143 144 
+#module 30 size: 2 bs: 0.0457391
+145 146 
+#module 31 size: 2 bs: 0.045739
+147 148 
+#module 32 size: 2 bs: 0.045739
+149 150 
+#module 33 size: 2 bs: 0.045739
+151 152 
+#module 34 size: 2 bs: 0.0457391
+153 154 
+#module 35 size: 3 bs: 0.045739
+155 156 157 
+#module 36 size: 2 bs: 0.045739
+158 159 
+#module 37 size: 2 bs: 0.045739
+160 161 
+#module 38 size: 2 bs: 0.045739
+162 163 
+#module 39 size: 4 bs: 0.045739
+164 165 166 177 
+#module 40 size: 2 bs: 0.045739
+167 168 
+#module 41 size: 2 bs: 0.045739
+169 170 
+#module 42 size: 2 bs: 0.045739
+171 172 
+#module 43 size: 2 bs: 0.045602
+173 174 
+#module 44 size: 2 bs: 0.045739
+175 176 
+#module 45 size: 2 bs: 0.0457391
+178 179 
+#module 46 size: 2 bs: 0.045739
+180 181 
+#module 47 size: 2 bs: 0.0454645
+182 183 
+#module 48 size: 2 bs: 0.045739
+184 185 
+#module 49 size: 3 bs: 0.0457391
+186 187 188 
+#module 50 size: 2 bs: 0.045739
+189 190 
+#module 51 size: 2 bs: 0.0457391
+191 192 
+#module 52 size: 2 bs: 0.045739
+193 194 
+#module 53 size: 2 bs: 0.045739
+195 196 
+#module 54 size: 2 bs: 0.045739
+197 198 
+#module 55 size: 2 bs: 0.0457391
+199 200 
+#module 56 size: 2 bs: 0.045739
+201 202 
+#module 57 size: 2 bs: 0.045602
+203 204 
+#module 58 size: 2 bs: 0.0457391
+205 206 
+#module 59 size: 2 bs: 0.045739
+207 208 
+#module 60 size: 2 bs: 0.045739
+209 210 
+#module 61 size: 2 bs: 0.0457391
+211 212 
+#module 62 size: 2 bs: 0.0457391
+213 214 
+#module 63 size: 2 bs: 0.045739
+215 216 
+#module 64 size: 2 bs: 0.0457391
+217 218 
+#module 65 size: 2 bs: 0.0457391
+219 220 
+#module 66 size: 2 bs: 0.045739
+221 222 
+#module 67 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 68 size: 3 bs: 3.1736e-005
+45 62 67 
+#module 69 size: 2 bs: 1.38445e-013
+32 47 
+#module 70 size: 2 bs: 0.00316501
+43 82 
+#module 71 size: 2 bs: 0.0317431
+19 51 
+#module 72 size: 7 bs: 0.0249599
+33 40 48 63 74 77 91 
+#module 0 size: 10 bs: 0.0107508
+16 21 22 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 1.03685e-005
+26 89 
+#module 2 size: 2 bs: 0.0119337
+29 30 
+#module 3 size: 2 bs: 0.0378957
+49 54 
+#module 4 size: 17 bs: 0.000139367
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 5 size: 2 bs: 0.000154978
+92 93 
+#module 6 size: 2 bs: 0.00130671
+94 95 
+#module 7 size: 2 bs: 1.5099e-014
+96 97 
+#module 8 size: 2 bs: 0.0597315
+98 99 
+#module 9 size: 2 bs: 0.0597314
+100 101 
+#module 10 size: 2 bs: 0.00995837
+102 103 
+#module 11 size: 4 bs: 0.00061382
+104 105 106 119 
+#module 12 size: 3 bs: 1.5099e-014
+107 108 136 
+#module 13 size: 2 bs: 0.045739
+109 110 
+#module 14 size: 2 bs: 0.0457391
+111 112 
+#module 15 size: 2 bs: 0.0457391
+113 114 
+#module 16 size: 2 bs: 0.045739
+115 116 
+#module 17 size: 2 bs: 0.045739
+117 118 
+#module 18 size: 2 bs: 0.045739
+120 121 
+#module 19 size: 2 bs: 0.0454645
+122 123 
+#module 20 size: 2 bs: 0.0456019
+124 125 
+#module 21 size: 2 bs: 0.045739
+126 127 
+#module 22 size: 2 bs: 0.045739
+128 129 
+#module 23 size: 2 bs: 0.0457391
+130 131 
+#module 24 size: 2 bs: 0.045739
+132 133 
+#module 25 size: 2 bs: 0.045739
+134 135 
+#module 26 size: 2 bs: 0.045739
+137 138 
+#module 27 size: 2 bs: 0.0457391
+139 140 
+#module 28 size: 2 bs: 0.0457391
+141 142 
+#module 29 size: 2 bs: 0.0457391
+143 144 
+#module 30 size: 2 bs: 0.0457391
+145 146 
+#module 31 size: 2 bs: 0.0457391
+147 148 
+#module 32 size: 2 bs: 0.0457391
+149 150 
+#module 33 size: 2 bs: 0.045739
+151 152 
+#module 34 size: 2 bs: 0.045739
+153 154 
+#module 35 size: 3 bs: 0.0457391
+155 156 157 
+#module 36 size: 2 bs: 0.045739
+158 159 
+#module 37 size: 2 bs: 0.0457391
+160 161 
+#module 38 size: 2 bs: 0.045739
+162 163 
+#module 39 size: 4 bs: 0.0457391
+164 165 166 177 
+#module 40 size: 2 bs: 0.045739
+167 168 
+#module 41 size: 2 bs: 0.045739
+169 170 
+#module 42 size: 2 bs: 0.0457391
+171 172 
+#module 43 size: 2 bs: 0.045602
+173 174 
+#module 44 size: 2 bs: 0.0457391
+175 176 
+#module 45 size: 2 bs: 0.045739
+178 179 
+#module 46 size: 2 bs: 0.0457391
+180 181 
+#module 47 size: 2 bs: 0.0454645
+182 183 
+#module 48 size: 2 bs: 0.0454645
+184 185 
+#module 49 size: 3 bs: 0.0457391
+186 187 188 
+#module 50 size: 2 bs: 0.0457391
+189 190 
+#module 51 size: 2 bs: 0.0457391
+191 192 
+#module 52 size: 2 bs: 0.0457391
+193 194 
+#module 53 size: 2 bs: 0.0457391
+195 196 
+#module 54 size: 2 bs: 0.0457391
+197 198 
+#module 55 size: 2 bs: 0.0457391
+199 200 
+#module 56 size: 2 bs: 0.045739
+201 202 
+#module 57 size: 2 bs: 0.045739
+203 204 
+#module 58 size: 2 bs: 0.0456019
+205 206 
+#module 59 size: 2 bs: 0.0457391
+207 208 
+#module 60 size: 2 bs: 0.0457391
+209 210 
+#module 61 size: 2 bs: 0.045739
+211 212 
+#module 62 size: 2 bs: 0.045739
+213 214 
+#module 63 size: 2 bs: 0.0457391
+215 216 
+#module 64 size: 2 bs: 0.0457391
+217 218 
+#module 65 size: 2 bs: 0.0457391
+219 220 
+#module 66 size: 2 bs: 0.0457391
+221 222 
+#module 67 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 68 size: 3 bs: 3.17359e-005
+45 62 67 
+#module 69 size: 2 bs: 0.00936478
+74 91 
+#module 70 size: 2 bs: 1.90403e-013
+32 47 
+#module 71 size: 2 bs: 0.00316501
+43 82 
+#module 0 size: 10 bs: 0.0391755
+16 21 22 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 1.47264e-006
+29 30 
+#module 2 size: 2 bs: 0.0158845
+49 54 
+#module 3 size: 17 bs: 1.5099e-014
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 4 size: 2 bs: 4.36878e-005
+92 93 
+#module 5 size: 2 bs: 0.000154978
+94 95 
+#module 6 size: 2 bs: 0.0597315
+96 97 
+#module 7 size: 2 bs: 6.13604e-007
+98 99 
+#module 8 size: 2 bs: 0.00995839
+100 101 
+#module 9 size: 2 bs: 0.000613822
+102 103 
+#module 10 size: 4 bs: 0.000139367
+104 105 106 119 
+#module 11 size: 3 bs: 1.5099e-014
+107 108 136 
+#module 12 size: 2 bs: 0.0457391
+109 110 
+#module 13 size: 2 bs: 0.0457391
+111 112 
+#module 14 size: 2 bs: 0.045739
+113 114 
+#module 15 size: 2 bs: 0.045739
+115 116 
+#module 16 size: 2 bs: 0.0457391
+117 118 
+#module 17 size: 2 bs: 0.0457391
+120 121 
+#module 18 size: 2 bs: 0.0454645
+122 123 
+#module 19 size: 2 bs: 0.045602
+124 125 
+#module 20 size: 2 bs: 0.045739
+126 127 
+#module 21 size: 2 bs: 0.0457391
+128 129 
+#module 22 size: 2 bs: 0.045739
+130 131 
+#module 23 size: 2 bs: 0.045739
+132 133 
+#module 24 size: 2 bs: 0.045739
+134 135 
+#module 25 size: 2 bs: 0.0457391
+137 138 
+#module 26 size: 2 bs: 0.045739
+139 140 
+#module 27 size: 2 bs: 0.045739
+141 142 
+#module 28 size: 2 bs: 0.045739
+143 144 
+#module 29 size: 2 bs: 0.0457391
+145 146 
+#module 30 size: 2 bs: 0.0457391
+147 148 
+#module 31 size: 2 bs: 0.045739
+149 150 
+#module 32 size: 2 bs: 0.0457391
+151 152 
+#module 33 size: 2 bs: 0.045739
+153 154 
+#module 34 size: 3 bs: 0.045739
+155 156 157 
+#module 35 size: 2 bs: 0.045739
+158 159 
+#module 36 size: 2 bs: 0.045739
+160 161 
+#module 37 size: 2 bs: 0.045739
+162 163 
+#module 38 size: 4 bs: 0.045739
+164 165 166 177 
+#module 39 size: 2 bs: 0.0457391
+167 168 
+#module 40 size: 2 bs: 0.045739
+169 170 
+#module 41 size: 2 bs: 0.0457391
+171 172 
+#module 42 size: 2 bs: 0.045602
+173 174 
+#module 43 size: 2 bs: 0.045739
+175 176 
+#module 44 size: 2 bs: 0.0457391
+178 179 
+#module 45 size: 2 bs: 0.045739
+180 181 
+#module 46 size: 2 bs: 0.0454645
+182 183 
+#module 47 size: 2 bs: 0.045739
+184 185 
+#module 48 size: 3 bs: 0.0457391
+186 187 188 
+#module 49 size: 2 bs: 0.0457391
+189 190 
+#module 50 size: 2 bs: 0.0457391
+191 192 
+#module 51 size: 2 bs: 0.0457391
+193 194 
+#module 52 size: 2 bs: 0.045739
+195 196 
+#module 53 size: 2 bs: 0.045739
+197 198 
+#module 54 size: 2 bs: 0.045739
+199 200 
+#module 55 size: 2 bs: 0.045739
+201 202 
+#module 56 size: 2 bs: 0.045602
+203 204 
+#module 57 size: 2 bs: 0.0457391
+205 206 
+#module 58 size: 2 bs: 0.0457391
+207 208 
+#module 59 size: 2 bs: 0.0457391
+209 210 
+#module 60 size: 2 bs: 0.045739
+211 212 
+#module 61 size: 2 bs: 0.0457391
+213 214 
+#module 62 size: 2 bs: 0.045739
+215 216 
+#module 63 size: 2 bs: 0.045739
+217 218 
+#module 64 size: 2 bs: 0.045739
+219 220 
+#module 65 size: 2 bs: 0.045739
+221 222 
+#module 66 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 67 size: 3 bs: 3.1736e-005
+45 62 67 
+#module 68 size: 2 bs: 1.38445e-013
+32 47 
+#module 69 size: 2 bs: 0.00316501
+43 82 
+#module 70 size: 2 bs: 0.00572624
+26 89 
+#module 71 size: 2 bs: 9.34926e-101
+33 48 
+#module 72 size: 3 bs: 8.29878e-006
+74 77 91 
+#module 0 size: 10 bs: 0.0391754
+16 21 22 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 1.47264e-006
+26 89 
+#module 2 size: 2 bs: 0.0119337
+29 30 
+#module 3 size: 2 bs: 0.00572624
+49 54 
+#module 4 size: 17 bs: 0.000139367
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 5 size: 2 bs: 0.000154978
+92 93 
+#module 6 size: 2 bs: 0.00130671
+94 95 
+#module 7 size: 2 bs: 1.5099e-014
+96 97 
+#module 8 size: 2 bs: 0.0597315
+98 99 
+#module 9 size: 2 bs: 0.0597314
+100 101 
+#module 10 size: 2 bs: 0.0249185
+102 103 
+#module 11 size: 4 bs: 0.000613821
+104 105 106 119 
+#module 12 size: 3 bs: 1.5099e-014
+107 108 136 
+#module 13 size: 2 bs: 0.045739
+109 110 
+#module 14 size: 2 bs: 0.0457391
+111 112 
+#module 15 size: 2 bs: 0.045739
+113 114 
+#module 16 size: 2 bs: 0.0457391
+115 116 
+#module 17 size: 2 bs: 0.045739
+117 118 
+#module 18 size: 2 bs: 0.0457391
+120 121 
+#module 19 size: 2 bs: 0.0454645
+122 123 
+#module 20 size: 2 bs: 0.0456019
+124 125 
+#module 21 size: 2 bs: 0.045739
+126 127 
+#module 22 size: 2 bs: 0.045739
+128 129 
+#module 23 size: 2 bs: 0.045739
+130 131 
+#module 24 size: 2 bs: 0.0457391
+132 133 
+#module 25 size: 2 bs: 0.045739
+134 135 
+#module 26 size: 2 bs: 0.0457391
+137 138 
+#module 27 size: 2 bs: 0.045739
+139 140 
+#module 28 size: 2 bs: 0.0457391
+141 142 
+#module 29 size: 2 bs: 0.0457391
+143 144 
+#module 30 size: 2 bs: 0.045739
+145 146 
+#module 31 size: 2 bs: 0.0457391
+147 148 
+#module 32 size: 2 bs: 0.0457391
+149 150 
+#module 33 size: 2 bs: 0.045739
+151 152 
+#module 34 size: 2 bs: 0.045739
+153 154 
+#module 35 size: 3 bs: 0.045739
+155 156 157 
+#module 36 size: 2 bs: 0.045739
+158 159 
+#module 37 size: 2 bs: 0.045739
+160 161 
+#module 38 size: 2 bs: 0.0457391
+162 163 
+#module 39 size: 4 bs: 0.045739
+164 165 166 177 
+#module 40 size: 2 bs: 0.0457391
+167 168 
+#module 41 size: 2 bs: 0.045739
+169 170 
+#module 42 size: 2 bs: 0.045739
+171 172 
+#module 43 size: 2 bs: 0.045602
+173 174 
+#module 44 size: 2 bs: 0.045739
+175 176 
+#module 45 size: 2 bs: 0.045739
+178 179 
+#module 46 size: 2 bs: 0.045739
+180 181 
+#module 47 size: 2 bs: 0.0454645
+182 183 
+#module 48 size: 2 bs: 0.045739
+184 185 
+#module 49 size: 3 bs: 0.045739
+186 187 188 
+#module 50 size: 2 bs: 0.045739
+189 190 
+#module 51 size: 2 bs: 0.0457391
+191 192 
+#module 52 size: 2 bs: 0.045739
+193 194 
+#module 53 size: 2 bs: 0.045739
+195 196 
+#module 54 size: 2 bs: 0.045739
+197 198 
+#module 55 size: 2 bs: 0.0457391
+199 200 
+#module 56 size: 2 bs: 0.045739
+201 202 
+#module 57 size: 2 bs: 0.0456019
+203 204 
+#module 58 size: 2 bs: 0.0457391
+205 206 
+#module 59 size: 2 bs: 0.045739
+207 208 
+#module 60 size: 2 bs: 0.045739
+209 210 
+#module 61 size: 2 bs: 0.0457391
+211 212 
+#module 62 size: 2 bs: 0.0457391
+213 214 
+#module 63 size: 2 bs: 0.045739
+215 216 
+#module 64 size: 2 bs: 0.045739
+217 218 
+#module 65 size: 2 bs: 0.045739
+219 220 
+#module 66 size: 2 bs: 0.0457391
+221 222 
+#module 67 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 68 size: 3 bs: 3.1736e-005
+45 62 67 
+#module 69 size: 2 bs: 1.90403e-013
+32 47 
+#module 70 size: 2 bs: 0.00316501
+43 82 
+#module 71 size: 7 bs: 0.0249599
+33 40 48 63 74 77 91 
+#module 0 size: 10 bs: 0.0391755
+16 21 22 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 0.0119337
+26 89 
+#module 2 size: 2 bs: 0.0158845
+29 30 
+#module 3 size: 2 bs: 0.00572624
+49 54 
+#module 4 size: 17 bs: 0.000139367
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 5 size: 2 bs: 0.000154978
+92 93 
+#module 6 size: 2 bs: 0.00103146
+94 95 
+#module 7 size: 2 bs: 0.0597314
+96 97 
+#module 8 size: 2 bs: 0.0597315
+98 99 
+#module 9 size: 2 bs: 0.0249185
+100 101 
+#module 10 size: 2 bs: 0.000613821
+102 103 
+#module 11 size: 4 bs: 1.5099e-014
+104 105 106 119 
+#module 12 size: 3 bs: 0.0457391
+107 108 136 
+#module 13 size: 2 bs: 0.0457391
+109 110 
+#module 14 size: 2 bs: 0.0457391
+111 112 
+#module 15 size: 2 bs: 0.0457391
+113 114 
+#module 16 size: 2 bs: 0.045739
+115 116 
+#module 17 size: 2 bs: 0.045739
+117 118 
+#module 18 size: 2 bs: 0.0454645
+120 121 
+#module 19 size: 2 bs: 0.045602
+122 123 
+#module 20 size: 2 bs: 0.045739
+124 125 
+#module 21 size: 2 bs: 0.0457391
+126 127 
+#module 22 size: 2 bs: 0.045739
+128 129 
+#module 23 size: 2 bs: 0.045739
+130 131 
+#module 24 size: 2 bs: 0.045739
+132 133 
+#module 25 size: 2 bs: 0.045739
+134 135 
+#module 26 size: 2 bs: 0.045739
+137 138 
+#module 27 size: 2 bs: 0.045739
+139 140 
+#module 28 size: 2 bs: 0.0457391
+141 142 
+#module 29 size: 2 bs: 0.045739
+143 144 
+#module 30 size: 2 bs: 0.0457391
+145 146 
+#module 31 size: 2 bs: 0.045739
+147 148 
+#module 32 size: 2 bs: 0.0457391
+149 150 
+#module 33 size: 2 bs: 0.045739
+151 152 
+#module 34 size: 2 bs: 0.045739
+153 154 
+#module 35 size: 3 bs: 0.045739
+155 156 157 
+#module 36 size: 2 bs: 0.0457391
+158 159 
+#module 37 size: 2 bs: 0.045739
+160 161 
+#module 38 size: 2 bs: 0.0457391
+162 163 
+#module 39 size: 4 bs: 0.045739
+164 165 166 177 
+#module 40 size: 2 bs: 0.045739
+167 168 
+#module 41 size: 2 bs: 0.045739
+169 170 
+#module 42 size: 2 bs: 0.045602
+171 172 
+#module 43 size: 2 bs: 0.045739
+173 174 
+#module 44 size: 2 bs: 0.045739
+175 176 
+#module 45 size: 2 bs: 0.0457391
+178 179 
+#module 46 size: 2 bs: 0.0454645
+180 181 
+#module 47 size: 2 bs: 0.045739
+182 183 
+#module 48 size: 2 bs: 0.045739
+184 185 
+#module 49 size: 3 bs: 0.045739
+186 187 188 
+#module 50 size: 2 bs: 0.045739
+189 190 
+#module 51 size: 2 bs: 0.0457391
+191 192 
+#module 52 size: 2 bs: 0.045739
+193 194 
+#module 53 size: 2 bs: 0.045739
+195 196 
+#module 54 size: 2 bs: 0.045739
+197 198 
+#module 55 size: 2 bs: 0.045739
+199 200 
+#module 56 size: 2 bs: 0.045602
+201 202 
+#module 57 size: 2 bs: 0.045739
+203 204 
+#module 58 size: 2 bs: 0.045739
+205 206 
+#module 59 size: 2 bs: 0.0457391
+207 208 
+#module 60 size: 2 bs: 0.045739
+209 210 
+#module 61 size: 2 bs: 0.045739
+211 212 
+#module 62 size: 2 bs: 0.045739
+213 214 
+#module 63 size: 2 bs: 0.045739
+215 216 
+#module 64 size: 2 bs: 0.0457391
+217 218 
+#module 65 size: 2 bs: 0.045739
+219 220 
+#module 66 size: 2 bs: 0.045739
+221 222 
+#module 67 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 68 size: 3 bs: 3.1736e-005
+45 62 67 
+#module 69 size: 2 bs: 1.38445e-013
+32 47 
+#module 70 size: 2 bs: 0.00316501
+43 82 
+#module 71 size: 7 bs: 0.0249599
+33 40 48 63 74 77 91 
+#module 0 size: 10 bs: 0.0391755
+16 21 22 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 0.0119337
+26 89 
+#module 2 size: 2 bs: 0.0158845
+29 30 
+#module 3 size: 2 bs: 0.0597315
+49 54 
+#module 4 size: 17 bs: 0.00572624
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 5 size: 2 bs: 0.000139367
+92 93 
+#module 6 size: 2 bs: 0.000154978
+94 95 
+#module 7 size: 2 bs: 0.00101068
+96 97 
+#module 8 size: 2 bs: 1.5099e-014
+98 99 
+#module 9 size: 2 bs: 0.0597315
+100 101 
+#module 10 size: 2 bs: 0.0249185
+102 103 
+#module 11 size: 4 bs: 0.000613821
+104 105 106 119 
+#module 12 size: 3 bs: 1.5099e-014
+107 108 136 
+#module 13 size: 2 bs: 0.045739
+109 110 
+#module 14 size: 2 bs: 0.0457391
+111 112 
+#module 15 size: 2 bs: 0.0457391
+113 114 
+#module 16 size: 2 bs: 0.0457391
+115 116 
+#module 17 size: 2 bs: 0.045739
+117 118 
+#module 18 size: 2 bs: 0.045739
+120 121 
+#module 19 size: 2 bs: 0.0454645
+122 123 
+#module 20 size: 2 bs: 0.0456019
+124 125 
+#module 21 size: 2 bs: 0.0457391
+126 127 
+#module 22 size: 2 bs: 0.0457391
+128 129 
+#module 23 size: 2 bs: 0.045739
+130 131 
+#module 24 size: 2 bs: 0.045739
+132 133 
+#module 25 size: 2 bs: 0.045739
+134 135 
+#module 26 size: 2 bs: 0.045739
+137 138 
+#module 27 size: 2 bs: 0.0457391
+139 140 
+#module 28 size: 2 bs: 0.0457391
+141 142 
+#module 29 size: 2 bs: 0.0457391
+143 144 
+#module 30 size: 2 bs: 0.045739
+145 146 
+#module 31 size: 2 bs: 0.045739
+147 148 
+#module 32 size: 2 bs: 0.045739
+149 150 
+#module 33 size: 2 bs: 0.045739
+151 152 
+#module 34 size: 2 bs: 0.045739
+153 154 
+#module 35 size: 3 bs: 0.0457391
+155 156 157 
+#module 36 size: 2 bs: 0.045739
+158 159 
+#module 37 size: 2 bs: 0.0457391
+160 161 
+#module 38 size: 2 bs: 0.0457391
+162 163 
+#module 39 size: 4 bs: 0.0457391
+164 165 166 177 
+#module 40 size: 2 bs: 0.045739
+167 168 
+#module 41 size: 2 bs: 0.045739
+169 170 
+#module 42 size: 2 bs: 0.0457391
+171 172 
+#module 43 size: 2 bs: 0.045602
+173 174 
+#module 44 size: 2 bs: 0.0457391
+175 176 
+#module 45 size: 2 bs: 0.045739
+178 179 
+#module 46 size: 2 bs: 0.0457391
+180 181 
+#module 47 size: 2 bs: 0.0454645
+182 183 
+#module 48 size: 2 bs: 0.0457391
+184 185 
+#module 49 size: 3 bs: 0.045739
+186 187 188 
+#module 50 size: 2 bs: 0.0457391
+189 190 
+#module 51 size: 2 bs: 0.045739
+191 192 
+#module 52 size: 2 bs: 0.0457391
+193 194 
+#module 53 size: 2 bs: 0.045739
+195 196 
+#module 54 size: 2 bs: 0.045739
+197 198 
+#module 55 size: 2 bs: 0.045739
+199 200 
+#module 56 size: 2 bs: 0.045739
+201 202 
+#module 57 size: 2 bs: 0.045602
+203 204 
+#module 58 size: 2 bs: 0.0457391
+205 206 
+#module 59 size: 2 bs: 0.045739
+207 208 
+#module 60 size: 2 bs: 0.0457391
+209 210 
+#module 61 size: 2 bs: 0.045739
+211 212 
+#module 62 size: 2 bs: 0.045739
+213 214 
+#module 63 size: 2 bs: 0.0457391
+215 216 
+#module 64 size: 2 bs: 0.0457391
+217 218 
+#module 65 size: 2 bs: 0.045739
+219 220 
+#module 66 size: 2 bs: 0.0457391
+221 222 
+#module 67 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 68 size: 3 bs: 3.17359e-005
+45 62 67 
+#module 69 size: 2 bs: 1.90403e-013
+32 47 
+#module 70 size: 2 bs: 0.00316501
+43 82 
+#module 71 size: 7 bs: 0.0249599
+33 40 48 63 74 77 91 
+#module 0 size: 11 bs: 0.0107508
+16 21 22 37 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 1.03685e-005
+26 89 
+#module 2 size: 2 bs: 0.0712799
+29 30 
+#module 3 size: 2 bs: 0.0312536
+49 54 
+#module 4 size: 17 bs: 0.000139367
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 5 size: 2 bs: 0.000154978
+92 93 
+#module 6 size: 2 bs: 0.00130671
+94 95 
+#module 7 size: 2 bs: 1.5099e-014
+96 97 
+#module 8 size: 2 bs: 0.0249185
+98 99 
+#module 9 size: 2 bs: 0.0597315
+100 101 
+#module 10 size: 2 bs: 0.0597315
+102 103 
+#module 11 size: 4 bs: 0.000613821
+104 105 106 119 
+#module 12 size: 3 bs: 1.5099e-014
+107 108 136 
+#module 13 size: 2 bs: 0.0457391
+109 110 
+#module 14 size: 2 bs: 0.0457391
+111 112 
+#module 15 size: 2 bs: 0.0457391
+113 114 
+#module 16 size: 2 bs: 0.045739
+115 116 
+#module 17 size: 2 bs: 0.045739
+117 118 
+#module 18 size: 2 bs: 0.045739
+120 121 
+#module 19 size: 2 bs: 0.0454645
+122 123 
+#module 20 size: 2 bs: 0.045602
+124 125 
+#module 21 size: 2 bs: 0.0457391
+126 127 
+#module 22 size: 2 bs: 0.0457391
+128 129 
+#module 23 size: 2 bs: 0.045739
+130 131 
+#module 24 size: 2 bs: 0.045739
+132 133 
+#module 25 size: 2 bs: 0.045739
+134 135 
+#module 26 size: 2 bs: 0.045739
+137 138 
+#module 27 size: 2 bs: 0.0457391
+139 140 
+#module 28 size: 2 bs: 0.0457391
+141 142 
+#module 29 size: 2 bs: 0.0457391
+143 144 
+#module 30 size: 2 bs: 0.0457391
+145 146 
+#module 31 size: 2 bs: 0.0457391
+147 148 
+#module 32 size: 2 bs: 0.045739
+149 150 
+#module 33 size: 2 bs: 0.0457391
+151 152 
+#module 34 size: 2 bs: 0.045739
+153 154 
+#module 35 size: 3 bs: 0.0457391
+155 156 157 
+#module 36 size: 2 bs: 0.045739
+158 159 
+#module 37 size: 2 bs: 0.045739
+160 161 
+#module 38 size: 2 bs: 0.045739
+162 163 
+#module 39 size: 4 bs: 0.0457391
+164 165 166 177 
+#module 40 size: 2 bs: 0.0457391
+167 168 
+#module 41 size: 2 bs: 0.045739
+169 170 
+#module 42 size: 2 bs: 0.0457391
+171 172 
+#module 43 size: 2 bs: 0.045602
+173 174 
+#module 44 size: 2 bs: 0.045739
+175 176 
+#module 45 size: 2 bs: 0.045739
+178 179 
+#module 46 size: 2 bs: 0.0457391
+180 181 
+#module 47 size: 2 bs: 0.0454645
+182 183 
+#module 48 size: 2 bs: 0.045739
+184 185 
+#module 49 size: 3 bs: 0.0457391
+186 187 188 
+#module 50 size: 2 bs: 0.0457391
+189 190 
+#module 51 size: 2 bs: 0.045739
+191 192 
+#module 52 size: 2 bs: 0.045739
+193 194 
+#module 53 size: 2 bs: 0.0457391
+195 196 
+#module 54 size: 2 bs: 0.045739
+197 198 
+#module 55 size: 2 bs: 0.045739
+199 200 
+#module 56 size: 2 bs: 0.045739
+201 202 
+#module 57 size: 2 bs: 0.0456019
+203 204 
+#module 58 size: 2 bs: 0.045739
+205 206 
+#module 59 size: 2 bs: 0.0457391
+207 208 
+#module 60 size: 2 bs: 0.0457391
+209 210 
+#module 61 size: 2 bs: 0.0457391
+211 212 
+#module 62 size: 2 bs: 0.0457391
+213 214 
+#module 63 size: 2 bs: 0.0457391
+215 216 
+#module 64 size: 2 bs: 0.045739
+217 218 
+#module 65 size: 2 bs: 0.0457391
+219 220 
+#module 66 size: 2 bs: 0.0457391
+221 222 
+#module 67 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 68 size: 2 bs: 1.90403e-013
+32 47 
+#module 69 size: 2 bs: 0.00316501
+43 82 
+#module 70 size: 3 bs: 8.29878e-006
+74 77 91 
+#module 71 size: 2 bs: 1.28669e-101
+33 48 
+#module 72 size: 5 bs: 0.0248495
+45 62 67 70 87 
+#module 0 size: 11 bs: 0.0391755
+16 21 22 37 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 1.03685e-005
+26 89 
+#module 2 size: 2 bs: 0.07128
+49 54 
+#module 3 size: 2 bs: 0.0158845
+29 30 
+#module 4 size: 17 bs: 0.00995838
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 5 size: 2 bs: 0.000154978
+92 93 
+#module 6 size: 2 bs: 0.00130671
+94 95 
+#module 7 size: 2 bs: 1.5099e-014
+96 97 
+#module 8 size: 2 bs: 0.0597315
+98 99 
+#module 9 size: 2 bs: 0.0597315
+100 101 
+#module 10 size: 2 bs: 0.000139367
+102 103 
+#module 11 size: 4 bs: 0.000613821
+104 105 106 119 
+#module 12 size: 3 bs: 1.5099e-014
+107 108 136 
+#module 13 size: 2 bs: 0.045739
+109 110 
+#module 14 size: 2 bs: 0.045739
+111 112 
+#module 15 size: 2 bs: 0.045739
+113 114 
+#module 16 size: 2 bs: 0.045739
+115 116 
+#module 17 size: 2 bs: 0.045739
+117 118 
+#module 18 size: 2 bs: 0.0457391
+120 121 
+#module 19 size: 2 bs: 0.0454645
+122 123 
+#module 20 size: 2 bs: 0.0456019
+124 125 
+#module 21 size: 2 bs: 0.0457391
+126 127 
+#module 22 size: 2 bs: 0.0457391
+128 129 
+#module 23 size: 2 bs: 0.045739
+130 131 
+#module 24 size: 2 bs: 0.045739
+132 133 
+#module 25 size: 2 bs: 0.045739
+134 135 
+#module 26 size: 2 bs: 0.0457391
+137 138 
+#module 27 size: 2 bs: 0.0457391
+139 140 
+#module 28 size: 2 bs: 0.045739
+141 142 
+#module 29 size: 2 bs: 0.045739
+143 144 
+#module 30 size: 2 bs: 0.045739
+145 146 
+#module 31 size: 2 bs: 0.045739
+147 148 
+#module 32 size: 2 bs: 0.045739
+149 150 
+#module 33 size: 2 bs: 0.0457391
+151 152 
+#module 34 size: 2 bs: 0.045739
+153 154 
+#module 35 size: 3 bs: 0.045739
+155 156 157 
+#module 36 size: 2 bs: 0.045739
+158 159 
+#module 37 size: 2 bs: 0.0457391
+160 161 
+#module 38 size: 2 bs: 0.045739
+162 163 
+#module 39 size: 4 bs: 0.045739
+164 165 166 177 
+#module 40 size: 2 bs: 0.045739
+167 168 
+#module 41 size: 2 bs: 0.045739
+169 170 
+#module 42 size: 2 bs: 0.045739
+171 172 
+#module 43 size: 2 bs: 0.0456019
+173 174 
+#module 44 size: 2 bs: 0.0457391
+175 176 
+#module 45 size: 2 bs: 0.0457391
+178 179 
+#module 46 size: 2 bs: 0.045739
+180 181 
+#module 47 size: 2 bs: 0.0454645
+182 183 
+#module 48 size: 2 bs: 0.045739
+184 185 
+#module 49 size: 3 bs: 0.0457391
+186 187 188 
+#module 50 size: 2 bs: 0.045739
+189 190 
+#module 51 size: 2 bs: 0.045739
+191 192 
+#module 52 size: 2 bs: 0.045739
+193 194 
+#module 53 size: 2 bs: 0.045739
+195 196 
+#module 54 size: 2 bs: 0.0457391
+197 198 
+#module 55 size: 2 bs: 0.045739
+199 200 
+#module 56 size: 2 bs: 0.045739
+201 202 
+#module 57 size: 2 bs: 0.0456019
+203 204 
+#module 58 size: 2 bs: 0.0457391
+205 206 
+#module 59 size: 2 bs: 0.0457391
+207 208 
+#module 60 size: 2 bs: 0.045739
+209 210 
+#module 61 size: 2 bs: 0.045739
+211 212 
+#module 62 size: 2 bs: 0.0457391
+213 214 
+#module 63 size: 2 bs: 0.045739
+215 216 
+#module 64 size: 2 bs: 0.045739
+217 218 
+#module 65 size: 2 bs: 0.0457391
+219 220 
+#module 66 size: 2 bs: 0.0457391
+221 222 
+#module 67 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 68 size: 3 bs: 3.17359e-005
+45 62 67 
+#module 69 size: 2 bs: 1.38445e-013
+32 47 
+#module 70 size: 2 bs: 0.00316501
+43 82 
+#module 71 size: 7 bs: 0.0249599
+33 40 48 63 74 77 91 
+#module 0 size: 10 bs: 0.0391755
+16 21 22 50 52 55 69 78 84 85 
+#module 1 size: 6 bs: 1.03685e-005
+33 40 48 63 74 77 
+#module 2 size: 2 bs: 0.0119337
+26 89 
+#module 3 size: 2 bs: 0.0783162
+29 30 
+#module 4 size: 2 bs: 0.0378957
+49 54 
+#module 5 size: 17 bs: 0.000154978
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 6 size: 2 bs: 0.00017216
+92 93 
+#module 7 size: 2 bs: 0.0597314
+94 95 
+#module 8 size: 2 bs: 6.13604e-007
+96 97 
+#module 9 size: 2 bs: 0.00995838
+98 99 
+#module 10 size: 2 bs: 0.000613822
+100 101 
+#module 11 size: 2 bs: 0.000139367
+102 103 
+#module 12 size: 4 bs: 1.5099e-014
+104 105 106 119 
+#module 13 size: 3 bs: 0.0457391
+107 108 136 
+#module 14 size: 2 bs: 0.045739
+109 110 
+#module 15 size: 2 bs: 0.045739
+111 112 
+#module 16 size: 2 bs: 0.045739
+113 114 
+#module 17 size: 2 bs: 0.0457391
+115 116 
+#module 18 size: 2 bs: 0.0457391
+117 118 
+#module 19 size: 2 bs: 0.0454645
+120 121 
+#module 20 size: 2 bs: 0.0456019
+122 123 
+#module 21 size: 2 bs: 0.045739
+124 125 
+#module 22 size: 2 bs: 0.0457391
+126 127 
+#module 23 size: 2 bs: 0.045739
+128 129 
+#module 24 size: 2 bs: 0.045739
+130 131 
+#module 25 size: 2 bs: 0.0457391
+132 133 
+#module 26 size: 2 bs: 0.0457391
+134 135 
+#module 27 size: 2 bs: 0.0457391
+137 138 
+#module 28 size: 2 bs: 0.0457391
+139 140 
+#module 29 size: 2 bs: 0.045739
+141 142 
+#module 30 size: 2 bs: 0.0457391
+143 144 
+#module 31 size: 2 bs: 0.045739
+145 146 
+#module 32 size: 2 bs: 0.0457391
+147 148 
+#module 33 size: 2 bs: 0.0457391
+149 150 
+#module 34 size: 2 bs: 0.0457391
+151 152 
+#module 35 size: 2 bs: 0.045739
+153 154 
+#module 36 size: 3 bs: 0.045739
+155 156 157 
+#module 37 size: 2 bs: 0.045739
+158 159 
+#module 38 size: 2 bs: 0.045739
+160 161 
+#module 39 size: 2 bs: 0.0457391
+162 163 
+#module 40 size: 4 bs: 0.045739
+164 165 166 177 
+#module 41 size: 2 bs: 0.045739
+167 168 
+#module 42 size: 2 bs: 0.0457391
+169 170 
+#module 43 size: 2 bs: 0.045602
+171 172 
+#module 44 size: 2 bs: 0.045739
+173 174 
+#module 45 size: 2 bs: 0.0457391
+175 176 
+#module 46 size: 2 bs: 0.0457391
+178 179 
+#module 47 size: 2 bs: 0.0454645
+180 181 
+#module 48 size: 2 bs: 0.045739
+182 183 
+#module 49 size: 2 bs: 0.0457391
+184 185 
+#module 50 size: 3 bs: 0.045739
+186 187 188 
+#module 51 size: 2 bs: 0.0457391
+189 190 
+#module 52 size: 2 bs: 0.0457391
+191 192 
+#module 53 size: 2 bs: 0.045739
+193 194 
+#module 54 size: 2 bs: 0.0457391
+195 196 
+#module 55 size: 2 bs: 0.0457391
+197 198 
+#module 56 size: 2 bs: 0.0457391
+199 200 
+#module 57 size: 2 bs: 0.045602
+201 202 
+#module 58 size: 2 bs: 0.045739
+203 204 
+#module 59 size: 2 bs: 0.045739
+205 206 
+#module 60 size: 2 bs: 0.045739
+207 208 
+#module 61 size: 2 bs: 0.045739
+209 210 
+#module 62 size: 2 bs: 0.045739
+211 212 
+#module 63 size: 2 bs: 0.045739
+213 214 
+#module 64 size: 2 bs: 0.0457391
+215 216 
+#module 65 size: 2 bs: 0.0457391
+217 218 
+#module 66 size: 2 bs: 0.045739
+219 220 
+#module 67 size: 2 bs: 0.045739
+221 222 
+#module 68 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 69 size: 3 bs: 3.17359e-005
+45 62 67 
+#module 70 size: 2 bs: 1.38445e-013
+32 47 
+#module 71 size: 2 bs: 0.00316501
+43 82 
+#module 0 size: 10 bs: 0.0391755
+16 21 22 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 6.16472e-005
+26 89 
+#module 2 size: 2 bs: 1.03685e-005
+29 30 
+#module 3 size: 2 bs: 0.000139367
+49 54 
+#module 4 size: 17 bs: 0.0378958
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 5 size: 2 bs: 0.000139367
+92 93 
+#module 6 size: 2 bs: 0.000154978
+94 95 
+#module 7 size: 2 bs: 0.000488316
+96 97 
+#module 8 size: 2 bs: 1.5099e-014
+98 99 
+#module 9 size: 2 bs: 0.0597314
+100 101 
+#module 10 size: 2 bs: 0.00995838
+102 103 
+#module 11 size: 4 bs: 0.000613822
+104 105 106 119 
+#module 12 size: 3 bs: 1.5099e-014
+107 108 136 
+#module 13 size: 2 bs: 0.045739
+109 110 
+#module 14 size: 2 bs: 0.0457391
+111 112 
+#module 15 size: 2 bs: 0.045739
+113 114 
+#module 16 size: 2 bs: 0.0457391
+115 116 
+#module 17 size: 2 bs: 0.0457391
+117 118 
+#module 18 size: 2 bs: 0.045739
+120 121 
+#module 19 size: 2 bs: 0.0454645
+122 123 
+#module 20 size: 2 bs: 0.045602
+124 125 
+#module 21 size: 2 bs: 0.045739
+126 127 
+#module 22 size: 2 bs: 0.045739
+128 129 
+#module 23 size: 2 bs: 0.0457391
+130 131 
+#module 24 size: 2 bs: 0.045739
+132 133 
+#module 25 size: 2 bs: 0.0457391
+134 135 
+#module 26 size: 2 bs: 0.045739
+137 138 
+#module 27 size: 2 bs: 0.045739
+139 140 
+#module 28 size: 2 bs: 0.0457391
+141 142 
+#module 29 size: 2 bs: 0.0457391
+143 144 
+#module 30 size: 2 bs: 0.045739
+145 146 
+#module 31 size: 2 bs: 0.0457391
+147 148 
+#module 32 size: 2 bs: 0.0457391
+149 150 
+#module 33 size: 2 bs: 0.045739
+151 152 
+#module 34 size: 2 bs: 0.045739
+153 154 
+#module 35 size: 3 bs: 0.0457391
+155 156 157 
+#module 36 size: 2 bs: 0.045739
+158 159 
+#module 37 size: 2 bs: 0.045739
+160 161 
+#module 38 size: 2 bs: 0.0457391
+162 163 
+#module 39 size: 4 bs: 0.0457391
+164 165 166 177 
+#module 40 size: 2 bs: 0.0457391
+167 168 
+#module 41 size: 2 bs: 0.045739
+169 170 
+#module 42 size: 2 bs: 0.045739
+171 172 
+#module 43 size: 2 bs: 0.045602
+173 174 
+#module 44 size: 2 bs: 0.045739
+175 176 
+#module 45 size: 2 bs: 0.045739
+178 179 
+#module 46 size: 2 bs: 0.045739
+180 181 
+#module 47 size: 2 bs: 0.0454645
+182 183 
+#module 48 size: 2 bs: 0.045739
+184 185 
+#module 49 size: 3 bs: 0.045739
+186 187 188 
+#module 50 size: 2 bs: 0.045739
+189 190 
+#module 51 size: 2 bs: 0.0457391
+191 192 
+#module 52 size: 2 bs: 0.0457391
+193 194 
+#module 53 size: 2 bs: 0.045739
+195 196 
+#module 54 size: 2 bs: 0.0457391
+197 198 
+#module 55 size: 2 bs: 0.0457391
+199 200 
+#module 56 size: 2 bs: 0.045739
+201 202 
+#module 57 size: 2 bs: 0.0456019
+203 204 
+#module 58 size: 2 bs: 0.045739
+205 206 
+#module 59 size: 2 bs: 0.045739
+207 208 
+#module 60 size: 2 bs: 0.045739
+209 210 
+#module 61 size: 2 bs: 0.045739
+211 212 
+#module 62 size: 2 bs: 0.0457391
+213 214 
+#module 63 size: 2 bs: 0.045739
+215 216 
+#module 64 size: 2 bs: 0.0457391
+217 218 
+#module 65 size: 2 bs: 0.045739
+219 220 
+#module 66 size: 2 bs: 0.0457391
+221 222 
+#module 67 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 68 size: 3 bs: 3.1736e-005
+45 62 67 
+#module 69 size: 2 bs: 0.00936479
+74 91 
+#module 70 size: 2 bs: 1.90403e-013
+32 47 
+#module 71 size: 2 bs: 0.00316501
+43 82 
+#module 0 size: 2 bs: 0.0391754
+49 54 
+#module 1 size: 10 bs: 1.03685e-005
+16 21 22 50 52 55 69 78 84 85 
+#module 2 size: 2 bs: 0.0119337
+26 89 
+#module 3 size: 2 bs: 0.0158845
+29 30 
+#module 4 size: 17 bs: 0.0597315
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 5 size: 2 bs: 0.00572624
+92 93 
+#module 6 size: 2 bs: 0.000139367
+94 95 
+#module 7 size: 2 bs: 0.000154978
+96 97 
+#module 8 size: 2 bs: 0.00101068
+98 99 
+#module 9 size: 2 bs: 1.5099e-014
+100 101 
+#module 10 size: 2 bs: 0.0597315
+102 103 
+#module 11 size: 4 bs: 0.000613821
+104 105 106 119 
+#module 12 size: 3 bs: 1.5099e-014
+107 108 136 
+#module 13 size: 2 bs: 0.045739
+109 110 
+#module 14 size: 2 bs: 0.045739
+111 112 
+#module 15 size: 2 bs: 0.0457391
+113 114 
+#module 16 size: 2 bs: 0.0457391
+115 116 
+#module 17 size: 2 bs: 0.045739
+117 118 
+#module 18 size: 2 bs: 0.045739
+120 121 
+#module 19 size: 2 bs: 0.0454645
+122 123 
+#module 20 size: 2 bs: 0.045602
+124 125 
+#module 21 size: 2 bs: 0.045739
+126 127 
+#module 22 size: 2 bs: 0.045739
+128 129 
+#module 23 size: 2 bs: 0.045739
+130 131 
+#module 24 size: 2 bs: 0.045739
+132 133 
+#module 25 size: 2 bs: 0.045739
+134 135 
+#module 26 size: 2 bs: 0.0457391
+137 138 
+#module 27 size: 2 bs: 0.045739
+139 140 
+#module 28 size: 2 bs: 0.0457391
+141 142 
+#module 29 size: 2 bs: 0.0457391
+143 144 
+#module 30 size: 2 bs: 0.0457391
+145 146 
+#module 31 size: 2 bs: 0.045739
+147 148 
+#module 32 size: 2 bs: 0.045739
+149 150 
+#module 33 size: 2 bs: 0.0457391
+151 152 
+#module 34 size: 2 bs: 0.045739
+153 154 
+#module 35 size: 3 bs: 0.0457391
+155 156 157 
+#module 36 size: 2 bs: 0.0457391
+158 159 
+#module 37 size: 2 bs: 0.045739
+160 161 
+#module 38 size: 2 bs: 0.045739
+162 163 
+#module 39 size: 4 bs: 0.045739
+164 165 166 177 
+#module 40 size: 2 bs: 0.0457391
+167 168 
+#module 41 size: 2 bs: 0.0457391
+169 170 
+#module 42 size: 2 bs: 0.045739
+171 172 
+#module 43 size: 2 bs: 0.0456019
+173 174 
+#module 44 size: 2 bs: 0.045739
+175 176 
+#module 45 size: 2 bs: 0.045739
+178 179 
+#module 46 size: 2 bs: 0.045739
+180 181 
+#module 47 size: 2 bs: 0.0454645
+182 183 
+#module 48 size: 2 bs: 0.045739
+184 185 
+#module 49 size: 3 bs: 0.045739
+186 187 188 
+#module 50 size: 2 bs: 0.045739
+189 190 
+#module 51 size: 2 bs: 0.045739
+191 192 
+#module 52 size: 2 bs: 0.045739
+193 194 
+#module 53 size: 2 bs: 0.0457391
+195 196 
+#module 54 size: 2 bs: 0.0457391
+197 198 
+#module 55 size: 2 bs: 0.0457391
+199 200 
+#module 56 size: 2 bs: 0.0457391
+201 202 
+#module 57 size: 2 bs: 0.045602
+203 204 
+#module 58 size: 2 bs: 0.0457391
+205 206 
+#module 59 size: 2 bs: 0.0457391
+207 208 
+#module 60 size: 2 bs: 0.045739
+209 210 
+#module 61 size: 2 bs: 0.045739
+211 212 
+#module 62 size: 2 bs: 0.045739
+213 214 
+#module 63 size: 2 bs: 0.045739
+215 216 
+#module 64 size: 2 bs: 0.0457391
+217 218 
+#module 65 size: 2 bs: 0.045739
+219 220 
+#module 66 size: 2 bs: 0.0457391
+221 222 
+#module 67 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 68 size: 3 bs: 3.1736e-005
+45 62 67 
+#module 69 size: 2 bs: 1.38445e-013
+32 47 
+#module 70 size: 2 bs: 0.00316502
+43 82 
+#module 71 size: 7 bs: 0.0249599
+33 40 48 63 74 77 91 
+#module 0 size: 10 bs: 0.0391755
+16 21 22 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 1.58955e-006
+26 89 
+#module 2 size: 2 bs: 0.0119337
+29 30 
+#module 3 size: 2 bs: 0.00572624
+49 54 
+#module 4 size: 17 bs: 0.000139367
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 5 size: 2 bs: 0.000154978
+92 93 
+#module 6 size: 2 bs: 0.00103146
+94 95 
+#module 7 size: 2 bs: 1.5099e-014
+96 97 
+#module 8 size: 2 bs: 0.0597315
+98 99 
+#module 9 size: 2 bs: 0.0597315
+100 101 
+#module 10 size: 2 bs: 0.00995837
+102 103 
+#module 11 size: 4 bs: 0.000613821
+104 105 106 119 
+#module 12 size: 3 bs: 1.5099e-014
+107 108 136 
+#module 13 size: 2 bs: 0.045739
+109 110 
+#module 14 size: 2 bs: 0.045739
+111 112 
+#module 15 size: 2 bs: 0.0457391
+113 114 
+#module 16 size: 2 bs: 0.045739
+115 116 
+#module 17 size: 2 bs: 0.045739
+117 118 
+#module 18 size: 2 bs: 0.045739
+120 121 
+#module 19 size: 2 bs: 0.0454645
+122 123 
+#module 20 size: 2 bs: 0.0456019
+124 125 
+#module 21 size: 2 bs: 0.0457391
+126 127 
+#module 22 size: 2 bs: 0.045739
+128 129 
+#module 23 size: 2 bs: 0.045739
+130 131 
+#module 24 size: 2 bs: 0.045739
+132 133 
+#module 25 size: 2 bs: 0.0457391
+134 135 
+#module 26 size: 2 bs: 0.045739
+137 138 
+#module 27 size: 2 bs: 0.0457391
+139 140 
+#module 28 size: 2 bs: 0.045739
+141 142 
+#module 29 size: 2 bs: 0.045739
+143 144 
+#module 30 size: 2 bs: 0.045739
+145 146 
+#module 31 size: 2 bs: 0.045739
+147 148 
+#module 32 size: 2 bs: 0.045739
+149 150 
+#module 33 size: 2 bs: 0.045739
+151 152 
+#module 34 size: 2 bs: 0.045739
+153 154 
+#module 35 size: 3 bs: 0.045739
+155 156 157 
+#module 36 size: 2 bs: 0.045739
+158 159 
+#module 37 size: 2 bs: 0.045739
+160 161 
+#module 38 size: 2 bs: 0.0457391
+162 163 
+#module 39 size: 4 bs: 0.0457391
+164 165 166 177 
+#module 40 size: 2 bs: 0.045739
+167 168 
+#module 41 size: 2 bs: 0.045739
+169 170 
+#module 42 size: 2 bs: 0.045739
+171 172 
+#module 43 size: 2 bs: 0.0456019
+173 174 
+#module 44 size: 2 bs: 0.045739
+175 176 
+#module 45 size: 2 bs: 0.045739
+178 179 
+#module 46 size: 2 bs: 0.045739
+180 181 
+#module 47 size: 2 bs: 0.0454645
+182 183 
+#module 48 size: 2 bs: 0.0457391
+184 185 
+#module 49 size: 3 bs: 0.045739
+186 187 188 
+#module 50 size: 2 bs: 0.045739
+189 190 
+#module 51 size: 2 bs: 0.0457391
+191 192 
+#module 52 size: 2 bs: 0.045739
+193 194 
+#module 53 size: 2 bs: 0.045739
+195 196 
+#module 54 size: 2 bs: 0.045739
+197 198 
+#module 55 size: 2 bs: 0.045739
+199 200 
+#module 56 size: 2 bs: 0.045739
+201 202 
+#module 57 size: 2 bs: 0.0456019
+203 204 
+#module 58 size: 2 bs: 0.0457391
+205 206 
+#module 59 size: 2 bs: 0.0457391
+207 208 
+#module 60 size: 2 bs: 0.045739
+209 210 
+#module 61 size: 2 bs: 0.045739
+211 212 
+#module 62 size: 2 bs: 0.045739
+213 214 
+#module 63 size: 2 bs: 0.045739
+215 216 
+#module 64 size: 2 bs: 0.0457391
+217 218 
+#module 65 size: 2 bs: 0.0457391
+219 220 
+#module 66 size: 2 bs: 0.045739
+221 222 
+#module 67 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 68 size: 3 bs: 3.17359e-005
+45 62 67 
+#module 69 size: 2 bs: 1.38445e-013
+32 47 
+#module 70 size: 2 bs: 0.00316501
+43 82 
+#module 71 size: 7 bs: 0.0249599
+33 40 48 63 74 77 91 
+#module 0 size: 10 bs: 0.0391755
+16 21 22 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 6.13604e-007
+26 89 
+#module 2 size: 2 bs: 1.03685e-005
+49 54 
+#module 3 size: 2 bs: 0.0119337
+29 30 
+#module 4 size: 2 bs: 0.0249185
+92 93 
+#module 5 size: 2 bs: 0.000154978
+94 95 
+#module 6 size: 2 bs: 0.00017216
+96 97 
+#module 7 size: 2 bs: 1.5099e-014
+98 99 
+#module 8 size: 2 bs: 0.0597315
+100 101 
+#module 9 size: 2 bs: 0.000613821
+102 103 
+#module 10 size: 4 bs: 0.0386085
+104 105 106 119 
+#module 11 size: 3 bs: 0.0457391
+107 108 136 
+#module 12 size: 2 bs: 0.045739
+109 110 
+#module 13 size: 2 bs: 0.045739
+111 112 
+#module 14 size: 2 bs: 0.0457391
+113 114 
+#module 15 size: 2 bs: 0.045739
+115 116 
+#module 16 size: 2 bs: 0.0457391
+117 118 
+#module 17 size: 2 bs: 0.0454645
+120 121 
+#module 18 size: 2 bs: 0.0456019
+122 123 
+#module 19 size: 2 bs: 0.045739
+124 125 
+#module 20 size: 2 bs: 0.045739
+126 127 
+#module 21 size: 2 bs: 0.0457391
+128 129 
+#module 22 size: 2 bs: 0.0457391
+130 131 
+#module 23 size: 2 bs: 0.0457391
+132 133 
+#module 24 size: 2 bs: 0.045739
+134 135 
+#module 25 size: 2 bs: 0.0457391
+137 138 
+#module 26 size: 2 bs: 0.045739
+139 140 
+#module 27 size: 2 bs: 0.045739
+141 142 
+#module 28 size: 2 bs: 0.045739
+143 144 
+#module 29 size: 2 bs: 0.045739
+145 146 
+#module 30 size: 2 bs: 0.045739
+147 148 
+#module 31 size: 2 bs: 0.045739
+149 150 
+#module 32 size: 2 bs: 0.045739
+151 152 
+#module 33 size: 2 bs: 0.045739
+153 154 
+#module 34 size: 3 bs: 0.045739
+155 156 157 
+#module 35 size: 2 bs: 0.045739
+158 159 
+#module 36 size: 2 bs: 0.045739
+160 161 
+#module 37 size: 2 bs: 0.045739
+162 163 
+#module 38 size: 4 bs: 0.045739
+164 165 166 177 
+#module 39 size: 2 bs: 0.045739
+167 168 
+#module 40 size: 2 bs: 0.045739
+169 170 
+#module 41 size: 2 bs: 0.0456019
+171 172 
+#module 42 size: 2 bs: 0.045739
+173 174 
+#module 43 size: 2 bs: 0.0457391
+175 176 
+#module 44 size: 2 bs: 0.045739
+178 179 
+#module 45 size: 2 bs: 0.0454645
+180 181 
+#module 46 size: 2 bs: 0.0457391
+182 183 
+#module 47 size: 2 bs: 0.045739
+184 185 
+#module 48 size: 3 bs: 0.045739
+186 187 188 
+#module 49 size: 2 bs: 0.0457391
+189 190 
+#module 50 size: 2 bs: 0.045739
+191 192 
+#module 51 size: 2 bs: 0.045739
+193 194 
+#module 52 size: 2 bs: 0.0457391
+195 196 
+#module 53 size: 2 bs: 0.045739
+197 198 
+#module 54 size: 2 bs: 0.0457391
+199 200 
+#module 55 size: 2 bs: 0.045602
+201 202 
+#module 56 size: 2 bs: 0.045739
+203 204 
+#module 57 size: 2 bs: 0.045739
+205 206 
+#module 58 size: 2 bs: 0.045739
+207 208 
+#module 59 size: 2 bs: 0.045739
+209 210 
+#module 60 size: 2 bs: 0.0457391
+211 212 
+#module 61 size: 2 bs: 0.0457391
+213 214 
+#module 62 size: 2 bs: 0.045739
+215 216 
+#module 63 size: 2 bs: 0.045739
+217 218 
+#module 64 size: 2 bs: 0.045739
+219 220 
+#module 65 size: 2 bs: 0.0457391
+221 222 
+#module 66 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 67 size: 3 bs: 3.17359e-005
+45 62 67 
+#module 68 size: 2 bs: 1.90403e-013
+32 47 
+#module 69 size: 2 bs: 0.00316501
+43 82 
+#module 70 size: 3 bs: 8.29878e-006
+74 77 91 
+#module 71 size: 4 bs: 0.0015935
+33 40 48 63 
+#module 72 size: 2 bs: 0.0317431
+19 51 
+#module 73 size: 14 bs: 0.000598379
+24 42 44 53 56 57 58 64 68 72 75 79 80 83 
+#module 74 size: 5 bs: 0.080897
+59 65 76 86 90 
+#module 0 size: 10 bs: 0.0119337
+16 21 22 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 1.47264e-006
+26 89 
+#module 2 size: 2 bs: 0.0783162
+29 30 
+#module 3 size: 2 bs: 0.0597314
+49 54 
+#module 4 size: 17 bs: 0.00572623
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 5 size: 2 bs: 0.000154978
+92 93 
+#module 6 size: 2 bs: 0.0013067
+94 95 
+#module 7 size: 2 bs: 1.5099e-014
+96 97 
+#module 8 size: 2 bs: 0.0597314
+98 99 
+#module 9 size: 2 bs: 0.0101192
+100 101 
+#module 10 size: 2 bs: 0.0249185
+102 103 
+#module 11 size: 4 bs: 0.000613822
+104 105 106 119 
+#module 12 size: 3 bs: 1.5099e-014
+107 108 136 
+#module 13 size: 2 bs: 0.000139367
+109 110 
+#module 14 size: 2 bs: 0.045739
+111 112 
+#module 15 size: 2 bs: 0.045739
+113 114 
+#module 16 size: 2 bs: 0.045739
+115 116 
+#module 17 size: 2 bs: 0.045739
+117 118 
+#module 18 size: 2 bs: 0.0457391
+120 121 
+#module 19 size: 2 bs: 0.0457391
+122 123 
+#module 20 size: 2 bs: 0.0454645
+124 125 
+#module 21 size: 2 bs: 0.045602
+126 127 
+#module 22 size: 2 bs: 0.045739
+128 129 
+#module 23 size: 2 bs: 0.045739
+130 131 
+#module 24 size: 2 bs: 0.045739
+132 133 
+#module 25 size: 2 bs: 0.045739
+134 135 
+#module 26 size: 2 bs: 0.045739
+137 138 
+#module 27 size: 2 bs: 0.045739
+139 140 
+#module 28 size: 2 bs: 0.045739
+141 142 
+#module 29 size: 2 bs: 0.045739
+143 144 
+#module 30 size: 2 bs: 0.045739
+145 146 
+#module 31 size: 2 bs: 0.045739
+147 148 
+#module 32 size: 2 bs: 0.045739
+149 150 
+#module 33 size: 2 bs: 0.045739
+151 152 
+#module 34 size: 2 bs: 0.0457391
+153 154 
+#module 35 size: 3 bs: 0.045739
+155 156 157 
+#module 36 size: 2 bs: 0.0457391
+158 159 
+#module 37 size: 2 bs: 0.045739
+160 161 
+#module 38 size: 2 bs: 0.045739
+162 163 
+#module 39 size: 4 bs: 0.0457391
+164 165 166 177 
+#module 40 size: 2 bs: 0.045739
+167 168 
+#module 41 size: 2 bs: 0.045739
+169 170 
+#module 42 size: 2 bs: 0.0457391
+171 172 
+#module 43 size: 2 bs: 0.045739
+173 174 
+#module 44 size: 2 bs: 0.0456019
+175 176 
+#module 45 size: 2 bs: 0.045739
+178 179 
+#module 46 size: 2 bs: 0.045739
+180 181 
+#module 47 size: 2 bs: 0.045739
+182 183 
+#module 48 size: 2 bs: 0.0454645
+184 185 
+#module 49 size: 3 bs: 0.045739
+186 187 188 
+#module 50 size: 2 bs: 0.045739
+189 190 
+#module 51 size: 2 bs: 0.0457391
+191 192 
+#module 52 size: 2 bs: 0.0457391
+193 194 
+#module 53 size: 2 bs: 0.045739
+195 196 
+#module 54 size: 2 bs: 0.045739
+197 198 
+#module 55 size: 2 bs: 0.045739
+199 200 
+#module 56 size: 2 bs: 0.0457391
+201 202 
+#module 57 size: 2 bs: 0.045739
+203 204 
+#module 58 size: 2 bs: 0.045602
+205 206 
+#module 59 size: 2 bs: 0.0457391
+207 208 
+#module 60 size: 2 bs: 0.045739
+209 210 
+#module 61 size: 2 bs: 0.0457391
+211 212 
+#module 62 size: 2 bs: 0.045739
+213 214 
+#module 63 size: 2 bs: 0.0457391
+215 216 
+#module 64 size: 2 bs: 0.0457391
+217 218 
+#module 65 size: 2 bs: 0.045739
+219 220 
+#module 66 size: 2 bs: 0.045739
+221 222 
+#module 67 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 68 size: 3 bs: 3.1736e-005
+45 62 67 
+#module 69 size: 2 bs: 0.00827946
+74 91 
+#module 70 size: 2 bs: 1.90403e-013
+32 47 
+#module 71 size: 2 bs: 0.00316501
+43 82 
+#module 0 size: 11 bs: 0.0391755
+16 21 22 37 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 1.47264e-006
+26 89 
+#module 2 size: 2 bs: 0.0712799
+29 30 
+#module 3 size: 2 bs: 1.5099e-014
+49 54 
+#module 4 size: 17 bs: 0.0378957
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 5 size: 2 bs: 0.000154978
+92 93 
+#module 6 size: 2 bs: 0.00017216
+94 95 
+#module 7 size: 2 bs: 1.5099e-014
+96 97 
+#module 8 size: 2 bs: 0.0597315
+98 99 
+#module 9 size: 2 bs: 6.13604e-007
+100 101 
+#module 10 size: 2 bs: 0.0249185
+102 103 
+#module 11 size: 4 bs: 0.00061382
+104 105 106 119 
+#module 12 size: 3 bs: 0.000139367
+107 108 136 
+#module 13 size: 2 bs: 0.045739
+109 110 
+#module 14 size: 2 bs: 0.045739
+111 112 
+#module 15 size: 2 bs: 0.045739
+113 114 
+#module 16 size: 2 bs: 0.045739
+115 116 
+#module 17 size: 2 bs: 0.0457391
+117 118 
+#module 18 size: 2 bs: 0.0457391
+120 121 
+#module 19 size: 2 bs: 0.0454645
+122 123 
+#module 20 size: 2 bs: 0.045602
+124 125 
+#module 21 size: 2 bs: 0.045739
+126 127 
+#module 22 size: 2 bs: 0.045739
+128 129 
+#module 23 size: 2 bs: 0.045739
+130 131 
+#module 24 size: 2 bs: 0.0457391
+132 133 
+#module 25 size: 2 bs: 0.0457391
+134 135 
+#module 26 size: 2 bs: 0.045739
+137 138 
+#module 27 size: 2 bs: 0.045739
+139 140 
+#module 28 size: 2 bs: 0.045739
+141 142 
+#module 29 size: 2 bs: 0.0457391
+143 144 
+#module 30 size: 2 bs: 0.0457391
+145 146 
+#module 31 size: 2 bs: 0.045739
+147 148 
+#module 32 size: 2 bs: 0.045739
+149 150 
+#module 33 size: 2 bs: 0.045739
+151 152 
+#module 34 size: 2 bs: 0.045739
+153 154 
+#module 35 size: 3 bs: 0.0457391
+155 156 157 
+#module 36 size: 2 bs: 0.0457391
+158 159 
+#module 37 size: 2 bs: 0.0457391
+160 161 
+#module 38 size: 2 bs: 0.045739
+162 163 
+#module 39 size: 4 bs: 0.045739
+164 165 166 177 
+#module 40 size: 2 bs: 0.0457391
+167 168 
+#module 41 size: 2 bs: 0.045739
+169 170 
+#module 42 size: 2 bs: 0.0457391
+171 172 
+#module 43 size: 2 bs: 0.0456019
+173 174 
+#module 44 size: 2 bs: 0.045739
+175 176 
+#module 45 size: 2 bs: 0.045739
+178 179 
+#module 46 size: 2 bs: 0.045739
+180 181 
+#module 47 size: 2 bs: 0.0454645
+182 183 
+#module 48 size: 2 bs: 0.045739
+184 185 
+#module 49 size: 3 bs: 0.045739
+186 187 188 
+#module 50 size: 2 bs: 0.045739
+189 190 
+#module 51 size: 2 bs: 0.045739
+191 192 
+#module 52 size: 2 bs: 0.045739
+193 194 
+#module 53 size: 2 bs: 0.0457391
+195 196 
+#module 54 size: 2 bs: 0.045739
+197 198 
+#module 55 size: 2 bs: 0.0457391
+199 200 
+#module 56 size: 2 bs: 0.045739
+201 202 
+#module 57 size: 2 bs: 0.0456019
+203 204 
+#module 58 size: 2 bs: 0.045739
+205 206 
+#module 59 size: 2 bs: 0.045739
+207 208 
+#module 60 size: 2 bs: 0.0457391
+209 210 
+#module 61 size: 2 bs: 0.045739
+211 212 
+#module 62 size: 2 bs: 0.045739
+213 214 
+#module 63 size: 2 bs: 0.0457391
+215 216 
+#module 64 size: 2 bs: 0.045739
+217 218 
+#module 65 size: 2 bs: 0.045739
+219 220 
+#module 66 size: 2 bs: 0.0457391
+221 222 
+#module 67 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 68 size: 3 bs: 3.1736e-005
+45 62 67 
+#module 69 size: 2 bs: 1.38445e-013
+32 47 
+#module 70 size: 2 bs: 0.00316501
+43 82 
+#module 71 size: 7 bs: 0.0249599
+33 40 48 63 74 77 91 
+#module 0 size: 10 bs: 0.0391754
+16 21 22 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 1.03685e-005
+26 89 
+#module 2 size: 2 bs: 0.0119337
+29 30 
+#module 3 size: 2 bs: 1.5099e-014
+49 54 
+#module 4 size: 17 bs: 0.00572623
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 5 size: 2 bs: 0.000154978
+92 93 
+#module 6 size: 2 bs: 0.00130671
+94 95 
+#module 7 size: 2 bs: 1.5099e-014
+96 97 
+#module 8 size: 2 bs: 0.0597315
+98 99 
+#module 9 size: 2 bs: 0.0597315
+100 101 
+#module 10 size: 2 bs: 0.000139367
+102 103 
+#module 11 size: 4 bs: 0.00995837
+104 105 106 119 
+#module 12 size: 3 bs: 0.000613821
+107 108 136 
+#module 13 size: 2 bs: 0.0457391
+109 110 
+#module 14 size: 2 bs: 0.045739
+111 112 
+#module 15 size: 2 bs: 0.045739
+113 114 
+#module 16 size: 2 bs: 0.045739
+115 116 
+#module 17 size: 2 bs: 0.0457391
+117 118 
+#module 18 size: 2 bs: 0.0457391
+120 121 
+#module 19 size: 2 bs: 0.0454645
+122 123 
+#module 20 size: 2 bs: 0.0454645
+124 125 
+#module 21 size: 2 bs: 0.0456019
+126 127 
+#module 22 size: 2 bs: 0.045739
+128 129 
+#module 23 size: 2 bs: 0.045739
+130 131 
+#module 24 size: 2 bs: 0.045739
+132 133 
+#module 25 size: 2 bs: 0.045739
+134 135 
+#module 26 size: 2 bs: 0.0457391
+137 138 
+#module 27 size: 2 bs: 0.045739
+139 140 
+#module 28 size: 2 bs: 0.045739
+141 142 
+#module 29 size: 2 bs: 0.045739
+143 144 
+#module 30 size: 2 bs: 0.045739
+145 146 
+#module 31 size: 2 bs: 0.045739
+147 148 
+#module 32 size: 2 bs: 0.0457391
+149 150 
+#module 33 size: 2 bs: 0.045739
+151 152 
+#module 34 size: 2 bs: 0.045739
+153 154 
+#module 35 size: 3 bs: 0.045739
+155 156 157 
+#module 36 size: 2 bs: 0.0457391
+158 159 
+#module 37 size: 2 bs: 0.0457391
+160 161 
+#module 38 size: 2 bs: 0.045739
+162 163 
+#module 39 size: 4 bs: 0.0457391
+164 165 166 177 
+#module 40 size: 2 bs: 0.045739
+167 168 
+#module 41 size: 2 bs: 0.0457391
+169 170 
+#module 42 size: 2 bs: 0.045739
+171 172 
+#module 43 size: 2 bs: 0.045739
+173 174 
+#module 44 size: 2 bs: 0.045602
+175 176 
+#module 45 size: 2 bs: 0.045739
+178 179 
+#module 46 size: 2 bs: 0.0457391
+180 181 
+#module 47 size: 2 bs: 0.045739
+182 183 
+#module 48 size: 2 bs: 0.0454645
+184 185 
+#module 49 size: 3 bs: 0.045739
+186 187 188 
+#module 50 size: 2 bs: 0.0457391
+189 190 
+#module 51 size: 2 bs: 0.045739
+191 192 
+#module 52 size: 2 bs: 0.045739
+193 194 
+#module 53 size: 2 bs: 0.045739
+195 196 
+#module 54 size: 2 bs: 0.045739
+197 198 
+#module 55 size: 2 bs: 0.0457391
+199 200 
+#module 56 size: 2 bs: 0.045739
+201 202 
+#module 57 size: 2 bs: 0.045739
+203 204 
+#module 58 size: 2 bs: 0.0456019
+205 206 
+#module 59 size: 2 bs: 0.045739
+207 208 
+#module 60 size: 2 bs: 0.045739
+209 210 
+#module 61 size: 2 bs: 0.045739
+211 212 
+#module 62 size: 2 bs: 0.045739
+213 214 
+#module 63 size: 2 bs: 0.0457391
+215 216 
+#module 64 size: 2 bs: 0.045739
+217 218 
+#module 65 size: 2 bs: 0.045739
+219 220 
+#module 66 size: 2 bs: 0.0457391
+221 222 
+#module 67 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 68 size: 3 bs: 3.17359e-005
+45 62 67 
+#module 69 size: 2 bs: 1.38445e-013
+32 47 
+#module 70 size: 2 bs: 0.00316501
+43 82 
+#module 71 size: 2 bs: 0.0317432
+19 51 
+#module 72 size: 7 bs: 0.0249599
+33 40 48 63 74 77 91 
+#module 0 size: 11 bs: 0.0391755
+16 21 22 37 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 1.03685e-005
+26 89 
+#module 2 size: 2 bs: 0.07128
+29 30 
+#module 3 size: 2 bs: 1.5099e-014
+49 54 
+#module 4 size: 17 bs: 0.0378957
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 5 size: 2 bs: 0.0013067
+92 93 
+#module 6 size: 2 bs: 0.000154978
+94 95 
+#module 7 size: 2 bs: 1.5099e-014
+96 97 
+#module 8 size: 2 bs: 0.0597315
+98 99 
+#module 9 size: 2 bs: 0.0597315
+100 101 
+#module 10 size: 2 bs: 0.0101191
+102 103 
+#module 11 size: 4 bs: 0.00995837
+104 105 106 119 
+#module 12 size: 3 bs: 0.000613821
+107 108 136 
+#module 13 size: 2 bs: 0.000139367
+109 110 
+#module 14 size: 2 bs: 0.0457391
+111 112 
+#module 15 size: 2 bs: 0.045739
+113 114 
+#module 16 size: 2 bs: 0.0457391
+115 116 
+#module 17 size: 2 bs: 0.045739
+117 118 
+#module 18 size: 2 bs: 0.045739
+120 121 
+#module 19 size: 2 bs: 0.045739
+122 123 
+#module 20 size: 2 bs: 0.0454645
+124 125 
+#module 21 size: 2 bs: 0.0456019
+126 127 
+#module 22 size: 2 bs: 0.045739
+128 129 
+#module 23 size: 2 bs: 0.045739
+130 131 
+#module 24 size: 2 bs: 0.0457391
+132 133 
+#module 25 size: 2 bs: 0.0457391
+134 135 
+#module 26 size: 2 bs: 0.045739
+137 138 
+#module 27 size: 2 bs: 0.0457391
+139 140 
+#module 28 size: 2 bs: 0.0457391
+141 142 
+#module 29 size: 2 bs: 0.045739
+143 144 
+#module 30 size: 2 bs: 0.045739
+145 146 
+#module 31 size: 2 bs: 0.0457391
+147 148 
+#module 32 size: 2 bs: 0.045739
+149 150 
+#module 33 size: 2 bs: 0.0457391
+151 152 
+#module 34 size: 2 bs: 0.045739
+153 154 
+#module 35 size: 3 bs: 0.045739
+155 156 157 
+#module 36 size: 2 bs: 0.0457391
+158 159 
+#module 37 size: 2 bs: 0.0457391
+160 161 
+#module 38 size: 2 bs: 0.045739
+162 163 
+#module 39 size: 4 bs: 0.045739
+164 165 166 177 
+#module 40 size: 2 bs: 0.045739
+167 168 
+#module 41 size: 2 bs: 0.0457391
+169 170 
+#module 42 size: 2 bs: 0.0457391
+171 172 
+#module 43 size: 2 bs: 0.0457391
+173 174 
+#module 44 size: 2 bs: 0.0456019
+175 176 
+#module 45 size: 2 bs: 0.0457391
+178 179 
+#module 46 size: 2 bs: 0.0457391
+180 181 
+#module 47 size: 2 bs: 0.0457391
+182 183 
+#module 48 size: 2 bs: 0.0454645
+184 185 
+#module 49 size: 3 bs: 0.0454645
+186 187 188 
+#module 50 size: 2 bs: 0.045739
+189 190 
+#module 51 size: 2 bs: 0.045739
+191 192 
+#module 52 size: 2 bs: 0.045739
+193 194 
+#module 53 size: 2 bs: 0.045739
+195 196 
+#module 54 size: 2 bs: 0.0457391
+197 198 
+#module 55 size: 2 bs: 0.045739
+199 200 
+#module 56 size: 2 bs: 0.0457391
+201 202 
+#module 57 size: 2 bs: 0.045739
+203 204 
+#module 58 size: 2 bs: 0.045739
+205 206 
+#module 59 size: 2 bs: 0.0456019
+207 208 
+#module 60 size: 2 bs: 0.0457391
+209 210 
+#module 61 size: 2 bs: 0.045739
+211 212 
+#module 62 size: 2 bs: 0.0457391
+213 214 
+#module 63 size: 2 bs: 0.045739
+215 216 
+#module 64 size: 2 bs: 0.045739
+217 218 
+#module 65 size: 2 bs: 0.045739
+219 220 
+#module 66 size: 2 bs: 0.0457391
+221 222 
+#module 67 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 68 size: 3 bs: 3.1736e-005
+45 62 67 
+#module 69 size: 2 bs: 1.90403e-013
+32 47 
+#module 70 size: 2 bs: 0.00316501
+43 82 
+#module 71 size: 7 bs: 0.0249599
+33 40 48 63 74 77 91 
+#module 0 size: 10 bs: 0.0107508
+16 21 22 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 1.03685e-005
+19 51 
+#module 2 size: 2 bs: 0.0119337
+26 89 
+#module 3 size: 2 bs: 0.0317431
+29 30 
+#module 4 size: 2 bs: 0.00572624
+49 54 
+#module 5 size: 17 bs: 0.000139367
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 6 size: 2 bs: 0.000154978
+92 93 
+#module 7 size: 2 bs: 0.00103146
+94 95 
+#module 8 size: 2 bs: 0.0597314
+96 97 
+#module 9 size: 2 bs: 0.0597314
+98 99 
+#module 10 size: 2 bs: 0.00995838
+100 101 
+#module 11 size: 2 bs: 0.000613822
+102 103 
+#module 12 size: 4 bs: 1.5099e-014
+104 105 106 119 
+#module 13 size: 3 bs: 0.045739
+107 108 136 
+#module 14 size: 2 bs: 0.045739
+109 110 
+#module 15 size: 2 bs: 0.045739
+111 112 
+#module 16 size: 2 bs: 0.0457391
+113 114 
+#module 17 size: 2 bs: 0.045739
+115 116 
+#module 18 size: 2 bs: 0.045739
+117 118 
+#module 19 size: 2 bs: 0.0454645
+120 121 
+#module 20 size: 2 bs: 0.0456019
+122 123 
+#module 21 size: 2 bs: 0.045739
+124 125 
+#module 22 size: 2 bs: 0.0457391
+126 127 
+#module 23 size: 2 bs: 0.045739
+128 129 
+#module 24 size: 2 bs: 0.045739
+130 131 
+#module 25 size: 2 bs: 0.045739
+132 133 
+#module 26 size: 2 bs: 0.045739
+134 135 
+#module 27 size: 2 bs: 0.0457391
+137 138 
+#module 28 size: 2 bs: 0.0457391
+139 140 
+#module 29 size: 2 bs: 0.0457391
+141 142 
+#module 30 size: 2 bs: 0.045739
+143 144 
+#module 31 size: 2 bs: 0.0457391
+145 146 
+#module 32 size: 2 bs: 0.0457391
+147 148 
+#module 33 size: 2 bs: 0.045739
+149 150 
+#module 34 size: 2 bs: 0.045739
+151 152 
+#module 35 size: 2 bs: 0.045739
+153 154 
+#module 36 size: 3 bs: 0.045739
+155 156 157 
+#module 37 size: 2 bs: 0.0457391
+158 159 
+#module 38 size: 2 bs: 0.045739
+160 161 
+#module 39 size: 2 bs: 0.045739
+162 163 
+#module 40 size: 4 bs: 0.045739
+164 165 166 177 
+#module 41 size: 2 bs: 0.045739
+167 168 
+#module 42 size: 2 bs: 0.0457391
+169 170 
+#module 43 size: 2 bs: 0.0456019
+171 172 
+#module 44 size: 2 bs: 0.0457391
+173 174 
+#module 45 size: 2 bs: 0.0457391
+175 176 
+#module 46 size: 2 bs: 0.045739
+178 179 
+#module 47 size: 2 bs: 0.0454645
+180 181 
+#module 48 size: 2 bs: 0.0454645
+182 183 
+#module 49 size: 2 bs: 0.045739
+184 185 
+#module 50 size: 3 bs: 0.0457391
+186 187 188 
+#module 51 size: 2 bs: 0.045739
+189 190 
+#module 52 size: 2 bs: 0.0457391
+191 192 
+#module 53 size: 2 bs: 0.045739
+193 194 
+#module 54 size: 2 bs: 0.045739
+195 196 
+#module 55 size: 2 bs: 0.0457391
+197 198 
+#module 56 size: 2 bs: 0.045739
+199 200 
+#module 57 size: 2 bs: 0.045739
+201 202 
+#module 58 size: 2 bs: 0.0456019
+203 204 
+#module 59 size: 2 bs: 0.045739
+205 206 
+#module 60 size: 2 bs: 0.045739
+207 208 
+#module 61 size: 2 bs: 0.045739
+209 210 
+#module 62 size: 2 bs: 0.045739
+211 212 
+#module 63 size: 2 bs: 0.045739
+213 214 
+#module 64 size: 2 bs: 0.045739
+215 216 
+#module 65 size: 2 bs: 0.045739
+217 218 
+#module 66 size: 2 bs: 0.045739
+219 220 
+#module 67 size: 2 bs: 0.045739
+221 222 
+#module 68 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 69 size: 3 bs: 3.17359e-005
+45 62 67 
+#module 70 size: 2 bs: 1.38445e-013
+32 47 
+#module 71 size: 2 bs: 0.00316501
+43 82 
+#module 72 size: 7 bs: 0.0249599
+33 40 48 63 74 77 91 
+#module 0 size: 10 bs: 0.0391755
+16 21 22 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 1.03685e-005
+26 89 
+#module 2 size: 2 bs: 0.0119338
+29 30 
+#module 3 size: 2 bs: 1.5099e-014
+49 54 
+#module 4 size: 17 bs: 0.00572624
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 5 size: 2 bs: 0.000139367
+92 93 
+#module 6 size: 2 bs: 0.000154978
+94 95 
+#module 7 size: 2 bs: 0.00130671
+96 97 
+#module 8 size: 2 bs: 1.5099e-014
+98 99 
+#module 9 size: 2 bs: 0.0597315
+100 101 
+#module 10 size: 2 bs: 0.0597315
+102 103 
+#module 11 size: 4 bs: 0.00995838
+104 105 106 119 
+#module 12 size: 3 bs: 0.000613821
+107 108 136 
+#module 13 size: 2 bs: 0.045739
+109 110 
+#module 14 size: 2 bs: 0.045739
+111 112 
+#module 15 size: 2 bs: 0.0457391
+113 114 
+#module 16 size: 2 bs: 0.0457391
+115 116 
+#module 17 size: 2 bs: 0.0457391
+117 118 
+#module 18 size: 2 bs: 0.045739
+120 121 
+#module 19 size: 2 bs: 0.0454645
+122 123 
+#module 20 size: 2 bs: 0.0456019
+124 125 
+#module 21 size: 2 bs: 0.045739
+126 127 
+#module 22 size: 2 bs: 0.045739
+128 129 
+#module 23 size: 2 bs: 0.0457391
+130 131 
+#module 24 size: 2 bs: 0.045739
+132 133 
+#module 25 size: 2 bs: 0.045739
+134 135 
+#module 26 size: 2 bs: 0.0457391
+137 138 
+#module 27 size: 2 bs: 0.045739
+139 140 
+#module 28 size: 2 bs: 0.045739
+141 142 
+#module 29 size: 2 bs: 0.045739
+143 144 
+#module 30 size: 2 bs: 0.045739
+145 146 
+#module 31 size: 2 bs: 0.0457391
+147 148 
+#module 32 size: 2 bs: 0.045739
+149 150 
+#module 33 size: 2 bs: 0.0457391
+151 152 
+#module 34 size: 2 bs: 0.0457391
+153 154 
+#module 35 size: 3 bs: 0.045739
+155 156 157 
+#module 36 size: 2 bs: 0.0457391
+158 159 
+#module 37 size: 2 bs: 0.0457391
+160 161 
+#module 38 size: 2 bs: 0.045739
+162 163 
+#module 39 size: 4 bs: 0.045739
+164 165 166 177 
+#module 40 size: 2 bs: 0.045739
+167 168 
+#module 41 size: 2 bs: 0.0457391
+169 170 
+#module 42 size: 2 bs: 0.0457391
+171 172 
+#module 43 size: 2 bs: 0.0456019
+173 174 
+#module 44 size: 2 bs: 0.045739
+175 176 
+#module 45 size: 2 bs: 0.045739
+178 179 
+#module 46 size: 2 bs: 0.0457391
+180 181 
+#module 47 size: 2 bs: 0.0454645
+182 183 
+#module 48 size: 2 bs: 0.045739
+184 185 
+#module 49 size: 3 bs: 0.045739
+186 187 188 
+#module 50 size: 2 bs: 0.0457391
+189 190 
+#module 51 size: 2 bs: 0.045739
+191 192 
+#module 52 size: 2 bs: 0.0457391
+193 194 
+#module 53 size: 2 bs: 0.045739
+195 196 
+#module 54 size: 2 bs: 0.045739
+197 198 
+#module 55 size: 2 bs: 0.045739
+199 200 
+#module 56 size: 2 bs: 0.045739
+201 202 
+#module 57 size: 2 bs: 0.0456019
+203 204 
+#module 58 size: 2 bs: 0.0457391
+205 206 
+#module 59 size: 2 bs: 0.0457391
+207 208 
+#module 60 size: 2 bs: 0.0457391
+209 210 
+#module 61 size: 2 bs: 0.0457391
+211 212 
+#module 62 size: 2 bs: 0.0457391
+213 214 
+#module 63 size: 2 bs: 0.045739
+215 216 
+#module 64 size: 2 bs: 0.0457391
+217 218 
+#module 65 size: 2 bs: 0.0457391
+219 220 
+#module 66 size: 2 bs: 0.0457391
+221 222 
+#module 67 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 68 size: 3 bs: 3.17359e-005
+45 62 67 
+#module 69 size: 2 bs: 1.90403e-013
+32 47 
+#module 70 size: 2 bs: 0.00316501
+43 82 
+#module 71 size: 7 bs: 0.0249599
+33 40 48 63 74 77 91 
+#module 72 size: 2 bs: 0.0317432
+19 51 
+#module 0 size: 10 bs: 0.0391755
+16 21 22 50 52 55 69 78 84 85 
+#module 1 size: 6 bs: 8.00318e-007
+33 40 48 63 74 77 
+#module 2 size: 2 bs: 1.03685e-005
+26 89 
+#module 3 size: 2 bs: 0.0119337
+29 30 
+#module 4 size: 2 bs: 6.8861e-011
+49 54 
+#module 5 size: 17 bs: 0.00572623
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 6 size: 2 bs: 0.000139367
+92 93 
+#module 7 size: 2 bs: 0.000154978
+94 95 
+#module 8 size: 2 bs: 0.00101068
+96 97 
+#module 9 size: 2 bs: 0.0597315
+98 99 
+#module 10 size: 2 bs: 0.0249185
+100 101 
+#module 11 size: 2 bs: 0.00061382
+102 103 
+#module 12 size: 4 bs: 1.5099e-014
+104 105 106 119 
+#module 13 size: 3 bs: 0.045739
+107 108 136 
+#module 14 size: 2 bs: 0.045739
+109 110 
+#module 15 size: 2 bs: 0.045739
+111 112 
+#module 16 size: 2 bs: 0.045739
+113 114 
+#module 17 size: 2 bs: 0.0457391
+115 116 
+#module 18 size: 2 bs: 0.0457391
+117 118 
+#module 19 size: 2 bs: 0.0454645
+120 121 
+#module 20 size: 2 bs: 0.045602
+122 123 
+#module 21 size: 2 bs: 0.045739
+124 125 
+#module 22 size: 2 bs: 0.0457391
+126 127 
+#module 23 size: 2 bs: 0.045739
+128 129 
+#module 24 size: 2 bs: 0.0457391
+130 131 
+#module 25 size: 2 bs: 0.045739
+132 133 
+#module 26 size: 2 bs: 0.045739
+134 135 
+#module 27 size: 2 bs: 0.045739
+137 138 
+#module 28 size: 2 bs: 0.0457391
+139 140 
+#module 29 size: 2 bs: 0.045739
+141 142 
+#module 30 size: 2 bs: 0.0457391
+143 144 
+#module 31 size: 2 bs: 0.045739
+145 146 
+#module 32 size: 2 bs: 0.0457391
+147 148 
+#module 33 size: 2 bs: 0.045739
+149 150 
+#module 34 size: 2 bs: 0.0457391
+151 152 
+#module 35 size: 2 bs: 0.045739
+153 154 
+#module 36 size: 3 bs: 0.0457391
+155 156 157 
+#module 37 size: 2 bs: 0.045739
+158 159 
+#module 38 size: 2 bs: 0.045739
+160 161 
+#module 39 size: 2 bs: 0.045739
+162 163 
+#module 40 size: 4 bs: 0.045739
+164 165 166 177 
+#module 41 size: 2 bs: 0.0457391
+167 168 
+#module 42 size: 2 bs: 0.0457391
+169 170 
+#module 43 size: 2 bs: 0.045602
+171 172 
+#module 44 size: 2 bs: 0.045739
+173 174 
+#module 45 size: 2 bs: 0.0457391
+175 176 
+#module 46 size: 2 bs: 0.045739
+178 179 
+#module 47 size: 2 bs: 0.0454645
+180 181 
+#module 48 size: 2 bs: 0.045739
+182 183 
+#module 49 size: 2 bs: 0.045739
+184 185 
+#module 50 size: 3 bs: 0.045739
+186 187 188 
+#module 51 size: 2 bs: 0.045739
+189 190 
+#module 52 size: 2 bs: 0.0457391
+191 192 
+#module 53 size: 2 bs: 0.0457391
+193 194 
+#module 54 size: 2 bs: 0.0457391
+195 196 
+#module 55 size: 2 bs: 0.045739
+197 198 
+#module 56 size: 2 bs: 0.045739
+199 200 
+#module 57 size: 2 bs: 0.0456019
+201 202 
+#module 58 size: 2 bs: 0.0457391
+203 204 
+#module 59 size: 2 bs: 0.045739
+205 206 
+#module 60 size: 2 bs: 0.045739
+207 208 
+#module 61 size: 2 bs: 0.0457391
+209 210 
+#module 62 size: 2 bs: 0.0457391
+211 212 
+#module 63 size: 2 bs: 0.0457391
+213 214 
+#module 64 size: 2 bs: 0.045739
+215 216 
+#module 65 size: 2 bs: 0.0457391
+217 218 
+#module 66 size: 2 bs: 0.0457391
+219 220 
+#module 67 size: 2 bs: 0.0457391
+221 222 
+#module 68 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 69 size: 3 bs: 3.1736e-005
+45 62 67 
+#module 70 size: 2 bs: 1.90403e-013
+32 47 
+#module 71 size: 2 bs: 0.00316501
+43 82 
+#module 0 size: 10 bs: 0.0391755
+16 21 22 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 1.03685e-005
+26 89 
+#module 2 size: 2 bs: 0.0119337
+29 30 
+#module 3 size: 2 bs: 0.0378957
+49 54 
+#module 4 size: 17 bs: 0.000139367
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 5 size: 2 bs: 0.000154978
+92 93 
+#module 6 size: 2 bs: 0.00130671
+94 95 
+#module 7 size: 2 bs: 1.5099e-014
+96 97 
+#module 8 size: 2 bs: 0.0597315
+98 99 
+#module 9 size: 2 bs: 9.85055e-005
+100 101 
+#module 10 size: 2 bs: 0.00995838
+102 103 
+#module 11 size: 4 bs: 0.00061382
+104 105 106 119 
+#module 12 size: 3 bs: 1.5099e-014
+107 108 136 
+#module 13 size: 2 bs: 0.045739
+109 110 
+#module 14 size: 2 bs: 0.045739
+111 112 
+#module 15 size: 2 bs: 0.0457391
+113 114 
+#module 16 size: 2 bs: 0.0457391
+115 116 
+#module 17 size: 2 bs: 0.045739
+117 118 
+#module 18 size: 2 bs: 0.0457391
+120 121 
+#module 19 size: 2 bs: 0.0454645
+122 123 
+#module 20 size: 2 bs: 0.0456019
+124 125 
+#module 21 size: 2 bs: 0.045739
+126 127 
+#module 22 size: 2 bs: 0.0457391
+128 129 
+#module 23 size: 2 bs: 0.045739
+130 131 
+#module 24 size: 2 bs: 0.0457391
+132 133 
+#module 25 size: 2 bs: 0.045739
+134 135 
+#module 26 size: 2 bs: 0.045739
+137 138 
+#module 27 size: 2 bs: 0.0457391
+139 140 
+#module 28 size: 2 bs: 0.045739
+141 142 
+#module 29 size: 2 bs: 0.045739
+143 144 
+#module 30 size: 2 bs: 0.045739
+145 146 
+#module 31 size: 2 bs: 0.045739
+147 148 
+#module 32 size: 2 bs: 0.0457391
+149 150 
+#module 33 size: 2 bs: 0.045739
+151 152 
+#module 34 size: 2 bs: 0.0457391
+153 154 
+#module 35 size: 3 bs: 0.045739
+155 156 157 
+#module 36 size: 2 bs: 0.045739
+158 159 
+#module 37 size: 2 bs: 0.045739
+160 161 
+#module 38 size: 2 bs: 0.045739
+162 163 
+#module 39 size: 4 bs: 0.045739
+164 165 166 177 
+#module 40 size: 2 bs: 0.045739
+167 168 
+#module 41 size: 2 bs: 0.045739
+169 170 
+#module 42 size: 2 bs: 0.045739
+171 172 
+#module 43 size: 2 bs: 0.045602
+173 174 
+#module 44 size: 2 bs: 0.045739
+175 176 
+#module 45 size: 2 bs: 0.045739
+178 179 
+#module 46 size: 2 bs: 0.0457391
+180 181 
+#module 47 size: 2 bs: 0.0454645
+182 183 
+#module 48 size: 2 bs: 0.0454645
+184 185 
+#module 49 size: 3 bs: 0.045739
+186 187 188 
+#module 50 size: 2 bs: 0.0457391
+189 190 
+#module 51 size: 2 bs: 0.045739
+191 192 
+#module 52 size: 2 bs: 0.045739
+193 194 
+#module 53 size: 2 bs: 0.045739
+195 196 
+#module 54 size: 2 bs: 0.045739
+197 198 
+#module 55 size: 2 bs: 0.0457391
+199 200 
+#module 56 size: 2 bs: 0.045739
+201 202 
+#module 57 size: 2 bs: 0.0457391
+203 204 
+#module 58 size: 2 bs: 0.045602
+205 206 
+#module 59 size: 2 bs: 0.045739
+207 208 
+#module 60 size: 2 bs: 0.045739
+209 210 
+#module 61 size: 2 bs: 0.0457391
+211 212 
+#module 62 size: 2 bs: 0.045739
+213 214 
+#module 63 size: 2 bs: 0.045739
+215 216 
+#module 64 size: 2 bs: 0.0457391
+217 218 
+#module 65 size: 2 bs: 0.0457391
+219 220 
+#module 66 size: 2 bs: 0.045739
+221 222 
+#module 67 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 68 size: 6 bs: 0.0179958
+45 62 67 70 71 87 
+#module 69 size: 2 bs: 1.38445e-013
+32 47 
+#module 70 size: 2 bs: 0.00316501
+43 82 
+#module 71 size: 7 bs: 0.0249599
+33 40 48 63 74 77 91 
+#module 0 size: 10 bs: 0.0391755
+16 21 22 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 1.03685e-005
+26 89 
+#module 2 size: 2 bs: 0.0119337
+29 30 
+#module 3 size: 2 bs: 1.5099e-014
+49 54 
+#module 4 size: 17 bs: 0.0378957
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 5 size: 2 bs: 0.000154978
+92 93 
+#module 6 size: 2 bs: 0.00130671
+94 95 
+#module 7 size: 2 bs: 0.0597315
+96 97 
+#module 8 size: 2 bs: 0.0597315
+98 99 
+#module 9 size: 2 bs: 0.000139367
+100 101 
+#module 10 size: 2 bs: 0.00995836
+102 103 
+#module 11 size: 4 bs: 0.000613821
+104 105 106 119 
+#module 12 size: 3 bs: 1.5099e-014
+107 108 136 
+#module 13 size: 2 bs: 0.045739
+109 110 
+#module 14 size: 2 bs: 0.045739
+111 112 
+#module 15 size: 2 bs: 0.045739
+113 114 
+#module 16 size: 2 bs: 0.045739
+115 116 
+#module 17 size: 2 bs: 0.0457391
+117 118 
+#module 18 size: 2 bs: 0.045739
+120 121 
+#module 19 size: 2 bs: 0.0454645
+122 123 
+#module 20 size: 2 bs: 0.045602
+124 125 
+#module 21 size: 2 bs: 0.0457391
+126 127 
+#module 22 size: 2 bs: 0.0457391
+128 129 
+#module 23 size: 2 bs: 0.045739
+130 131 
+#module 24 size: 2 bs: 0.045739
+132 133 
+#module 25 size: 2 bs: 0.045739
+134 135 
+#module 26 size: 2 bs: 0.045739
+137 138 
+#module 27 size: 2 bs: 0.0457391
+139 140 
+#module 28 size: 2 bs: 0.045739
+141 142 
+#module 29 size: 2 bs: 0.045739
+143 144 
+#module 30 size: 2 bs: 0.0457391
+145 146 
+#module 31 size: 2 bs: 0.045739
+147 148 
+#module 32 size: 2 bs: 0.045739
+149 150 
+#module 33 size: 2 bs: 0.045739
+151 152 
+#module 34 size: 2 bs: 0.045739
+153 154 
+#module 35 size: 3 bs: 0.045739
+155 156 157 
+#module 36 size: 2 bs: 0.045739
+158 159 
+#module 37 size: 2 bs: 0.045739
+160 161 
+#module 38 size: 2 bs: 0.045739
+162 163 
+#module 39 size: 4 bs: 0.0457391
+164 165 166 177 
+#module 40 size: 2 bs: 0.0457391
+167 168 
+#module 41 size: 2 bs: 0.045739
+169 170 
+#module 42 size: 2 bs: 0.045739
+171 172 
+#module 43 size: 2 bs: 0.0456019
+173 174 
+#module 44 size: 2 bs: 0.0457391
+175 176 
+#module 45 size: 2 bs: 0.045739
+178 179 
+#module 46 size: 2 bs: 0.045739
+180 181 
+#module 47 size: 2 bs: 0.0454645
+182 183 
+#module 48 size: 2 bs: 0.045739
+184 185 
+#module 49 size: 3 bs: 0.045739
+186 187 188 
+#module 50 size: 2 bs: 0.045739
+189 190 
+#module 51 size: 2 bs: 0.0457391
+191 192 
+#module 52 size: 2 bs: 0.045739
+193 194 
+#module 53 size: 2 bs: 0.045739
+195 196 
+#module 54 size: 2 bs: 0.045739
+197 198 
+#module 55 size: 2 bs: 0.045739
+199 200 
+#module 56 size: 2 bs: 0.045739
+201 202 
+#module 57 size: 2 bs: 0.045602
+203 204 
+#module 58 size: 2 bs: 0.0457391
+205 206 
+#module 59 size: 2 bs: 0.0457391
+207 208 
+#module 60 size: 2 bs: 0.0457391
+209 210 
+#module 61 size: 2 bs: 0.045739
+211 212 
+#module 62 size: 2 bs: 0.0457391
+213 214 
+#module 63 size: 2 bs: 0.0457391
+215 216 
+#module 64 size: 2 bs: 0.045739
+217 218 
+#module 65 size: 2 bs: 0.0457391
+219 220 
+#module 66 size: 2 bs: 0.045739
+221 222 
+#module 67 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 68 size: 3 bs: 3.1736e-005
+45 62 67 
+#module 69 size: 2 bs: 1.38445e-013
+32 47 
+#module 70 size: 2 bs: 0.00316501
+43 82 
+#module 71 size: 7 bs: 0.0249599
+33 40 48 63 74 77 91 
+#module 0 size: 11 bs: 0.0107508
+16 21 22 37 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 1.03685e-005
+26 89 
+#module 2 size: 2 bs: 0.07128
+49 54 
+#module 3 size: 2 bs: 0.0158845
+29 30 
+#module 4 size: 17 bs: 0.0249185
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 5 size: 2 bs: 0.000154978
+92 93 
+#module 6 size: 2 bs: 0.00101068
+94 95 
+#module 7 size: 2 bs: 1.5099e-014
+96 97 
+#module 8 size: 2 bs: 0.0597315
+98 99 
+#module 9 size: 2 bs: 0.0597314
+100 101 
+#module 10 size: 2 bs: 0.000139367
+102 103 
+#module 11 size: 4 bs: 0.00061382
+104 105 106 119 
+#module 12 size: 3 bs: 1.5099e-014
+107 108 136 
+#module 13 size: 2 bs: 0.045739
+109 110 
+#module 14 size: 2 bs: 0.045739
+111 112 
+#module 15 size: 2 bs: 0.0457391
+113 114 
+#module 16 size: 2 bs: 0.045739
+115 116 
+#module 17 size: 2 bs: 0.045739
+117 118 
+#module 18 size: 2 bs: 0.0457391
+120 121 
+#module 19 size: 2 bs: 0.0454645
+122 123 
+#module 20 size: 2 bs: 0.0456019
+124 125 
+#module 21 size: 2 bs: 0.0457391
+126 127 
+#module 22 size: 2 bs: 0.0457391
+128 129 
+#module 23 size: 2 bs: 0.0457391
+130 131 
+#module 24 size: 2 bs: 0.045739
+132 133 
+#module 25 size: 2 bs: 0.045739
+134 135 
+#module 26 size: 2 bs: 0.0457391
+137 138 
+#module 27 size: 2 bs: 0.045739
+139 140 
+#module 28 size: 2 bs: 0.045739
+141 142 
+#module 29 size: 2 bs: 0.045739
+143 144 
+#module 30 size: 2 bs: 0.0457391
+145 146 
+#module 31 size: 2 bs: 0.0457391
+147 148 
+#module 32 size: 2 bs: 0.045739
+149 150 
+#module 33 size: 2 bs: 0.0457391
+151 152 
+#module 34 size: 2 bs: 0.045739
+153 154 
+#module 35 size: 3 bs: 0.045739
+155 156 157 
+#module 36 size: 2 bs: 0.045739
+158 159 
+#module 37 size: 2 bs: 0.045739
+160 161 
+#module 38 size: 2 bs: 0.045739
+162 163 
+#module 39 size: 4 bs: 0.045739
+164 165 166 177 
+#module 40 size: 2 bs: 0.0457391
+167 168 
+#module 41 size: 2 bs: 0.045739
+169 170 
+#module 42 size: 2 bs: 0.045739
+171 172 
+#module 43 size: 2 bs: 0.0456019
+173 174 
+#module 44 size: 2 bs: 0.0457391
+175 176 
+#module 45 size: 2 bs: 0.045739
+178 179 
+#module 46 size: 2 bs: 0.045739
+180 181 
+#module 47 size: 2 bs: 0.0454645
+182 183 
+#module 48 size: 2 bs: 0.045739
+184 185 
+#module 49 size: 3 bs: 0.0457391
+186 187 188 
+#module 50 size: 2 bs: 0.045739
+189 190 
+#module 51 size: 2 bs: 0.0457391
+191 192 
+#module 52 size: 2 bs: 0.045739
+193 194 
+#module 53 size: 2 bs: 0.045739
+195 196 
+#module 54 size: 2 bs: 0.045739
+197 198 
+#module 55 size: 2 bs: 0.0457391
+199 200 
+#module 56 size: 2 bs: 0.0457391
+201 202 
+#module 57 size: 2 bs: 0.045602
+203 204 
+#module 58 size: 2 bs: 0.045739
+205 206 
+#module 59 size: 2 bs: 0.045739
+207 208 
+#module 60 size: 2 bs: 0.0457391
+209 210 
+#module 61 size: 2 bs: 0.045739
+211 212 
+#module 62 size: 2 bs: 0.045739
+213 214 
+#module 63 size: 2 bs: 0.0457391
+215 216 
+#module 64 size: 2 bs: 0.0457391
+217 218 
+#module 65 size: 2 bs: 0.0457391
+219 220 
+#module 66 size: 2 bs: 0.045739
+221 222 
+#module 67 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 68 size: 3 bs: 3.17359e-005
+45 62 67 
+#module 69 size: 2 bs: 1.90403e-013
+32 47 
+#module 70 size: 2 bs: 0.00316501
+43 82 
+#module 71 size: 7 bs: 0.0249599
+33 40 48 63 74 77 91 
+#module 0 size: 10 bs: 0.0391755
+16 21 22 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 1.47264e-006
+26 89 
+#module 2 size: 2 bs: 0.0119337
+29 30 
+#module 3 size: 2 bs: 0.00572623
+49 54 
+#module 4 size: 17 bs: 0.000154978
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 5 size: 2 bs: 0.00017216
+92 93 
+#module 6 size: 2 bs: 1.5099e-014
+94 95 
+#module 7 size: 2 bs: 6.13603e-007
+96 97 
+#module 8 size: 2 bs: 0.0249185
+98 99 
+#module 9 size: 2 bs: 0.000613821
+100 101 
+#module 10 size: 2 bs: 0.000139367
+102 103 
+#module 11 size: 4 bs: 1.5099e-014
+104 105 106 119 
+#module 12 size: 3 bs: 0.0457391
+107 108 136 
+#module 13 size: 2 bs: 0.0457391
+109 110 
+#module 14 size: 2 bs: 0.0457391
+111 112 
+#module 15 size: 2 bs: 0.045739
+113 114 
+#module 16 size: 2 bs: 0.045739
+115 116 
+#module 17 size: 2 bs: 0.045739
+117 118 
+#module 18 size: 2 bs: 0.0454645
+120 121 
+#module 19 size: 2 bs: 0.0456019
+122 123 
+#module 20 size: 2 bs: 0.045739
+124 125 
+#module 21 size: 2 bs: 0.0457391
+126 127 
+#module 22 size: 2 bs: 0.0457391
+128 129 
+#module 23 size: 2 bs: 0.045739
+130 131 
+#module 24 size: 2 bs: 0.045739
+132 133 
+#module 25 size: 2 bs: 0.0457391
+134 135 
+#module 26 size: 2 bs: 0.045739
+137 138 
+#module 27 size: 2 bs: 0.045739
+139 140 
+#module 28 size: 2 bs: 0.045739
+141 142 
+#module 29 size: 2 bs: 0.045739
+143 144 
+#module 30 size: 2 bs: 0.045739
+145 146 
+#module 31 size: 2 bs: 0.0457391
+147 148 
+#module 32 size: 2 bs: 0.0457391
+149 150 
+#module 33 size: 2 bs: 0.045739
+151 152 
+#module 34 size: 2 bs: 0.045739
+153 154 
+#module 35 size: 3 bs: 0.045739
+155 156 157 
+#module 36 size: 2 bs: 0.0457391
+158 159 
+#module 37 size: 2 bs: 0.045739
+160 161 
+#module 38 size: 2 bs: 0.0457391
+162 163 
+#module 39 size: 4 bs: 0.045739
+164 165 166 177 
+#module 40 size: 2 bs: 0.045739
+167 168 
+#module 41 size: 2 bs: 0.045739
+169 170 
+#module 42 size: 2 bs: 0.0456019
+171 172 
+#module 43 size: 2 bs: 0.045739
+173 174 
+#module 44 size: 2 bs: 0.0457391
+175 176 
+#module 45 size: 2 bs: 0.045739
+178 179 
+#module 46 size: 2 bs: 0.0454645
+180 181 
+#module 47 size: 2 bs: 0.045739
+182 183 
+#module 48 size: 2 bs: 0.045739
+184 185 
+#module 49 size: 3 bs: 0.045739
+186 187 188 
+#module 50 size: 2 bs: 0.0457391
+189 190 
+#module 51 size: 2 bs: 0.0457391
+191 192 
+#module 52 size: 2 bs: 0.0457391
+193 194 
+#module 53 size: 2 bs: 0.045739
+195 196 
+#module 54 size: 2 bs: 0.045739
+197 198 
+#module 55 size: 2 bs: 0.0457391
+199 200 
+#module 56 size: 2 bs: 0.0456019
+201 202 
+#module 57 size: 2 bs: 0.0457391
+203 204 
+#module 58 size: 2 bs: 0.045739
+205 206 
+#module 59 size: 2 bs: 0.0457391
+207 208 
+#module 60 size: 2 bs: 0.045739
+209 210 
+#module 61 size: 2 bs: 0.045739
+211 212 
+#module 62 size: 2 bs: 0.0457391
+213 214 
+#module 63 size: 2 bs: 0.0457391
+215 216 
+#module 64 size: 2 bs: 0.045739
+217 218 
+#module 65 size: 2 bs: 0.045739
+219 220 
+#module 66 size: 2 bs: 0.0457391
+221 222 
+#module 67 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 68 size: 6 bs: 0.0179958
+45 62 67 70 71 87 
+#module 69 size: 2 bs: 1.90403e-013
+32 47 
+#module 70 size: 2 bs: 0.00316501
+43 82 
+#module 71 size: 7 bs: 0.0249599
+33 40 48 63 74 77 91 
+#module 0 size: 10 bs: 0.0391755
+16 21 22 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 1.47264e-006
+26 89 
+#module 2 size: 2 bs: 0.0119337
+29 30 
+#module 3 size: 2 bs: 0.0158845
+49 54 
+#module 4 size: 17 bs: 0.0378958
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 5 size: 2 bs: 0.000154978
+92 93 
+#module 6 size: 2 bs: 0.00103146
+94 95 
+#module 7 size: 2 bs: 0.00995839
+96 97 
+#module 8 size: 2 bs: 0.0597315
+98 99 
+#module 9 size: 2 bs: 0.0597315
+100 101 
+#module 10 size: 2 bs: 0.000139367
+102 103 
+#module 11 size: 4 bs: 0.00061382
+104 105 106 119 
+#module 12 size: 3 bs: 1.5099e-014
+107 108 136 
+#module 13 size: 2 bs: 0.0457391
+109 110 
+#module 14 size: 2 bs: 0.0457391
+111 112 
+#module 15 size: 2 bs: 0.0457391
+113 114 
+#module 16 size: 2 bs: 0.0457391
+115 116 
+#module 17 size: 2 bs: 0.045739
+117 118 
+#module 18 size: 2 bs: 0.0457391
+120 121 
+#module 19 size: 2 bs: 0.0454645
+122 123 
+#module 20 size: 2 bs: 0.0456019
+124 125 
+#module 21 size: 2 bs: 0.0457391
+126 127 
+#module 22 size: 2 bs: 0.0457391
+128 129 
+#module 23 size: 2 bs: 0.045739
+130 131 
+#module 24 size: 2 bs: 0.045739
+132 133 
+#module 25 size: 2 bs: 0.0457391
+134 135 
+#module 26 size: 2 bs: 0.045739
+137 138 
+#module 27 size: 2 bs: 0.045739
+139 140 
+#module 28 size: 2 bs: 0.045739
+141 142 
+#module 29 size: 2 bs: 0.0457391
+143 144 
+#module 30 size: 2 bs: 0.0457391
+145 146 
+#module 31 size: 2 bs: 0.045739
+147 148 
+#module 32 size: 2 bs: 0.045739
+149 150 
+#module 33 size: 2 bs: 0.045739
+151 152 
+#module 34 size: 2 bs: 0.0457391
+153 154 
+#module 35 size: 3 bs: 0.0457391
+155 156 157 
+#module 36 size: 2 bs: 0.0457391
+158 159 
+#module 37 size: 2 bs: 0.045739
+160 161 
+#module 38 size: 2 bs: 0.045739
+162 163 
+#module 39 size: 4 bs: 0.045739
+164 165 166 177 
+#module 40 size: 2 bs: 0.045739
+167 168 
+#module 41 size: 2 bs: 0.045739
+169 170 
+#module 42 size: 2 bs: 0.045739
+171 172 
+#module 43 size: 2 bs: 0.0456019
+173 174 
+#module 44 size: 2 bs: 0.0457391
+175 176 
+#module 45 size: 2 bs: 0.0457391
+178 179 
+#module 46 size: 2 bs: 0.045739
+180 181 
+#module 47 size: 2 bs: 0.0454645
+182 183 
+#module 48 size: 2 bs: 0.045739
+184 185 
+#module 49 size: 3 bs: 0.045739
+186 187 188 
+#module 50 size: 2 bs: 0.045739
+189 190 
+#module 51 size: 2 bs: 0.045739
+191 192 
+#module 52 size: 2 bs: 0.045739
+193 194 
+#module 53 size: 2 bs: 0.045739
+195 196 
+#module 54 size: 2 bs: 0.045739
+197 198 
+#module 55 size: 2 bs: 0.045739
+199 200 
+#module 56 size: 2 bs: 0.045739
+201 202 
+#module 57 size: 2 bs: 0.0456019
+203 204 
+#module 58 size: 2 bs: 0.045739
+205 206 
+#module 59 size: 2 bs: 0.045739
+207 208 
+#module 60 size: 2 bs: 0.0457391
+209 210 
+#module 61 size: 2 bs: 0.0457391
+211 212 
+#module 62 size: 2 bs: 0.045739
+213 214 
+#module 63 size: 2 bs: 0.0457391
+215 216 
+#module 64 size: 2 bs: 0.045739
+217 218 
+#module 65 size: 2 bs: 0.045739
+219 220 
+#module 66 size: 2 bs: 0.045739
+221 222 
+#module 67 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 68 size: 3 bs: 3.17359e-005
+45 62 67 
+#module 69 size: 2 bs: 1.90403e-013
+32 47 
+#module 70 size: 2 bs: 0.00316501
+43 82 
+#module 71 size: 7 bs: 0.0249599
+33 40 48 63 74 77 91 
+#module 0 size: 10 bs: 0.0391754
+16 21 22 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 1.03685e-005
+26 89 
+#module 2 size: 2 bs: 0.0119337
+29 30 
+#module 3 size: 2 bs: 0.00572623
+49 54 
+#module 4 size: 17 bs: 0.000139367
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 5 size: 2 bs: 0.000154978
+92 93 
+#module 6 size: 2 bs: 0.00130671
+94 95 
+#module 7 size: 2 bs: 1.5099e-014
+96 97 
+#module 8 size: 2 bs: 0.0597314
+98 99 
+#module 9 size: 2 bs: 9.85055e-005
+100 101 
+#module 10 size: 2 bs: 0.00995838
+102 103 
+#module 11 size: 4 bs: 0.000613821
+104 105 106 119 
+#module 12 size: 3 bs: 1.5099e-014
+107 108 136 
+#module 13 size: 2 bs: 0.045739
+109 110 
+#module 14 size: 2 bs: 0.045739
+111 112 
+#module 15 size: 2 bs: 0.0457391
+113 114 
+#module 16 size: 2 bs: 0.0457391
+115 116 
+#module 17 size: 2 bs: 0.0457391
+117 118 
+#module 18 size: 2 bs: 0.045739
+120 121 
+#module 19 size: 2 bs: 0.0454645
+122 123 
+#module 20 size: 2 bs: 0.0456019
+124 125 
+#module 21 size: 2 bs: 0.045739
+126 127 
+#module 22 size: 2 bs: 0.045739
+128 129 
+#module 23 size: 2 bs: 0.045739
+130 131 
+#module 24 size: 2 bs: 0.045739
+132 133 
+#module 25 size: 2 bs: 0.0457391
+134 135 
+#module 26 size: 2 bs: 0.045739
+137 138 
+#module 27 size: 2 bs: 0.045739
+139 140 
+#module 28 size: 2 bs: 0.0457391
+141 142 
+#module 29 size: 2 bs: 0.0457391
+143 144 
+#module 30 size: 2 bs: 0.045739
+145 146 
+#module 31 size: 2 bs: 0.0457391
+147 148 
+#module 32 size: 2 bs: 0.045739
+149 150 
+#module 33 size: 2 bs: 0.045739
+151 152 
+#module 34 size: 2 bs: 0.045739
+153 154 
+#module 35 size: 3 bs: 0.045739
+155 156 157 
+#module 36 size: 2 bs: 0.045739
+158 159 
+#module 37 size: 2 bs: 0.0457391
+160 161 
+#module 38 size: 2 bs: 0.0457391
+162 163 
+#module 39 size: 4 bs: 0.0457391
+164 165 166 177 
+#module 40 size: 2 bs: 0.0457391
+167 168 
+#module 41 size: 2 bs: 0.045739
+169 170 
+#module 42 size: 2 bs: 0.045739
+171 172 
+#module 43 size: 2 bs: 0.0456019
+173 174 
+#module 44 size: 2 bs: 0.045739
+175 176 
+#module 45 size: 2 bs: 0.0457391
+178 179 
+#module 46 size: 2 bs: 0.045739
+180 181 
+#module 47 size: 2 bs: 0.0454645
+182 183 
+#module 48 size: 2 bs: 0.045739
+184 185 
+#module 49 size: 3 bs: 0.045739
+186 187 188 
+#module 50 size: 2 bs: 0.045739
+189 190 
+#module 51 size: 2 bs: 0.045739
+191 192 
+#module 52 size: 2 bs: 0.045739
+193 194 
+#module 53 size: 2 bs: 0.0457391
+195 196 
+#module 54 size: 2 bs: 0.045739
+197 198 
+#module 55 size: 2 bs: 0.0457391
+199 200 
+#module 56 size: 2 bs: 0.0457391
+201 202 
+#module 57 size: 2 bs: 0.0456019
+203 204 
+#module 58 size: 2 bs: 0.045739
+205 206 
+#module 59 size: 2 bs: 0.045739
+207 208 
+#module 60 size: 2 bs: 0.0457391
+209 210 
+#module 61 size: 2 bs: 0.045739
+211 212 
+#module 62 size: 2 bs: 0.045739
+213 214 
+#module 63 size: 2 bs: 0.045739
+215 216 
+#module 64 size: 2 bs: 0.0457391
+217 218 
+#module 65 size: 2 bs: 0.045739
+219 220 
+#module 66 size: 2 bs: 0.0457391
+221 222 
+#module 67 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 68 size: 6 bs: 0.0179958
+45 62 67 70 71 87 
+#module 69 size: 2 bs: 1.38445e-013
+32 47 
+#module 70 size: 2 bs: 0.00316501
+43 82 
+#module 71 size: 7 bs: 0.0249599
+33 40 48 63 74 77 91 
+#module 0 size: 10 bs: 0.0391754
+16 21 22 50 52 55 69 78 84 85 
+#module 1 size: 2 bs: 0.0102888
+26 89 
+#module 2 size: 2 bs: 0.0158845
+29 30 
+#module 3 size: 2 bs: 0.0597314
+49 54 
+#module 4 size: 2 bs: 0.00017216
+92 93 
+#module 5 size: 2 bs: 1.5099e-014
+94 95 
+#module 6 size: 2 bs: 6.13604e-007
+96 97 
+#module 7 size: 2 bs: 0.00995838
+98 99 
+#module 8 size: 2 bs: 0.00061382
+100 101 
+#module 9 size: 2 bs: 0.0386084
+102 103 
+#module 10 size: 4 bs: 1.5099e-014
+104 105 106 119 
+#module 11 size: 3 bs: 0.045739
+107 108 136 
+#module 12 size: 2 bs: 0.0457391
+109 110 
+#module 13 size: 2 bs: 0.045739
+111 112 
+#module 14 size: 2 bs: 0.045739
+113 114 
+#module 15 size: 2 bs: 0.0457391
+115 116 
+#module 16 size: 2 bs: 0.045739
+117 118 
+#module 17 size: 2 bs: 0.0454645
+120 121 
+#module 18 size: 2 bs: 0.0456019
+122 123 
+#module 19 size: 2 bs: 0.045739
+124 125 
+#module 20 size: 2 bs: 0.0457391
+126 127 
+#module 21 size: 2 bs: 0.0457391
+128 129 
+#module 22 size: 2 bs: 0.045739
+130 131 
+#module 23 size: 2 bs: 0.045739
+132 133 
+#module 24 size: 2 bs: 0.0457391
+134 135 
+#module 25 size: 2 bs: 0.0457391
+137 138 
+#module 26 size: 2 bs: 0.045739
+139 140 
+#module 27 size: 2 bs: 0.045739
+141 142 
+#module 28 size: 2 bs: 0.0457391
+143 144 
+#module 29 size: 2 bs: 0.045739
+145 146 
+#module 30 size: 2 bs: 0.0457391
+147 148 
+#module 31 size: 2 bs: 0.045739
+149 150 
+#module 32 size: 2 bs: 0.045739
+151 152 
+#module 33 size: 2 bs: 0.045739
+153 154 
+#module 34 size: 3 bs: 0.045739
+155 156 157 
+#module 35 size: 2 bs: 0.0457391
+158 159 
+#module 36 size: 2 bs: 0.0457391
+160 161 
+#module 37 size: 2 bs: 0.0457391
+162 163 
+#module 38 size: 4 bs: 0.045739
+164 165 166 177 
+#module 39 size: 2 bs: 0.045739
+167 168 
+#module 40 size: 2 bs: 0.0457391
+169 170 
+#module 41 size: 2 bs: 0.0456019
+171 172 
+#module 42 size: 2 bs: 0.045739
+173 174 
+#module 43 size: 2 bs: 0.0457391
+175 176 
+#module 44 size: 2 bs: 0.045739
+178 179 
+#module 45 size: 2 bs: 0.0454645
+180 181 
+#module 46 size: 2 bs: 0.045739
+182 183 
+#module 47 size: 2 bs: 0.045739
+184 185 
+#module 48 size: 3 bs: 0.045739
+186 187 188 
+#module 49 size: 2 bs: 0.045739
+189 190 
+#module 50 size: 2 bs: 0.045739
+191 192 
+#module 51 size: 2 bs: 0.045739
+193 194 
+#module 52 size: 2 bs: 0.045739
+195 196 
+#module 53 size: 2 bs: 0.045739
+197 198 
+#module 54 size: 2 bs: 0.045739
+199 200 
+#module 55 size: 2 bs: 0.0456019
+201 202 
+#module 56 size: 2 bs: 0.045739
+203 204 
+#module 57 size: 2 bs: 0.045739
+205 206 
+#module 58 size: 2 bs: 0.0457391
+207 208 
+#module 59 size: 2 bs: 0.045739
+209 210 
+#module 60 size: 2 bs: 0.045739
+211 212 
+#module 61 size: 2 bs: 0.045739
+213 214 
+#module 62 size: 2 bs: 0.0457391
+215 216 
+#module 63 size: 2 bs: 0.045739
+217 218 
+#module 64 size: 2 bs: 0.0457391
+219 220 
+#module 65 size: 2 bs: 0.045739
+221 222 
+#module 66 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 67 size: 3 bs: 3.1736e-005
+45 62 67 
+#module 68 size: 2 bs: 1.38445e-013
+32 47 
+#module 69 size: 2 bs: 0.00316501
+43 82 
+#module 70 size: 7 bs: 0.0249599
+33 40 48 63 74 77 91 
+#module 71 size: 18 bs: 0.0400082
+24 42 44 53 56 57 58 59 64 68 72 75 76 78 79 80 83 90 
+#module 0 size: 11 bs: 0.0391754
+16 21 22 37 50 52 55 69 78 84 85 
+#module 1 size: 6 bs: 7.8905e-010
+33 40 48 63 74 77 
+#module 2 size: 2 bs: 0.0712799
+26 89 
+#module 3 size: 2 bs: 0.0312536
+29 30 
+#module 4 size: 2 bs: 0.00572624
+49 54 
+#module 5 size: 17 bs: 0.000154978
+24 42 44 53 56 57 58 64 68 72 75 76 78 79 80 83 90 
+#module 6 size: 5 bs: 0.00103146
+59 65 76 86 90 
+#module 7 size: 2 bs: 0.0597315
+92 93 
+#module 8 size: 2 bs: 0.0597315
+94 95 
+#module 9 size: 2 bs: 0.0249185
+96 97 
+#module 10 size: 2 bs: 0.000613822
+98 99 
+#module 11 size: 2 bs: 0.0808971
+100 101 
+#module 12 size: 2 bs: 1.5099e-014
+102 103 
+#module 13 size: 4 bs: 0.0457391
+104 105 106 119 
+#module 14 size: 3 bs: 0.045739
+107 108 136 
+#module 15 size: 2 bs: 0.0457391
+109 110 
+#module 16 size: 2 bs: 0.045739
+111 112 
+#module 17 size: 2 bs: 0.045739
+113 114 
+#module 18 size: 2 bs: 0.045739
+115 116 
+#module 19 size: 2 bs: 0.0454645
+117 118 
+#module 20 size: 2 bs: 0.0454645
+120 121 
+#module 21 size: 2 bs: 0.0456019
+122 123 
+#module 22 size: 2 bs: 0.045739
+124 125 
+#module 23 size: 2 bs: 0.045739
+126 127 
+#module 24 size: 2 bs: 0.045739
+128 129 
+#module 25 size: 2 bs: 0.045739
+130 131 
+#module 26 size: 2 bs: 0.045739
+132 133 
+#module 27 size: 2 bs: 0.0457391
+134 135 
+#module 28 size: 2 bs: 0.045739
+137 138 
+#module 29 size: 2 bs: 0.045739
+139 140 
+#module 30 size: 2 bs: 0.045739
+141 142 
+#module 31 size: 2 bs: 0.0457391
+143 144 
+#module 32 size: 2 bs: 0.045739
+145 146 
+#module 33 size: 2 bs: 0.045739
+147 148 
+#module 34 size: 2 bs: 0.0457391
+149 150 
+#module 35 size: 2 bs: 0.045739
+151 152 
+#module 36 size: 2 bs: 0.045739
+153 154 
+#module 37 size: 3 bs: 0.045739
+155 156 157 
+#module 38 size: 2 bs: 0.045739
+158 159 
+#module 39 size: 2 bs: 0.045739
+160 161 
+#module 40 size: 2 bs: 0.0457391
+162 163 
+#module 41 size: 4 bs: 0.045739
+164 165 166 177 
+#module 42 size: 2 bs: 0.0457391
+167 168 
+#module 43 size: 2 bs: 0.045739
+169 170 
+#module 44 size: 2 bs: 0.0456019
+171 172 
+#module 45 size: 2 bs: 0.045739
+173 174 
+#module 46 size: 2 bs: 0.0457391
+175 176 
+#module 47 size: 2 bs: 0.0457391
+178 179 
+#module 48 size: 2 bs: 0.0454645
+180 181 
+#module 49 size: 2 bs: 0.045739
+182 183 
+#module 50 size: 2 bs: 0.0457391
+184 185 
+#module 51 size: 3 bs: 0.0457391
+186 187 188 
+#module 52 size: 2 bs: 0.0457391
+189 190 
+#module 53 size: 2 bs: 0.0457391
+191 192 
+#module 54 size: 2 bs: 0.0457391
+193 194 
+#module 55 size: 2 bs: 0.045739
+195 196 
+#module 56 size: 2 bs: 0.045739
+197 198 
+#module 57 size: 2 bs: 0.045739
+199 200 
+#module 58 size: 2 bs: 0.0456019
+201 202 
+#module 59 size: 2 bs: 0.045739
+203 204 
+#module 60 size: 2 bs: 0.0457391
+205 206 
+#module 61 size: 2 bs: 0.045739
+207 208 
+#module 62 size: 2 bs: 0.0457391
+209 210 
+#module 63 size: 2 bs: 0.045739
+211 212 
+#module 64 size: 2 bs: 0.0457391
+213 214 
+#module 65 size: 2 bs: 0.0457391
+215 216 
+#module 66 size: 2 bs: 0.045739
+217 218 
+#module 67 size: 2 bs: 0.045739
+219 220 
+#module 68 size: 2 bs: 0.045739
+221 222 
+#module 69 size: 4 bs: 0.0223152
+41 60 61 88 
+#module 70 size: 3 bs: 3.1736e-005
+45 62 67 
+#module 71 size: 2 bs: 1.38445e-013
+32 47 
+#module 72 size: 2 bs: 0.00316501
+43 82 
